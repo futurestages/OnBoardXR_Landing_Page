@@ -1,0 +1,493 @@
+{
+    "cardList": [
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "ad aute",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "exercitation",
+          "tempor",
+          "amet",
+          "proident",
+          "pariatur",
+          "ullamco",
+          "eiusmod"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "pariatur sit",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "ipsum",
+          "ea",
+          "aliqua",
+          "amet",
+          "do",
+          "consequat",
+          "do"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "anim excepteur",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "ex",
+          "consequat",
+          "ex",
+          "amet",
+          "veniam",
+          "exercitation",
+          "pariatur"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "excepteur sit",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "irure",
+          "sit",
+          "ad",
+          "culpa",
+          "est",
+          "ex",
+          "elit"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "ea labore",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "ullamco",
+          "enim",
+          "aute",
+          "in",
+          "sit",
+          "voluptate",
+          "magna"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "non qui",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "duis",
+          "elit",
+          "amet",
+          "commodo",
+          "labore",
+          "quis",
+          "in"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "laboris duis",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "proident",
+          "nulla",
+          "eu",
+          "ipsum",
+          "Lorem",
+          "anim",
+          "non"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "sit veniam",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "laboris",
+          "adipisicing",
+          "exercitation",
+          "velit",
+          "anim",
+          "voluptate",
+          "esse"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "dolor excepteur",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "culpa",
+          "dolore",
+          "dolore",
+          "amet",
+          "nostrud",
+          "voluptate",
+          "eiusmod"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "aute eiusmod",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "dolore",
+          "sit",
+          "nostrud",
+          "sit",
+          "quis",
+          "sunt",
+          "id"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "et ad",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "quis",
+          "fugiat",
+          "dolore",
+          "elit",
+          "sit",
+          "excepteur",
+          "qui"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "deserunt officia",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "mollit",
+          "sint",
+          "proident",
+          "aute",
+          "cillum",
+          "dolor",
+          "adipisicing"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "sit minim",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "ipsum",
+          "do",
+          "laborum",
+          "reprehenderit",
+          "et",
+          "adipisicing",
+          "irure"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "excepteur ex",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "est",
+          "officia",
+          "aute",
+          "dolor",
+          "sit",
+          "reprehenderit",
+          "consectetur"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "duis nisi",
+        "category": "lobbies",
+        "link": "/link",
+        "tags": [
+          "consectetur",
+          "laborum",
+          "sunt",
+          "aliqua",
+          "id",
+          "nisi",
+          "voluptate"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "consequat excepteur",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "ea",
+          "duis",
+          "consequat",
+          "dolore",
+          "consectetur",
+          "amet",
+          "nostrud"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "exercitation magna",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "adipisicing",
+          "nostrud",
+          "in",
+          "sit",
+          "nulla",
+          "consequat",
+          "elit"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "enim deserunt",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "id",
+          "adipisicing",
+          "sunt",
+          "ea",
+          "nisi",
+          "eiusmod",
+          "dolore"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "occaecat cupidatat",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "officia",
+          "et",
+          "esse",
+          "ullamco",
+          "cillum",
+          "adipisicing",
+          "aliqua"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "nostrud magna",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "reprehenderit",
+          "laboris",
+          "culpa",
+          "velit",
+          "dolor",
+          "amet",
+          "elit"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "consequat tempor",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "cupidatat",
+          "exercitation",
+          "fugiat",
+          "elit",
+          "exercitation",
+          "ex",
+          "incididunt"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "aliquip in",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "nisi",
+          "ex",
+          "laboris",
+          "et",
+          "exercitation",
+          "incididunt",
+          "ipsum"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "nulla enim",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "voluptate",
+          "velit",
+          "officia",
+          "labore",
+          "reprehenderit",
+          "mollit",
+          "fugiat"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "consectetur id",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "consequat",
+          "commodo",
+          "est",
+          "ullamco",
+          "sint",
+          "cupidatat",
+          "aliqua"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "laboris enim",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "esse",
+          "ullamco",
+          "incididunt",
+          "est",
+          "consequat",
+          "amet",
+          "non"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "esse laborum",
+        "category": "clips",
+        "link": "/link",
+        "tags": [
+          "et",
+          "nulla",
+          "aute",
+          "aute",
+          "voluptate",
+          "enim",
+          "culpa"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "ullamco ullamco",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "velit",
+          "laboris",
+          "ad",
+          "exercitation",
+          "excepteur",
+          "ad",
+          "dolore"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "eiusmod sunt",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "anim",
+          "est",
+          "labore",
+          "eu",
+          "ut",
+          "officia",
+          "veniam"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "aliquip dolore",
+        "category": "shows",
+        "link": "/link",
+        "tags": [
+          "ad",
+          "enim",
+          "ullamco",
+          "ex",
+          "duis",
+          "minim",
+          "id"
+        ]
+      }
+      
+    ],
+    "haveacodeLink": "/link",
+    "navBar": [
+      {
+        "name": "Main Lobby",
+        "link": "#"
+      },
+      {
+        "name": "Tickets",
+        "link": 3
+      },
+      {
+        "name": "Submit",
+        "link": "#"
+      },
+      {
+        "name": "Documentation",
+        "link": "#"
+      },
+      {
+        "name": "About",
+        "link": "#"
+      }
+    ],
+    "about": "commodo incididunt voluptate id reprehenderit adipisicing enim et deserunt voluptate laboris ipsum qui sint et in nulla proident qui irure"
+  }
