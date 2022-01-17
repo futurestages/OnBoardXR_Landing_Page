@@ -470,18 +470,18 @@
     "navBar": [
       {
         "name": "Main Lobby",
-        "link": "#"
+        "link": "https://xrtheater.live/"
       },
       {
         "name": "Tickets",
-        "link": 3
+        "link": "https://everythingimmersive.com/events/onboard"
       },
       {
         "name": "Submit",
         "link": "#"
       },
       {
-        "name": "Documentation",
+        "name": "Docs",
         "link": "#"
       },
       {
