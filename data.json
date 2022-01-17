@@ -2,10 +2,10 @@
     "cardList": [
       {
         "image": "https://media4.giphy.com/media/iTUNh2nmEq5JKTt2AO/giphy.gif?cid=bb5a1c3a21ptz4om03ebbhssx5f2dzzzhcnbau5chtjvgqn1&rid=giphy.gif",
-        "heading": "Test Test",
-        "name": "ad aute",
+        "heading": "Tyreek Hill",
+        "name": "Testing some text to see how it appears.",
         "category": "shows",
-        "link": "/link",
+        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
         "tags": [
           "exercitation",
           "tempor",
