@@ -1,14 +1,14 @@
 {
   "masterCard":{
     "image": "https://media.giphy.com/media/TiyoqQmwb5ufup0xn5/giphy.gif",
-    "heading": "Headding of the card item",
-    "name": "ad aute",
+    "heading": "Test your controls and settings",
+    "name": "Test Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Controls",
-    "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
-    "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
+    "title": "Active Replica Lobby",
+    "artist": "https://uploads-ssl.webflow.com/6014e699c56f38550336220f/60a72307d48a80936c3c6173_Logo_Main_svg.svg",
+    "link": "https://xrtheater.live"
     
   },
     "cardList": [
