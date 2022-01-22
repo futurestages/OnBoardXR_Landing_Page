@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/OnBoardXR_Landing_Page/static/css/main.1f16fe70.chunk.css",
-    "main.js": "/OnBoardXR_Landing_Page/static/js/main.122ded4f.chunk.js",
-    "main.js.map": "/OnBoardXR_Landing_Page/static/js/main.122ded4f.chunk.js.map",
+    "main.css": "/OnBoardXR_Landing_Page/static/css/main.a14962f7.chunk.css",
+    "main.js": "/OnBoardXR_Landing_Page/static/js/main.d3090949.chunk.js",
+    "main.js.map": "/OnBoardXR_Landing_Page/static/js/main.d3090949.chunk.js.map",
     "runtime-main.js": "/OnBoardXR_Landing_Page/static/js/runtime-main.2dc39710.js",
     "runtime-main.js.map": "/OnBoardXR_Landing_Page/static/js/runtime-main.2dc39710.js.map",
     "static/css/2.5100725d.chunk.css": "/OnBoardXR_Landing_Page/static/css/2.5100725d.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.05140bd9.chunk.js.map": "/OnBoardXR_Landing_Page/static/js/2.05140bd9.chunk.js.map",
     "index.html": "/OnBoardXR_Landing_Page/index.html",
     "static/css/2.5100725d.chunk.css.map": "/OnBoardXR_Landing_Page/static/css/2.5100725d.chunk.css.map",
-    "static/css/main.1f16fe70.chunk.css.map": "/OnBoardXR_Landing_Page/static/css/main.1f16fe70.chunk.css.map",
+    "static/css/main.a14962f7.chunk.css.map": "/OnBoardXR_Landing_Page/static/css/main.a14962f7.chunk.css.map",
     "static/js/2.05140bd9.chunk.js.LICENSE.txt": "/OnBoardXR_Landing_Page/static/js/2.05140bd9.chunk.js.LICENSE.txt",
     "static/media/bottomLogo.784cda02.png": "/OnBoardXR_Landing_Page/static/media/bottomLogo.784cda02.png",
     "static/media/brands.3173ddd3.png": "/OnBoardXR_Landing_Page/static/media/brands.3173ddd3.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.2dc39710.js",
     "static/css/2.5100725d.chunk.css",
     "static/js/2.05140bd9.chunk.js",
-    "static/css/main.1f16fe70.chunk.css",
-    "static/js/main.122ded4f.chunk.js"
+    "static/css/main.a14962f7.chunk.css",
+    "static/js/main.d3090949.chunk.js"
   ]
 }
