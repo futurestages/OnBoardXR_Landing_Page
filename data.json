@@ -1,6 +1,6 @@
 {
   "masterCard":{
-    "image": "/static/media/LB_ActiveReplica.gif",
+    "image": "/static/media/lobby.activereplica.gif",
     "heading": "Headding of the card item",
     "name": "ad aute",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
