@@ -1,105 +1,105 @@
 {
-   "masterCard":{
-    "image": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/lobby.activereplica.gif",
-    "heading": "Thanks to Active Replica",
-    "name": "Test your controls in our Sponsor Lobby",
+  "masterCard":{
+    "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+    "heading": "Headding of the card item",
+    "name": "ad aute",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Sponsor Lobby",
+    "title": "Controls",
     "artist": "https://uploads-ssl.webflow.com/6014e699c56f38550336220f/60a72307d48a80936c3c6173_Logo_Main_svg.svg",
       "leftOverlayText":"Use your keyboard to move",
       "rightOverlayText":"Use your mouse to rotate",
-    "link": "https://xrtheater.live"
+    "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
     
   },
     "cardList": [
       {
-       "image": "/static/media/show.obxr4.main.gif",
-        "heading": "OnBoardXR Season 4",
-        "name": "Port of Registry [MozFest]",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "ad aute",
         "category": "shows",
-        "link": "https://onboardxr.live",
-      "title": "OBXR4",
-      "leftOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "rightOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "artist": "https://schedule.mozillafestival.org/mozfest-logo.svg",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "mozilla",
-          "festival",
-          "OB4",
-          "theater",
-          "theatre",
-          "dance",
-          "music"
+          "exercitation",
+          "tempor",
+          "amet",
+          "proident",
+          "pariatur",
+          "ullamco",
+          "eiusmod"
         ]
       },
       {
-        "image": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/show.mindlab.gif",
-        "heading": "MindLand",
-        "name": "Naomi Smyth",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "pariatur sit",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Mainstage JAN.2022",
-      "leftOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "rightOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "artist": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "fooling",
-          "mind",
-          "lab",
-          "improv",
-          "theater",
-          "fool",
-          "naomi"
+          "ipsum",
+          "ea",
+          "aliqua",
+          "amet",
+          "do",
+          "consequat",
+          "do"
         ]
       },
       {
-        "image": "/static/media/show.dancingmetaverse.gif",
-        "heading": "Dancing in the Metaverse",
-        "name": "Unwired Dance Theatre",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "anim excepteur",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Mainstage NOV.2021",
-      "leftOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "rightOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "artist": "/static/media/logo.unwireddance.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "unwired",
-          "dance",
-          "mocap",
-          "unity",
-          "clem",
-          "debaig",
-          "london"
+          "ex",
+          "consequat",
+          "ex",
+          "amet",
+          "veniam",
+          "exercitation",
+          "pariatur"
         ]
       },
       {
-        "image": "/static/media/show.nonplayercharacter.gif",
-        "heading": "Non-Player Character",
-        "name": "Brendan Bradley",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "excepteur sit",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Mainstage DEC.2021",
-      "leftOverlay": "",
-      "rightOverlay": "",
-      "artist": "/static/media/logo.museumofscience.png",
-      "leftOverlayText":"https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
-      "rightOverlayText":"https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "npc",
-          "non",
-          "player",
-          "character",
-          "musical",
-          "theater",
-          "theatre"
+          "irure",
+          "sit",
+          "ad",
+          "culpa",
+          "est",
+          "ex",
+          "elit"
         ]
       },
       {
@@ -191,47 +191,47 @@
         ]
       },
       {
-        "image": "/static/media/lobby.welcometorespite.gif",
-        "heading": "Welcome To Respite",
-        "name": "Ferryman Collective",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "dolor excepteur",
         "category": "lobbies",
-        "link": "https://hubs.mozilla.com/un2Tmj2/alert-blissful-social",
-      "title": "",
-      "leftOverlay": "/static/media/logo.vrchat.png",
-      "rightOverlay": "",
-      "artist": "/static/media/logo.ferryman.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "vrchat",
-          "ferryman",
-          "severence",
-          "theory",
-          "welcome",
-          "respite",
-          "braden"
+          "culpa",
+          "dolore",
+          "dolore",
+          "amet",
+          "nostrud",
+          "voluptate",
+          "eiusmod"
         ]
       },
       {
-         "image": "/static/media/lobby.alienrescue.gif",
-        "heading": "Alien Rescue",
-        "name": "MetaMovie",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "aute eiusmod",
         "category": "lobbies",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "",
-      "leftOverlay": "/static/media/logo.neos.png",
-      "rightOverlay": "/static/media/logo.ticket.png",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
       "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
-          "neos",
-          "meta",
-          "alien",
-          "rescue",
-          "movie",
-          "pcvr",
-          "moore"
+          "dolore",
+          "sit",
+          "nostrud",
+          "sit",
+          "quis",
+          "sunt",
+          "id"
         ]
       },
       {
@@ -658,24 +658,24 @@
     "navBar": [
       {
         "name": "Main Lobby",
-        "link": "https://taco.com"
+        "link": "#main"
       },
       {
         "name": "Tickets",
-        "link": "https://panda.com"
+        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
       },
       {
         "name": "Submit",
-        "link": "#"
+        "link": "#joinUs"
       },
       {
         "name": "Documentation",
-        "link": "#"
+        "link": "#action2"
       },
       {
         "name": "About",
-        "link": "#"
+        "link": "#about"
       }
     ],
-    "about": "A seasonal first look at the latest international collaborations to educate, inspire, accelerate and empower live performing artists in the metaverse."
+    "about": "commodo incididunt voluptate id reprehenderit adipisicing enim et deserunt voluptate laboris ipsum qui sint et in nulla proident qui irure"
   }
