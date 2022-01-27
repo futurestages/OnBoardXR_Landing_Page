@@ -1,6 +1,6 @@
 {
    "masterCard":{
-    "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/OnBoardXR_Clip_FIVARS_Lobby.gif",
+    "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobbies.activereplica.gif",
     "heading": "Thanks to Active Replica",
     "name": "Test your controls in our Sponsor Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
@@ -15,7 +15,7 @@
   },
     "cardList": [
       {
-       "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/OB_4_Main.gif",
+       "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/obxr.4.gif",
         "heading": "OnBoardXR Season 4",
         "name": "Port of Registry [MozFest]",
         "category": "shows",
