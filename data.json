@@ -1,6 +1,6 @@
 {
    "masterCard":{
-    "image": "/static/media/lobby.activereplica.gif",
+    "image": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/lobby.activereplica.gif",
     "heading": "Thanks to Active Replica",
     "name": "Test your controls in our Sponsor Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
@@ -37,7 +37,7 @@
         ]
       },
       {
-        "image": "/static/media/show.mindland.gif",
+        "image": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/show.mindland.gif",
         "heading": "MindLand",
         "name": "Naomi Smyth",
         "category": "shows",
