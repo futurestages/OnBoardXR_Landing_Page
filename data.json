@@ -43,9 +43,9 @@
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
       "title": "Mainstage JAN.2022",
-      "leftOverlay": "",
-      "rightOverlay": "",
-      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
+      "rightOverlay": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
+      "artist": "https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
