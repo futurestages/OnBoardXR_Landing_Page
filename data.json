@@ -1,6 +1,6 @@
 {
   "masterCard":{
-    "image": "/static/OnBoardXR_Clip_FIVARS_Lobby.gif",
+    "image": "https://github.com/futurestages/OnBoardXR_Landing_Page/blob/gh-pages/static/media/OnBoardXR_Clip_FIVARS_Lobby.gif",
     "heading": "Thanks to Active Replica",
     "name": "Test your controls in our Sponsor Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
