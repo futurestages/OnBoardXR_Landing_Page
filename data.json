@@ -1,16 +1,16 @@
 {
   "masterCard":{
     "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
-    "heading": "Headding of the card item",
-    "name": "ad aute",
+    "heading": "Thanks to Active Replica!",
+    "name": "Test your controls in our Sponsor Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Controls",
+    "title": "Sponsor Lobby",
     "artist": "https://uploads-ssl.webflow.com/6014e699c56f38550336220f/60a72307d48a80936c3c6173_Logo_Main_svg.svg",
       "leftOverlayText":"Use your keyboard to move",
       "rightOverlayText":"Use your mouse to rotate",
-    "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
+    "link": "https://xrtheater.live"
     
   },
     "cardList": [
@@ -658,11 +658,11 @@
     "navBar": [
       {
         "name": "Main Lobby",
-        "link": "#main"
+        "link": "https://xrtheater.live"
       },
       {
         "name": "Tickets",
-        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
+        "link": "https://everythingimmersive.com/events/onboard"
       },
       {
         "name": "Submit",
@@ -670,12 +670,12 @@
       },
       {
         "name": "Documentation",
-        "link": "#action2"
+        "link": "https://hubs.mozilla.com/docs/welcome.html"
       },
       {
         "name": "About",
         "link": "#about"
       }
     ],
-    "about": "commodo incididunt voluptate id reprehenderit adipisicing enim et deserunt voluptate laboris ipsum qui sint et in nulla proident qui irure"
+    "about": "A seasonal first look at the latest international collaborations to educate, inspire, accelerate and empower live performing artists in the metaverse."
   }
