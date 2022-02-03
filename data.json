@@ -1,31 +1,31 @@
 {
   "masterCard":{
-    "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.activereplica.gif",
-    "heading": "Thanks to Active Replica!",
-    "name": "Test your controls in our Sponsor Lobby",
+    "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+    "heading": "Headding of the card item",
+    "name": "ad aute",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Sponsor Lobby",
+    "title": "Controls",
     "artist": "https://uploads-ssl.webflow.com/6014e699c56f38550336220f/60a72307d48a80936c3c6173_Logo_Main_svg.svg",
       "leftOverlayText":"Use your keyboard to move",
       "rightOverlayText":"Use your mouse to rotate",
-    "link": "https://pandas.com"
+    "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
     
   },
     "cardList": [
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr4.main.gif",
-        "heading": "Winter 2022",
-        "name": "Premiering at MozFest",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "ad aute",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "OBXR4",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "rightOverlay": "hhttps://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.mozfest.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
           "exercitation",
           "tempor",
@@ -37,17 +37,17 @@
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.nonplayercharacter.gif",
-        "heading": "Non-Player Character",
-        "name": "Mugar Omni Theater, Boston",
+        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
+        "heading": "Headding of the card item",
+        "name": "pariatur sit",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "DEC.2021",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hybrid.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.ticket.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/artist.museumofscience.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "title": "Controls",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
           "ipsum",
           "ea",
@@ -65,11 +65,11 @@
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
       "title": "Controls",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/artist.naomi.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
+      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
+      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
+      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
+      "leftOverlayText":"Use your keyboard to move",
+      "rightOverlayText":"Use your mouse to rotate",
         "tags": [
           "ex",
           "consequat",
@@ -654,15 +654,15 @@
       }
       
     ],
-    "haveacodeLink": "/link",
+    "haveacodeLink": "https://www.google.com",
     "navBar": [
       {
         "name": "Main Lobby",
-        "link": "https://xrtheater.live"
+        "link": "#main"
       },
       {
         "name": "Tickets",
-        "link": "https://everythingimmersive.com/events/onboard"
+        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill"
       },
       {
         "name": "Submit",
@@ -670,12 +670,15 @@
       },
       {
         "name": "Documentation",
-        "link": "https://hubs.mozilla.com/docs/welcome.html"
+        "link": "#action2"
       },
       {
         "name": "About",
         "link": "#about"
       }
     ],
-    "about": "A seasonal first look at the latest international collaborations to educate, inspire, accelerate and empower live performing artists in the metaverse."
+    "about": "commodo incididunt voluptate id reprehenderit adipisicing enim et deserunt voluptate laboris ipsum qui sint et in nulla proident qui irure",
+    "learnLink":"https://www.google.com",
+    "submitLink":"https://www.google.com",
+    "followLink":"https://www.google.com"
   }
