@@ -6,7 +6,7 @@
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Main Lobby",
+    "title": "Sponsor Lobby",
     "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/artist.activereplica.png",
       "leftOverlayText":"Use your keyboard to move",
       "rightOverlayText":"Use your mouse to rotate",
@@ -64,7 +64,7 @@
         "name": "Naomi Smyth",
         "category": "shows",
         "link": "https://www.youtube.com/watch?v=K9BMHSmCSXE",
-      "title": "Controls",
+      "title": "JAN'22",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.mainstage.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.watch.png",
       "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.artscouncileng.png",
@@ -149,10 +149,10 @@
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr2.gif",
         "heading": "OBXR Season 2",
-        "name": "July 2022",
+        "name": "July 2021",
         "category": "shows",
         "link": "https://en.wikipedia.org/wiki/onboardxr",
-      "title": "JUL'22",
+      "title": "JUL'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr.png",
       "rightOverlay": "",
       "artist": "",
@@ -278,8 +278,8 @@
   
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.unwantedwaters.gif",
-        "heading": "Making of: Unwanted Waters",
-        "name": "Unwired Dance Theater",
+        "heading": "Unwanted Waters",
+        "name": "Behind the Scenes",
         "category": "clips",
         "link": "https://www.unwireddancetheatre.com/unwanted-waters-mocap-xr",
       "title": "",
@@ -300,8 +300,8 @@
       },
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.nonplayercharacter.gif",
-        "heading": "Trailer: Non-Player Character",
-        "name": "Brendan Bradley",
+        "heading": "Non-Player Character",
+        "name": "Trailer",
         "category": "clips",
         "link": "https://vimeo.com/670099704/8fd83610b1",
       "title": "Controls",
@@ -323,8 +323,8 @@
       },
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.jettison.gif",
-        "heading": "Making Of: Jettison",
-        "name": "HERE Festival",
+        "heading": "Jettison",
+        "name": "Behind the Scenes",
         "category": "clips",
         "link": "https://www.youtube.com/watch?v=9AH6nmpYSkE&list=PLYRxBw6QnHizJJltvWfuGaKqK8HnS96Ce&index=22",
       "title": "",
@@ -342,74 +342,11 @@
           "future",
           "brendan"
         ]
-      },
-
-      {
-        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
-        "heading": "Headding of the card item",
-        "name": "ullamco ullamco",
-        "category": "shows",
-        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Controls",
-      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
-      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
-      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
-      "leftOverlayText":"Use your keyboard to move",
-      "rightOverlayText":"Use your mouse to rotate",
-        "tags": [
-          "velit",
-          "laboris",
-          "ad",
-          "exercitation",
-          "excepteur",
-          "ad",
-          "dolore"
-        ]
-      },
-      {
-        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
-        "heading": "Headding of the card item",
-        "name": "eiusmod sunt",
-        "category": "shows",
-        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Controls",
-      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
-      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
-      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
-      "leftOverlayText":"Use your keyboard to move",
-      "rightOverlayText":"Use your mouse to rotate",
-        "tags": [
-          "anim",
-          "est",
-          "labore",
-          "eu",
-          "ut",
-          "officia",
-          "veniam"
-        ]
-      },
-      {
-        "image": "https://media.giphy.com/media/PjD5DqOG9hs6KxAur8/giphy.gif",
-        "heading": "Headding of the card item",
-        "name": "aliquip dolore",
-        "category": "shows",
-        "link": "https://en.wikipedia.org/wiki/Tyreek_Hill",
-      "title": "Controls",
-      "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
-      "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
-      "artist": "https://i.ibb.co/Wgy21Xb/bottom-Logo.png",
-      "leftOverlayText":"Use your keyboard to move",
-      "rightOverlayText":"Use your mouse to rotate",
-        "tags": [
-          "ad",
-          "enim",
-          "ullamco",
-          "ex",
-          "duis",
-          "minim",
-          "id"
-        ]
       }
+
+  
+  
+      
       
     ],
     "haveacodeLink": "https://obxr.link",
