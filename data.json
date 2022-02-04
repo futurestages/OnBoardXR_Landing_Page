@@ -199,8 +199,8 @@
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.here.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hubs.png",
       "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.here.png",
-      "leftOverlayText":"Use your keyboard to move",
-      "rightOverlayText":"Use your mouse to rotate",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
         "tags": [
           "brendan",
           "bradley",
