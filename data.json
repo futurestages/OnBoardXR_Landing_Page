@@ -81,13 +81,13 @@
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.nonplayerprototype.gif",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.nonplayercharacter.gif",
         "heading": "Non-Player Character",
         "name": "Prototype @ Mugar Omni Theater",
         "category": "shows",
         "link": "https://youtu.be/aNg-gqZNYR0?t=3111",
       "title": "DEC'21",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.mainstage.png",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.museumscience.png",
       "leftOverlayText":"",
@@ -109,7 +109,7 @@
         "category": "shows",
         "link": "https://youtu.be/aNg-gqZNYR0?t=3111",
       "title": "NOV'21",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.mainstage.png",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/artist.unwireddance.png",
       "leftOverlayText":"",
@@ -147,34 +147,35 @@
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr2.gif",
-        "heading": "OBXR Season 2",
-        "name": "July 2021",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.stringsprisoner.gif",
+        "heading": "Strings: Prisoner",
+        "name": "OnBoardXR Season 2",
         "category": "shows",
-        "link": "https://en.wikipedia.org/wiki/onboardxr",
+        "link": "",
       "title": "JUL'21",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr.png",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "artist": "",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
-          "2",
-          "season",
+          "1",
           "ob",
-          "theater",
-          "theatre",
-          "pirate"
+          "season",
+          "dance",
+          "strings",
+          "haptic",
+          "clem"
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr1.gif",
-        "heading": "OBXR Season 1",
-        "name": "March 2022",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.thisland.gif",
+        "heading": "This Land Is Island",
+        "name": "OnBoardXR Season 1",
         "category": "shows",
-        "link": "https://www.broadwayworld.com/brooklyn/article/On-Board-A-Collection-Of-Virtual-Reality-Performances-Brings-Indie-Xr-Artists-Together-In-One-Evening-20210306",
+        "link": "",
       "title": "MAR'21",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr.png",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "artist": "",
       "leftOverlayText":"",
@@ -185,8 +186,74 @@
           "season",
           "theater",
           "theatre",
-          "cruise",
-          "jettison"
+          "improv",
+          "escape"
+        ]
+      },
+      {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.jettison2.gif",
+        "heading": "Jettison",
+        "name": "OnBoardXR Season 1",
+        "category": "shows",
+        "link": "",
+      "title": "MAR'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "theater",
+          "theatre",
+          "jettison",
+          "brendan"
+        ]
+      },
+      {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.spongebob.gif",
+        "heading": "The Play That Is Going To Change Everything",
+        "name": "OnBoardXR Season 1",
+        "category": "shows",
+        "link": "",
+      "title": "MAR'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "theater",
+          "theatre",
+          "gpt3",
+          "ai"
+        ]
+      },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.stringsunderwater.gif",
+        "heading": "Strings: Underwater",
+        "name": "OnBoardXR Season 1",
+        "category": "shows",
+        "link": "",
+      "title": "MAR'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "dance",
+          "strings",
+          "haptic",
+          "clem"
         ]
       },
       {
@@ -220,7 +287,7 @@
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hubs.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hubs.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -240,7 +307,7 @@
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.web.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.web.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -251,38 +318,16 @@
           "id"
         ]
       },
-      {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.ferryman.gif",
-        "heading": "Gumball Dreams",
-        "name": "Premiere Mar 2022",
-        "category": "lobbies",
-        "link": "https://www.ferrymancollective.com/gumball-dreams",
-      "title": "",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vrchat.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
-        "tags": [
-          "vrchat",
-          "chat",
-          "ferry",
-          "sxsw",
-          "gumball",
-          "theater",
-          "theatre"
-        ]
-      },
-      {
+       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.metamovie.gif",
         "heading": "MetaMovie: Alien Rescue",
-        "name": "Premiere 2019",
+        "name": "Premiere 20202",
         "category": "lobbies",
         "link": "https://www.themetamovie.com/",
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.neos.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.neos.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -295,6 +340,29 @@
           "theater"
         ]
       },
+      {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.ferryman.gif",
+        "heading": "Gumball Dreams",
+        "name": "Premiere Mar 2022",
+        "category": "lobbies",
+        "link": "https://www.ferrymancollective.com/gumball-dreams",
+      "title": "",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vrchat.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vrchat.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "vrchat",
+          "chat",
+          "ferry",
+          "sxsw",
+          "gumball",
+          "theater",
+          "theatre"
+        ]
+      },
+     
   
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.unwantedwaters.gif",
@@ -319,7 +387,7 @@
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.nonplayercharacter.gif",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.nonplayertrailer.gif",
         "heading": "Non-Player Character",
         "name": "Trailer",
         "category": "clips",
@@ -327,7 +395,7 @@
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.watch.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.museumscience.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.youtube.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -350,7 +418,7 @@
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.watch.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.youtube.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
