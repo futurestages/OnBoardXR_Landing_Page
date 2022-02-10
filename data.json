@@ -124,7 +124,28 @@
           "perception"
         ]
       },
-      
+      {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.mrsnemo.gif",
+        "heading": "Mrs. Nemo",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "theater",
+          "music",
+          "theatre"
+        ]
+           },
         {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.maidenvoyage.gif",
         "heading": "Maiden Voyage",
