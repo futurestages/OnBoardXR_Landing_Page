@@ -190,6 +190,32 @@
           "naomi"
         ]
         },
+       {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.letsgettothebottom.gif",
+        "heading": "Let's Get To The Bottom (NPC)",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "theater",
+          "music",
+          "sing,"
+          "song,"
+          "octopus,"
+          "brendan,"
+          "theatre"
+        ]
+      },
         {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.maidenvoyage.gif",
         "heading": "Maiden Voyage",
@@ -213,7 +239,7 @@
         ]
       },
         {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.painting.gif",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.paintingirates.gif",
         "heading": "Painting Pirates",
         "name": "OnBoardXR Season 2",
         "category": "shows",
