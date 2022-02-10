@@ -111,7 +111,7 @@
       "title": "NOV'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/artist.unwireddance.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.unwireddance.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -155,7 +155,7 @@
       "title": "JUL'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -177,7 +177,7 @@
       "title": "MAR'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -199,7 +199,7 @@
       "title": "MAR'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -221,7 +221,7 @@
       "title": "MAR'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -243,7 +243,7 @@
       "title": "MAR'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr1.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -365,7 +365,7 @@
      
   
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.unwantedwaters.gif",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.unwantedwaters.gif",
         "heading": "Unwanted Waters",
         "name": "Behind the Scenes",
         "category": "clips",
@@ -387,7 +387,7 @@
         ]
       },
       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.nonplayertrailer.gif",
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/clip.nonplayercharacter.gif",
         "heading": "Non-Player Character",
         "name": "Trailer",
         "category": "clips",
@@ -395,7 +395,7 @@
       "title": "",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.watch.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.youtube.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vimeo.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
