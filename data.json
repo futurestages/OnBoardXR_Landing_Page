@@ -89,7 +89,7 @@
       "title": "DEC'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.museumscience.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.museumofscience.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -111,7 +111,7 @@
       "title": "NOV'21",
       "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.unwireddance.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.ukri.png",
       "leftOverlayText":"",
       "rightOverlayText":"",
         "tags": [
@@ -124,14 +124,14 @@
           "perception"
         ]
       },
-      {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr3.gif",
-        "heading": "OBXR Season 3",
-        "name": "FIVARS Fesitval Oct26-Nov4",
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.mrsnemo.gif",
+        "heading": "Mrs. Nemo",
+        "name": "OnBoardXR Season 3",
         "category": "shows",
         "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
       "title": "OCT'21",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr.png",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
       "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
       "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
       "leftOverlayText":"",
@@ -142,8 +142,233 @@
           "3",
           "ob",
           "theater",
-          "sub",
+          "music",
           "theatre"
+        ]
+           },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.unwantedwaters.gif",
+        "heading": "Unwanted Waters",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "dance",
+          "mocap",
+          "clem"
+        ]
+           },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.deepsshallows.gif",
+        "heading": "Deeps & Shallows",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "fool",
+          "fooling",
+          "naomi"
+        ]
+           },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.letsgettothebottom.gif",
+        "heading": "Let's Get To The Bottom (NPC)",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "theater",
+          "music",
+          "sing,"
+          "song,"
+          "octopus,"
+          "brendan,"
+          "theatre"
+        ]
+           },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.waterhorse.gif",
+        "heading": "Water Horse",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "dance",
+          "koryn",
+          "360"
+        ]
+           },
+      {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.obxr3.gif",
+        "heading": "The Aquaians",
+        "name": "OnBoardXR Season 3",
+        "category": "shows",
+        "link": "https://fivars.net/news/fivars-2021-spotlight-onboardxr-the-aquaians/",
+      "title": "OCT'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr3.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/festival.fivars.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "fivars",
+          "season",
+          "3",
+          "ob",
+          "theater",
+          "nft",
+          "theatre"
+        ]
+           },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif",
+        "heading": "Haroun Desert",
+        "name": "OnBoardXR Season 2",
+        "category": "shows",
+        "link": "",
+      "title": "JUL'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "Ari Tarr, Tyler Graham, Dasha Kittredge",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "theatre",
+          "theater",
+          "puppet",
+          "escape"
+        ]
+      },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.maidenvoyage.gif",
+        "heading": "Maiden Voyage",
+        "name": "OnBoardXR Season 2",
+        "category": "shows",
+        "link": "",
+      "title": "JUL'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "Koryn Wicks",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "dance",
+          "360",
+          "move",
+          "koryn"
+        ]
+      },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.painting.gif",
+        "heading": "Painting Pirates",
+        "name": "OnBoardXR Season 2",
+        "category": "shows",
+        "link": "",
+      "title": "JUL'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "Zach Capalbo",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "paint",
+          "art",
+          "draw",
+          "vartiste"
+        ]
+      },
+      },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.smarthome.gif",
+        "heading": "Smart Home",
+        "name": "OnBoardXR Season 2",
+        "category": "shows",
+        "link": "",
+      "title": "JUL'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "Michael Morran",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "theater",
+          "theatre",
+          "iot",
+          "morran"
+        ]
+      },
+        {
+        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.whoami.gif",
+        "heading": "Who Am I? Where Am I?",
+        "name": "OnBoardXR Season 2",
+        "category": "shows",
+        "link": "",
+      "title": "JUL'21",
+      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.obxr2.png",
+      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
+      "leftOverlayText":"",
+      "rightOverlayText":"",
+        "tags": [
+          "1",
+          "ob",
+          "season",
+          "fool",
+          "fooling",
+          "naomi",
+          "caravan"
         ]
       },
       {
