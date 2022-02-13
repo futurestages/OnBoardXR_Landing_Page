@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/OnBoardXR_Landing_Page/static/css/main.ae20915d.chunk.css",
-    "main.js": "/OnBoardXR_Landing_Page/static/js/main.1a0b7a54.chunk.js",
-    "main.js.map": "/OnBoardXR_Landing_Page/static/js/main.1a0b7a54.chunk.js.map",
+    "main.js": "/OnBoardXR_Landing_Page/static/js/main.d3aecbd6.chunk.js",
+    "main.js.map": "/OnBoardXR_Landing_Page/static/js/main.d3aecbd6.chunk.js.map",
     "runtime-main.js": "/OnBoardXR_Landing_Page/static/js/runtime-main.2dc39710.js",
     "runtime-main.js.map": "/OnBoardXR_Landing_Page/static/js/runtime-main.2dc39710.js.map",
     "static/css/2.5100725d.chunk.css": "/OnBoardXR_Landing_Page/static/css/2.5100725d.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.5100725d.chunk.css",
     "static/js/2.5662c168.chunk.js",
     "static/css/main.ae20915d.chunk.css",
-    "static/js/main.1a0b7a54.chunk.js"
+    "static/js/main.d3aecbd6.chunk.js"
   ]
 }
