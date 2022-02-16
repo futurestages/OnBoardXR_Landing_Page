@@ -6,7 +6,7 @@ sidebar_label: Welcome
 
 Hubs is a virtual collaboration platform that runs in your browser. With Hubs you can create your own 3D spaces with a single click. Invite others to join using a URL. No installation or app store required.  
 
-![Screencapture from an event in Hubs](https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/hubs-business.jpeg)
+![Screencapture from an event in Hubs](img/hubs-business.jpeg)
 
 ## Who is Hubs for?
 Hubs is for anyone who wants to connect with others remotely! It's a great way to bring communities together in a shared virtual space. 
