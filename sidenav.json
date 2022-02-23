@@ -3,27 +3,10 @@
     {
       "mainCategory":"Introduction",
       "subCategories":[
-        "welcome",
-        "intro-hubs",
-        "intro-spoke",
-        "intro-avatars",
-        "intro-events"
-      ]
-    },
-
-    {
-      "mainCategory":"Hubs Documentation",
-      "subCategories":[
-        "hubs-create-join-rooms",
-        "hubs-features",
-        "sharing-avatar-links-privately",
-        "hubs-user-settings",
-        "hubs-room-settings",
-        "hubs-controls",
-        "hubs-discord-bot",
-        "hubs-troubleshooting",
-        "hubs-faq"
+        "welcome"
       ]
     }
+
+    
   ]
 }
