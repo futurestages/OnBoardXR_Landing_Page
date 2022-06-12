@@ -1,5 +1,5 @@
 ---
-id: cs-naomi-smyth
+id: naomi-smyth
 title: OnBoardXR with Naomi Smyth
 sidebar_label: Naomi Smyth
 ---
