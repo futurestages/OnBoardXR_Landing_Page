@@ -4,7 +4,7 @@ title: OnBoardXR with Naomi Smyth
 sidebar_label: Naomi Smyth
 ---
 
-We were approached by mime artist [Naomi Smyth] ([https://hubs.mozilla.com](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters. ![image](https://user-images.githubusercontent.com/70774583/173257078-9f7e671c-cac9-452e-bc4a-2bea6d4b8243.png)
+We were approached by mime artist [Naomi Smyth](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters. ![image](https://user-images.githubusercontent.com/70774583/173257078-9f7e671c-cac9-452e-bc4a-2bea6d4b8243.png)
 
 Your custom client code will be based off of the [`hubs-cloud` branch](https://github.com/mozilla/hubs/tree/hubs-cloud) which hosts Hubs client changes compatible with Hubs Cloud servers. Changes due to upgrades will be visible in merged PRs on the branch.
 
