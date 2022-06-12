@@ -6,7 +6,7 @@ sidebar_label: Naomi Smyth
 
 ## Naomi Smyth
 
-We were approached by mime artist [Naomi Smyth](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters. ![image](https://user-images.githubusercontent.com/70774583/173257078-9f7e671c-cac9-452e-bc4a-2bea6d4b8243.png)
+We were approached by mime artist [Naomi Smyth](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters. 
 
 ### WHO AM I? WHERE AM I?
 OnBoardXR offered soft support to help Naomi create a virtual twin of her real-life home office, a small caravan in a field that served as her “stage” while she rotated between a variety of customized avatars she created using Quill. 
@@ -15,11 +15,10 @@ The performance involved setting a timer for ten minutes and inviting the audien
 
 While unintended, this resulted in Naomi performing with alternate versions of herself and her characters within the same narrative. She also interacted with her audience by prompting them to become the sound design of her piece, making sounds like wind, water and laughter to create the atmosphere of her story.
 
-###DEPTHS AND SHALLOWS
+### DEPTHS AND SHALLOWS
 Naomi returned for OnBoardXR: Mythos and Monsters with the intent to expand and stabilize her original prototype, this time working with community designer Anais Ron to capture 3D photogrammetry of her real-world environments (like the caravan) and place them in virtual reality. Michael Morran’s updates the cueing system allowed Naomi to have exclusive access to her avatar changes and trigger pre-recorded sound effects for elements the audience previously generated. 
 
 Her participation in OnBoardXR: Mythos and Monsters automatically offered inclusion in FIVARS 2021 Fall Festival and nominations for awards from The Polys and No Proscenium.
-![image](https://user-images.githubusercontent.com/70774583/173257285-803e67de-569e-4a8e-aa26-0208e920f4ea.png)
 
 ### MINDLAND
 
