@@ -1,25 +1,44 @@
 {
   "docs":[
     {
-      "mainCategory":"Introduction",
+      "mainCategory":"Repository",
       "subCategories":[
-        "welcome",
-        "intro-hubs",
-        "intro-spoke",
-        "intro-avatars",
-        "intro-events"
+        "What is OnBoardXR?",
+        "Open Submissions",
+        "Creating your own Show",
+        "Donations & Sponsors",
+        "Media Assets",
+        "Press & Awards"
       ]
     },
     {
-      "mainCategory":"Hubs Documentation",
+      "mainCategory":"History of OnBoardXR",
       "subCategories":[
-        "hubs-create-join-rooms",
-        "hubs-features",
-        "sharing-avatar-links-privately",
-        "hubs-user-settings",
-        "hubs-room-settings",
-        "hubs-controls",
-        "hubs-discord-bot",
+        "Overview",
+        "History of Cue System",
+        "OBXR.1: Cruise",
+        "OBXR.2: Below Deck",
+        "OBXR.3: Mythos & Monsters",
+        "OBXR.4: Port of Registry",
+        "OBXR.5: 21-Day Challenge",
+    {
+      "mainCategory":"Case Studies",
+      "subCategories":[
+        "Future Stages",
+        "Jettison",
+        "Unwired Dance Theatre",
+        "Naomi Smyth",
+        "Non-Player Character",
+        "The Poly Awards",
+        "New York University Lab",
+        "Mrs. Nemo",
+        "Michael Morran",
+        "Nelly Lewis & VR Creative Arts",
+        "Ari Tarr"
+        "Koryn Wicks"
+        "Isak Keller"
+        "Below the Barracks and Above the Sea" 
+        "Painting Pirates"
         "hubs-troubleshooting",
         "hubs-faq"
       ]
