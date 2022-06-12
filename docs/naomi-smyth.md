@@ -6,7 +6,7 @@ sidebar_label: Naomi Smyth
 
 ## Naomi Smyth
 
-We were approached by mime artist [Naomi Smyth](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters.
+We were approached by performance artist [Naomi Smyth](https://everythingimmersive.com/organizer/naomi-smyth) who submitted a proposal for [`OnBoardXR: Below Deck`](/obxr2-below-deck) to bring her immersive theater practice into XR with no coding or 3D graphics experience. Naomi was particularly interested in exploring her training and background in a solo form of improvisation called Fooling, where she co-creates an original performance with the audience at random by switching between a variety of characters.
 
 ![image](https://media-exp2.licdn.com/dms/image/C4D03AQH0HjD3cyr2qA/profile-displayphoto-shrink_800_800/0/1516962434473?e=1660780800&v=beta&t=kFyq6VjV2FhYMbZSf3rJkqpaoyezMpocmxkCJIe31Mk)
 
