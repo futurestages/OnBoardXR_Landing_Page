@@ -4,7 +4,7 @@ Hubs is a virtual collaboration platform that runs in your browser. With Hubs yo
 
 
 
-## Who is Hubs for?
+## Who is OnBoardXR for?
 Hubs is for anyone who wants to connect with others remotely! It's a great way to bring communities together in a shared virtual space. 
 
 Host a conference, teach a class, showcase art, or just hang out with friends. Hubs makes it easy to connect and share images, videos, 3D models, and more. With Hubs' spatialized audio you can have conversations with everyone together or break out into smaller groups &mdash; just like you can in person. 
