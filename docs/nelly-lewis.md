@@ -12,7 +12,7 @@ In the beginning of 2022, [Nelly Lewis]() submitted a proposal to [`OnBoardXR: P
 The OnBoardXR community was intrigued by this exploration of simultaneous dual performance presented to the audience as a purposeful provocation about power, gender, and expression. Nelly disclosed she had little-to-no access or experience for 3D modeling, programming, or performing in-headset and the OnBoaredXR community designers and developers assisted in creating a 3D environment with a central stage for her avatar to perform in front of a [`media frame`]() to display her 2D webcam feed. Nelly dressed her virtual avatar in a similar costume to the one she wore in real life and rehearsed “peaking” out from her headset to suggest an “awareness” of her virtual self. 
 
 ### Controversial Content 
-Working with Nelly Lewis also gave us an opportunity to challenge and examine our [`programming guidelines and protocols`] when an early rehearsal included unexpected imagery of divisive sexual and political content as well as infringement of third-party copyright. 
+Working with Nelly Lewis also gave us an opportunity to challenge and examine our [`programming guidelines and protocols`]() when an early rehearsal included unexpected imagery of divisive sexual and political content as well as infringement of third-party copyright. 
 
 The OnBoardXR community calmly and constructively expressed concerns about their safety and comfort to leadership who were able to flag and adjust the content to meet all guidelines and invite the artist's continued participation in the festival and monetization.
 
