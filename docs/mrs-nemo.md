@@ -11,10 +11,10 @@ In the Fall of 2021, [Mary Stuart David]() and [David Gochfeld]() submitted a pr
 ### DC Labs
 OnBoardXR offered a pipeline and platform for the team of PhD students and researchers from University of York’s DC Labs to explore staging a theatrical work in browser-based virtual reality.
 
-This team brought the rare advantage of their own independent financial, design, and narrative resources to their prototype allow OnBoardXR’s community to focus on knowledge sharing and stabilizing the integration of music sync in virtual reality (similar to [`Jettison`]() and [`Non-Player Character`]()) allowing the solo perfomer. [Vivian Belosky]()
-to sing live with a backing track; and developments to the [`external cueing system`]() from [Michael Morran](), [Roman Miletitch]() and [David Gochfeld]() which allowed spawning and animating multiple objects throughout the live performance. 
+This team brought the rare advantage of their own independent financial, design, and narrative resources to their prototype allowing OnBoardXR’s community to focus on knowledge sharing and stabilizing the integration of:
+1. Music sync in virtual reality (similar to [`Jettison`]() and [`Non-Player Character`]()), allowing the solo perfomer. [Vivian Belosky]() to sing live with a backing track; and 
+2. Developments to the [`external cueing system`]() from [Michael Morran](), [Roman Miletitch]() and [David Gochfeld]() which allowed spawning and animating multiple objects throughout the live performance. 
 
-### Grouped Cues
 The most compelling application of the cueing system was a “Kraken attack” in the story, where [`“grouped cues”`]() allowed multiple animation events to be triggered in succession by clicking on a single button on the stage manager’s graphic user interface.
 
 ### Mrs. Nemo Remount
