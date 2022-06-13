@@ -21,4 +21,4 @@ Following the collaboration with OnBoardXR, Nelly’s company VR Creative Arts b
 
 This case-study demonstrates how swiftly the OnBoardXR community can educate and empower individual artists to explore web-based virtual reality for the first time and bring our learnings and creative culture to new communities and institutions.
 ![image](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F252173309%2F323143954697%2F1%2Foriginal.20220322-132847?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=554cd225633f05917d7a7148d3d6b771) ![image](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F252172509%2F323143954697%2F1%2Foriginal.20220322-132749?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=cfae1eb7c387246f8f1aab1bfd444119)
-)
+
