@@ -18,6 +18,6 @@ This team brought the rare advantage of their own independent financial, design,
 The most compelling application of the cueing system was a “Kraken attack” in the story, where [`“grouped cues”`]() allowed multiple animated objects to be triggered in succession by clicking on a single button on the stage manager’s graphic user interface.
 
 ### Mrs. Nemo Remount
-The team released an [abstract on their experience collaborating on Mrs. Nemo with OnBoardXR]((https://thewritingplatform.com/2022/05/the-making-of-an-immersical/) and initially concluded they wished to explore alternative social vr platforms to expand the piece. In the Summer of 2022, the team requested support to reprise Mrs. Nemo using OnBoardXR’s codebase and sponsor server to present at an academic conference. 
+The team released an [abstract on their experience collaborating on Mrs. Nemo with OnBoardXR](https://thewritingplatform.com/2022/05/the-making-of-an-immersical/), initially concluding the desire to explore alternative social vr platforms. In the Summer of 2022, the team requested support to reprise Mrs. Nemo using OnBoardXR’s codebase and sponsor server to perform at an academic conference. 
 
-OnBoardXR is delighted by the success of Mrs. Nemo as the first in a series of musicals from this team that aim to retell episodes from Victorian literature from an imaginary wife’s perspective using virtual reality storytelling tools and technology. 
+OnBoardXR is delighted by the success of Mrs. Nemo as the first in a series of anticipated musicals from this team which aim to retell episodes from Victorian literature from an imaginary wife’s perspective using virtual reality storytelling tools and technology.
