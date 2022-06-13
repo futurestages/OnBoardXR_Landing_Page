@@ -9,7 +9,7 @@ sidebar_label: Mrs. Nemo
 In the Fall of 2021, [Mary Stuart David]() and [David Gochfeld]() submitted a proposal to [`OnBoardXR: Mythos & Monsters`](/obxr3-mythos-monsters) as an initial project to develop a short-form immersive musical inspired by [Sally Swain’s Great Housewives of Art](https://www.amazon.co.uk/Great-Housewives-Art-Sally-Swain/dp/0586205306) and Jules Verne’s character of Captain Nemo in [20,000 Leagues under the Sea](https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Seas).
 
 ### DC Labs
-OnBoardXR offered a pipeline and platform for the team of PhD students and researchers from University of York’s DC Labs to explore staging a theatrical work in browser-based virtual reality.
+OnBoardXR supported the team of PhD students and researchers from University of York’s DC Labs to explore staging their first musical work in browser-based virtual reality.
 
 This team brought the rare advantage of their own independent financial, design, and narrative resources to their prototype allowing OnBoardXR’s community to focus on knowledge sharing and stabilizing the integration of:
 1. Music sync in virtual reality (similar to [`Jettison`]() and [`Non-Player Character`]()), allowing the solo perfomer. [Vivian Belosky]() to sing live with a backing track; and 
