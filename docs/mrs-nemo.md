@@ -15,7 +15,7 @@ This team brought the rare advantage of their own independent financial, design,
 1. Music sync in virtual reality (similar to [`Jettison`]() and [`Non-Player Character`]()), allowing the solo perfomer. [Vivian Belosky]() to sing live with a backing track; and 
 2. Developments to the [`external cueing system`]() from [Michael Morran](), [Roman Miletitch]() and [David Gochfeld]() which allowed spawning and animating multiple objects throughout the live performance. 
 
-The most compelling application of the cueing system was a “Kraken attack” in the story, where [`“grouped cues”`]() allowed multiple animation events to be triggered in succession by clicking on a single button on the stage manager’s graphic user interface.
+The most compelling application of the cueing system was a “Kraken attack” in the story, where [`“grouped cues”`]() allowed multiple animated objects to be triggered in succession by clicking on a single button on the stage manager’s graphic user interface.
 
 ### Mrs. Nemo Remount
 The team released an [abstract on their experience collaborating on Mrs. Nemo with OnBoardXR]((https://thewritingplatform.com/2022/05/the-making-of-an-immersical/) and initially concluded they wished to explore alternative social vr platforms to expand the piece. In the Summer of 2022, the team requested support to reprise Mrs. Nemo using OnBoardXR’s codebase and sponsor server to present at an academic conference. 
