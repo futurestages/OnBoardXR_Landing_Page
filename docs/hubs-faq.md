@@ -1,6 +1,7 @@
 ---
 id: hubs-faq
 title: FAQ
+nav_exclude: true
 ---
 
 ## What is the capacity of a Hubs room?

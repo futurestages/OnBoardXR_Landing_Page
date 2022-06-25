@@ -2,6 +2,7 @@
 id: hubs-cloud-customizing-themes
 title: Customizing Themes
 sidebar_label: Customizing Themes
+nav_exclude: true
 ---
 
 #

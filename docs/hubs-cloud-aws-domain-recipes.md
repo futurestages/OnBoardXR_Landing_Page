@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-domain-recipes
 title: Domain Recipes
 sidebar_label: Domain Recipes
+nav_exclude: true
 ---
 
 This guide provides a few recipes for registering and purchasing necessary domains before creating your Hub Cloud stack.

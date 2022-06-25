@@ -1,7 +1,9 @@
 ---
+layout: default
 id: nelly-lewis
-title: OnBoardXR with Nelly Lewis
-sidebar_label: Nelly Lewis
+title: Nelly Lewis
+parent: Case Studies
+nav_order: 11
 ---
 
 ## Nelly Lewis & VR Creative Arts

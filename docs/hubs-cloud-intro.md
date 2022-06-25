@@ -2,6 +2,7 @@
 id: hubs-cloud-intro
 title: Introduction to Hubs Cloud
 sidebar_label: Introduction
+nav_exclude: true
 ---
 
 ![Hubs Cloud](img/hubs-cloud-logo.jpeg)

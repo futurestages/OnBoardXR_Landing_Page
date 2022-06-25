@@ -1,7 +1,9 @@
 ---
+layout: default
 id: mrs-nemo
-title: OnBoardXR with Mrs. Nemo
-sidebar_label: Mrs. Nemo
+title: Mrs. Nemo
+parent: Case Studies
+nav_order: 9
 ---
 
 ## Mrs. Nemo

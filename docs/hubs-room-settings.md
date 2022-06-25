@@ -1,6 +1,7 @@
 ---
 id: hubs-room-settings
 title: Room Settings
+nav_exclude: true
 ---
 
 ## Change the Scene

@@ -2,6 +2,7 @@
 id: sharing-avatar-links-privately
 title: Sharing Avatar Links Privately
 sidebar_label: Sharing Avatar Links Privately
+nav_exclude: true
 ---
 
 **Do you have a hubs room where you want specific avatars to be available for specific people but not others?

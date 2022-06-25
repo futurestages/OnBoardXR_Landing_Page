@@ -1,6 +1,7 @@
 ---
 id: creators-using-the-blender-gltf-exporter
 title: Using the Blender glTF Exporter
+nav_exclude: true
 ---
  Note: The following documentation assumes you are using the latest stable release of Blender. Using older versions or experimental builds of Blender may work, but is not guaranteed.
  

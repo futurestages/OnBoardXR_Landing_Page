@@ -2,6 +2,7 @@
 id: hubs-cloud-enable-scene-editor
 title: Recipe: Enable Scene Editor
 sidebar_label: Recipe: Enable Scene Editor
+nav_exclude: true
 ---
 
 Hubs Cloud includes an unbranded version of [Spoke](http://hubs.local:3000/docs/spoke-creating-projects.html) called the **Scene Editor** can you can use to create custom 3D scenes.

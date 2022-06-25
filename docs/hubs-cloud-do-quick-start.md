@@ -2,6 +2,7 @@
 id: hubs-cloud-do-quick-start
 title: DigitalOcean Quick Start
 sidebar_label: DigitalOcean Quick Start
+nav_exclude: true
 ---
 
 > **Warning! Hubs Cloud for DigitalOcean is in alpha and provided as is.**

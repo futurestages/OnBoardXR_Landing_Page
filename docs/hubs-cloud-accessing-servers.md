@@ -2,6 +2,7 @@
 id: hubs-cloud-accessing-servers
 title: SSH Access
 sidebar_label: Advanced: SSH Access
+nav_exclude: true
 ---
 
 To access your servers over SSH, in the the [Admin Console](./hubs-cloud-getting-started.md) choose **Server Access** and follow the guide. Note that 2-factor authentication is set up by default, so you will need a 2FA device with an application installed like Google Authenticator to connect to your servers.

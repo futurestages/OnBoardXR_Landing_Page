@@ -2,6 +2,7 @@
 id: naomi-smyth
 title: OnBoardXR with Naomi Smyth
 sidebar_label: Naomi Smyth
+nav_exclude: true
 ---
 
 ## Naomi Smyth

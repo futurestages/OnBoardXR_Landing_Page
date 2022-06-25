@@ -2,6 +2,7 @@
 id: hubs-cloud-branding
 title: Hubs Cloud Brand Guidelines
 sidebar_label: Advanced: Brand Guidelines
+nav_exclude: true
 ---
 
 __Important Stuff To Keep In Mind__

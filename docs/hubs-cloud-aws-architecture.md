@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-architecture
 title: AWS System Architecture
 sidebar_label: System Architecture
+nav_exclude: true
 ---
 
 ![AWS Architecture](img/hubs-cloud-aws-architecture.jpeg)

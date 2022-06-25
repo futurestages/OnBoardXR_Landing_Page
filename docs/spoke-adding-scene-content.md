@@ -1,6 +1,7 @@
 ---
 id: spoke-adding-scene-content
 title: Adding Content
+nav_exclude: true
 ---
 
 Once you have created your scene, you can start customizing it by adding content. Spoke and Hubs support a wide variety of media. Note that to publish to Hubs, Spoke projects have a size limit of 128MB.

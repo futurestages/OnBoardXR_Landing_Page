@@ -1,6 +1,7 @@
 ---
 id: physics-and-navigation
 title: Physics and Navigation
+nav_exclude: true
 ---
 
 # The Floorplan Element

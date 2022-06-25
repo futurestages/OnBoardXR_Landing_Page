@@ -1,6 +1,7 @@
 ---
 id: creators-linking-rooms
 title: Linking Hubs Rooms 
+nav_exclude: true
 ---
 It is possible to link Hubs rooms together using Spoke, or from directly in Hubs. To do this, you will want to first create your rooms, then build scenes for the rooms that use the 'Link' element to reference to other rooms.  
 

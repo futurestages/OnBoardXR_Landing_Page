@@ -1,6 +1,7 @@
 ---
 id: lighting-and-shadows
 title: Lighting and Shadows
+nav_exclude: true
 ---
 
 ## Lights

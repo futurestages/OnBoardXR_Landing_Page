@@ -1,6 +1,7 @@
 ---
 id: spoke-publish-scenes
 title: Publish Scenes
+nav_exclude: true
 ---
 
 You can publish a scene either directly to Hubs, or you can export it as a .glb file or as a legacy Spoke scene. 

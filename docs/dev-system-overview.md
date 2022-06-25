@@ -1,6 +1,9 @@
 ---
+layout: default
 id: system-overview
-title: System Overview
+title: Overview
+parent: History of OnBoardXR
+nav_order: 1
 ---
 
 # [The Client](https://github.com/mozilla/hubs) 

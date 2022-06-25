@@ -1,6 +1,7 @@
 ---
 id: spoke-user-interface
 title: User Interface
+nav_exclude: true
 ---
 
 ![Hubs Image](img/spoke-user-interface.jpeg)

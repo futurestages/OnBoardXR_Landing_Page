@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+layout: default
+title: Example Page
+nav_exclude: true
 ---
 
 Testing 1-2-3-4
