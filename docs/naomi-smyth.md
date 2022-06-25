@@ -1,8 +1,9 @@
 ---
+layout: default
 id: naomi-smyth
-title: OnBoardXR with Naomi Smyth
-sidebar_label: Naomi Smyth
-nav_exclude: true
+title: Naomi Smyth
+parent: Case Studies
+nav_order: 10
 ---
 
 ## Naomi Smyth
