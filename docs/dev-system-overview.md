@@ -6,8 +6,8 @@ parent: History of OnBoardXR
 nav_order: 1
 ---
 
-# [The Client](https://github.com/mozilla/hubs) 
-Renders almost everything the user sees. The html pages are served by Reticulum but come from the client.
+# [Mozilla Hubs Fork](https://github.com/mozilla/hubs) 
+OnBoardXR uses a custom Mozilla Hubs' Client to render almost everything the user sees. The html pages are served by Reticulum but come from the custom client. 
 
 The front-end is built with React for 2D components and Three.js and A-Frame for the 3D scene. The 3D content is synced across clients using networked aframe. Physics run on the client using Ammo.js/Wasm.
 
