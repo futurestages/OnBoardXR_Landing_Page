@@ -2,6 +2,7 @@
 id: hubs-cloud-permissive-rooms
 title: Recipe: Permissive Rooms
 sidebar_label: Recipe: Permissive Rooms
+nav_exclude: true
 ---
 
 Out of the box, the default permissions set on rooms is highly restrictive. This means that if you create a room, only yourself and visitors you choose to promote will have access to all features. Other visitors to your room will be restricted from using most features other than appearing as avatars and speaking.

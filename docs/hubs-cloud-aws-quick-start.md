@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-quick-start
 title: AWS Quick Start
 sidebar_label: AWS Quick Start
+nav_exclude: true
 ---
 
 ## Before creating the Hubs Cloud Stack

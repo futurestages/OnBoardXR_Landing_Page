@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-backup-and-restore
 title: Backup and Restore
 sidebar_label: Backup and Restore
+nav_exclude: true
 ---
 
 If something goes wrong and you need to restore from a backup, or you'd like to just make a second hub using the same data from an existing hub, the stack creation form makes it fairly simple to do so.

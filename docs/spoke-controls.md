@@ -1,6 +1,7 @@
 ---
 id: spoke-controls
 title: Spoke Controls
+nav_exclude: true
 ---
 
 We recommend using spoke on a desktop or laptop computer as some features are not accessible without a mouse and keyboard. 

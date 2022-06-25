@@ -2,6 +2,7 @@
 id: hubs-cloud-managing-content
 title: Managing Content
 sidebar_label: Managing Content
+nav_exclude: true
 ---
 
 In Hubs and Spoke, visitors can create their own avatars and scenes. They can then offer to share that content with others, which will let visitors discover the content through tools like the Media Browser.

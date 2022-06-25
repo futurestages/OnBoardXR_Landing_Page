@@ -1,6 +1,7 @@
 ---
 id: hubs-user-settings
 title: User Settings
+nav_exclude: true
 ---
 
 ## Changing Name and Avatar

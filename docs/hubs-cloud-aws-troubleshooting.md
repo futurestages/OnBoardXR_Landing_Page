@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-troubleshooting
 title: AWS Troubleshooting
 sidebar_label: AWS Troubleshooting
+nav_exclude: true
 ---
 
 ## Deployment

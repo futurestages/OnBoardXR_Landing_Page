@@ -2,6 +2,7 @@
 id: hubs-cloud-faq
 title: Hubs Cloud FAQ
 sidebar_label: FAQ
+nav_exclude: true
 ---
 
 ## Why use Hubs Cloud vs. hubs.mozilla.com?

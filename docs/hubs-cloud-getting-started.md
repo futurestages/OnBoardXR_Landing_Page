@@ -2,6 +2,7 @@
 id: hubs-cloud-getting-started
 title: Getting Started With Hubs Cloud
 sidebar_label: Getting Started
+nav_exclude: true
 ---
 
 After successful Hubs Cloud deployment on AWS or DigitalOcean, navigate to your hub's hosted domain name (eg. myhub.com or hub.mydomain.com). 

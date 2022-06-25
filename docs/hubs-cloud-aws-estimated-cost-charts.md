@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-estimated-cost-charts
 title: AWS Estimating Costs and Cost Charts (Alpha)
 sidebar_label: Estimating Cost Charts (Alpha)
+nav_exclude: true
 ---
 
 This document explains how to estimate your costs. For a full description on:

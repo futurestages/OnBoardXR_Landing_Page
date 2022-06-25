@@ -1,6 +1,7 @@
 ---
 id: spoke-optimization
 title: Optimizing Scenes
+nav_exclude: true
 ---
 
 ## Improving Performance

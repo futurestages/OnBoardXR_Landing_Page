@@ -1,6 +1,7 @@
 ---
 id: hubs-controls
 title: Controls
+nav_exclude: true
 ---
 <!-- 
 https://truben.no/table/ to edit these tables

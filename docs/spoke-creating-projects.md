@@ -1,6 +1,7 @@
 ---
 id: spoke-creating-projects
 title: Create Project
+nav_exclude: true
 ---
 In Spoke, you can either create a new project from Scratch, remix an existing Hubs scene, or import a Spoke project someone sends you. 
 

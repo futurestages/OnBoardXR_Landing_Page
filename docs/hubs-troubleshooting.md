@@ -1,6 +1,7 @@
 ---
 id: hubs-troubleshooting
 title: Troubleshooting
+nav_exclude: true
 ---
 
 ## Getting stuck on loading screen 

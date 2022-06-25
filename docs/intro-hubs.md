@@ -1,4 +1,6 @@
-
+---
+nav_exclude: true
+---
 
 
 In the following guide we'll show you the basics of Hubs! (Prefer a video? [Click here](https://www.youtube.com/watch?v=5QnOsyyebEQ).)

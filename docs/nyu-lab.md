@@ -1,7 +1,9 @@
 ---
+layout: default
 id: nyu-lab
-title: OnBoardXR with New York University
-sidebar_label: New York University Lab
+title: New York University Lab
+parent: Case Studies
+nav_order: 7
 ---
 
 ## The Brendan Bradley Integrative Technology Lab

@@ -1,6 +1,7 @@
 ---
 id: running-hubs-on-aws-cloud9
 title: Running Hubs on AWS cloud
+nav_exclude: true
 ---
 
 Issue: https://github.com/mozilla/hubs/issues/411

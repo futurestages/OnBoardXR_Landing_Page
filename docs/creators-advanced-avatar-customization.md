@@ -1,6 +1,7 @@
 ---
 id: creators-advanced-avatar-customization
 title: Advanced Avatar Customization
+nav_exclude: true
 ---
 
 ## Advanced Re-skinning 

@@ -1,6 +1,7 @@
 ---
 id: intro-avatars
 title: Creating Custom Avatars
+nav_exclude: true
 ---
 
 In Hubs you can choose how you want to represent yourself. Select from any of the featured or newest avatars, or create your own. 

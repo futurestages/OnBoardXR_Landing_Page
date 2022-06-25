@@ -1,6 +1,7 @@
 ---
 id: hubs-discord-bot
 title: Discord Bot
+nav_exclude: true
 ---
 
 ## About

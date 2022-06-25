@@ -2,6 +2,7 @@
 id: hubs-cloud-adding-administrators
 title: Adding Administrators
 sidebar_label: Adding Administrators
+nav_exclude: true
 ---
 
 Administrators for your hub have full access rights. They can:

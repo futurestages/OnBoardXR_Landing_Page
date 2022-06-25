@@ -1,6 +1,7 @@
 ---
 id: hubs-features
 title: Hubs Features
+nav_exclude: true
 ---
 
 ![Hubs User Interface](img/hubs-user-interface.png)

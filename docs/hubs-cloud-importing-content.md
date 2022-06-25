@@ -2,6 +2,7 @@
 id: hubs-cloud-importing-content
 title: Importing Content
 sidebar_label: Importing Content
+nav_exclude: true
 ---
 
 The two forms of content you can import into Hubs Cloud are **avatars** and **scenes**. Avatars are 3D figures like robots, humans, and ducks that can be worn by visitors to represent themselves, and scenes are 3D environments like interiors and landscapes that provide visual grounding for a room.

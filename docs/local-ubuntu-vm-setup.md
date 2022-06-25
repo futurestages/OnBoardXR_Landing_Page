@@ -1,6 +1,7 @@
 ---
 id: local-ubuntu-vm-setup
 title: Local Ubuntu VM Setup
+nav_exclude: true
 ---
 When developing on Windows it's advised to use a local Ubuntu VM, since `yarn` and the various other tools needed to work on Hubs run fastest when running on Linux natively (vs within WSL.)
 

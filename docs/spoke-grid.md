@@ -1,6 +1,7 @@
 ---
 id: spoke-grid
 title: Grid
+nav_exclude: true
 ---
 
 ![Screenshot of Spoke](img/spoke-grid.png)

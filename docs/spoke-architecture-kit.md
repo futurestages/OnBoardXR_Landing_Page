@@ -1,6 +1,7 @@
 ---
 id: spoke-architecture-kit
 title: Architecture Kit
+nav_exclude: true
 ---
 
 With the launch of the Architecture Kit, creators now have an additional way to build custom content for their 3D scenes without using an external tool. The Architecture Kit is designed to make it easier to take existing components that have already been optimized for VR and make it easy to configure those pieces to create original models and scenes. 

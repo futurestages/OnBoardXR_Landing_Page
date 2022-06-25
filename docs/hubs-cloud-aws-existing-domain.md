@@ -2,6 +2,7 @@
 id: hubs-cloud-aws-existing-domain
 title: Using an Existing Domain
 sidebar_label: Using an Existing Domain
+nav_exclude: true
 ---
 
 **Interested in using an existing domain or subdomain for your hub?**

@@ -1,6 +1,7 @@
 ---
 id: hubs-create-join-rooms
 title: Create and Join Rooms
+nav_exclude: true
 ---
 
 ## Create a New Room

@@ -2,6 +2,7 @@
 id: intro-spoke
 title: Building Scenes with Spoke
 sidebar_label: Building Scenes with Spoke
+nav_exclude: true
 ---
 
 Want to build custom VR worlds for Hubs? Meet [Spoke](https://hubs.mozilla.com/spoke)! 👋
