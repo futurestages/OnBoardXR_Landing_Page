@@ -699,7 +699,7 @@
       },
       {
         "name": "Documentation",
-        "link": "#/docs"
+        "link": "docs"
       },
       {
         "name": "About",
@@ -707,7 +707,7 @@
       }
     ],
     "about": "A seasonal first look at the latest international collaborations to educate, inspire, accelerate and empower live performing artists in the metaverse.",
-    "learnLink":"#/docs",
+    "learnLink": "docs",
     "submitLink":"https://docs.google.com/document/d/1FbutGqis3PelrxQpcHHnuhEGGPHOKvlK8MAs0wVg554/edit?usp=sharing",
     "followLink":"https://discord.gg/ShYfHsrzpV",
     
