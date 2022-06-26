@@ -63,7 +63,7 @@ The team behind OnBoardXR first attempted to use Mozilla Hubs to stage live perf
 - to set a custom [`avatar`](./glossary-avatar.md) for each role;
 - to set a custom [`waypoint`](./glossary-waypoint.md) for each role. 
  
-Due to limited time for implementation and integration, only two creators (with coding experience) oversaw integration and implementation of the tool on behalf of all participants. We did not have time to properly test the tool for reliable use across devices, encountering several UI problems in ['vr headset'](./glossary-hmd.md). [`The “roles” were assigned using a “key” extension to the WebVR url`](./glossary-role.md), which also invited user error inputting the correct credentials and making the roles vulnerable for outside parties to access.
+Due to limited time for implementation and integration, only two creators (with coding experience) oversaw integration and implementation of the tool on behalf of all participants. We did not have time to properly test the tool for reliable use across devices, encountering several UI problems in [`vr headset`](./glossary-hmd.md). [`The “roles” were assigned using a “key” extension to the WebVR url`](./glossary-role.md), which also invited user error inputting the correct credentials and making the roles vulnerable for outside parties to access.
 
 In this edition of OnBoardXR, we were able to reliably maintain the server and asset management with increased audience capacity spread over several performances. We experienced difficulty allowing participants to take control of their own customizations and show needs, along with audio falloff and connectivity concerns.
 
@@ -72,5 +72,5 @@ OnBoardXR enjoyed a sold-out run of pay-what-you-want tickets. We were pleasantl
 
 Due to server limitations, capacity was limited to 25 interactive tickets/attendees while a livestream of the virtual experience was broadcast to an average of 30 concurrent viewers on YouTube or Twitch while also serving as a [`backstage`](./glossary-backstage.md) "monitor" for our team members outside the experience. 
 
-Retention was just under 100% of attendeees staying through the entire 60-minute journey, with only a handful (throughout the entire run) dropping off due to technical difficulties from their own client/device. However several users did need to refresh their web browser during the show, especially when using first generation ['vr headsets'](./glossary-hmd.md) or mobile phones which seem to struggle with purging the browser cache after scene switching, attempting to retain all previous media/objects.
+Retention was just under 100% of attendeees staying through the entire 60-minute journey, with only a handful (throughout the entire run) dropping off due to technical difficulties from their own client/device. However several users did need to refresh their web browser during the show, especially when using first generation [`vr headsets`](./glossary-hmd.md) or mobile phones which seem to struggle with purging the browser cache after scene switching, attempting to retain all previous media/objects.
 
