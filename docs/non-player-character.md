@@ -37,6 +37,8 @@ Non-Player Character performed 8 consecutive loops in The Museum of Science's om
 ### NPC: 'Enough'
 For [OnBoardXR: Port of Registry](./obxr-port-of-registry) Bradley and Morran wished to expand a dramatic moment towards the very end of the story where audiences consistently were not responding as intended. A new song, 'Enough,' was developed as ["the eleven o'clock number"](https://en.wikipedia.org/wiki/11_o%27clock_number) and the introduction of ['animation tables'](./glossary-animation-tables.md) to the ['cue-system'](./cue-system.md) allowed a prop lantern to "come to life" in the virtual world, illustrating the story themes and drawing attention to the importance of "lighting the way" to help the NPC character. Designer [Sage Freeman](./sage-freeman.md) and Bradley developed the lanten asset with animation events that could be played or paused via the [cue system](./cue-system.md).
 
+*'Enough' was presented for the general public and an official selection of Mozilla Festival 2022 as presented by OnBoardXR.*
+
 ### NPC: Influencer Streams
 
 ## Workshop Cast Recording
