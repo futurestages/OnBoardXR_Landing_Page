@@ -1,12 +1,12 @@
 ---
 layout: default
 id: obxr-port-of-registry
-title: MAR2022 - Port of Registry
+title: MAR'22 - Port of Registry
 parent: History of OnBoardXR
 nav_order: 4
 ---
 
-# OnBoardXR Season 2: 'Port of Registry'
+# OnBoardXR Season 4: 'Port of Registry'
 
 ## Production & Sponsors
 
