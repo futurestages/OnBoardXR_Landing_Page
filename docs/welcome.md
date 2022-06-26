@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome
-parent: Repository
+parent: Overview
 nav_order: 1
 ---
 
