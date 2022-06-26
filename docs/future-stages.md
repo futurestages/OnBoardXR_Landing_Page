@@ -12,7 +12,7 @@ In July of 2020, Brendan Bradley designed and released [a free 3D performance sp
 The immediate impact and scalbility of offering a free-and-open tool for live performance on the immersive web influenced the original creative community and culture of OnBoardXR.
 
 ## HERE Festival
-The first prototype of ['Jettison'] was presented at The HERE Festival in October 2020 and became the groundwork for the inaugural ['OnBoardXR: Crusie'] Showcase. 
+The first prototype of ['Jettison'](./jettison.md) was presented at The HERE Festival in October 2020 and became the groundwork for the inaugural ['OnBoardXR: Crusie'](./obxr-cruise.md) Showcase. 
 
 ## Black Revolutionary Theater Workshop
 Heather Harvey of [BRTW in Brooklyn connected with Bradley to further optimize the experience](https://www.youtube.com/watch?app=desktop&v=3W50g6jwpKI&t=156s) for primarily mobile device attendees and were able to continue their 'Melanated Mondays' series throughout the shutdown.
