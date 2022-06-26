@@ -8,15 +8,15 @@ nav_order: 5
 ## OnBoardXR Branding & Style Guide
 OnBoardXR represents an open, living community and sandbox for self-generative contributors in the spirit of the [Homebrew Computer Club]( https://en.wikipedia.org/wiki/Homebrew_Computer_Club) with a specific focus on live, experimental performing arts/events in the [‘immersive web’](). 
 
-Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”* and *"playful and punk"* identity and Emcees often greeted guests in playful pirate accents and avatars. As OnBoardXR became known as a safe space to celebrate and support unpolished, boundary-pushing avant garde, the nautical and pirate iconography became integrated into our brand identity as variations on a skull and crossbones. 
+Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”*, *"playful and punk"* identity and our Emcees often greeted guests in playful pirate accents and avatars. As OnBoardXR became known as a safe space to celebrate and support unpolished, boundary-pushing avant garde, the nautical and pirate iconography became integrated into our brand identity as variations on a skull and crossbones. 
 
 The OnBoardXR accent color is a goldenrod yellow ([hexcode:FFD600](https://encycolorpedia.com/ffd600)) as an homage to the hue found in *both* our primary origins: 
 - The VR community’s [Mozilla Hubs yellow duck](https://hubs.mozilla.com/docs/hubs-cloud-branding.html); and 
 - The theater community’s iconic [Playbill yellow banner](https://playbill.com/article/how-to-build-your-own-custom-playbill-program-with-playbillder). 
 
-> All participants and attendees of OnBoardXR are requested to use the hashtags #OnBoardXR and #OBXR when referencing the brand or experience(s).
+> We recommend all participants and attendees of OnBoardXR use the hashtag **#OnBoardXR** and the acronym **"OBXR-#"** when referencing the brand or seasonal experience(s). Example: *"Just got my ticket to OBXR-6, the sixth season of #OnBoardXR to support new live performances in a single web browser."*
 
-> When possible, please include our url http://OnBoardXR.org in all posts and releases.
+> When possible, please include our url http://onboardxr.org in all posts and releases.
 
 
 ## Attribution
