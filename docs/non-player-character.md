@@ -14,12 +14,12 @@ With a 21st-century approach to the tradition of musical theater Workshops and O
 ## Background
 During the 2020 shutdown, Bradley live-streamed [a one-man show, showcasing five modes of virtual storytelling](https://playbill.com/article/watch-this-live-virtual-reality-theatre-performance-from-the-museum-of-science) for The Museum of Science, including live theater in [web-based virtual reality](./glossary-webvr). The following year, Bradley was invited to write and perform an interactive musical theater prototype, [Non-Player Character](), at [The Mugar Omni Dome Theater](https://www.mos.org/press/press-releases/Adult-Programming-Fall-2021) allowing on-site audiences to enter either as a Participant in the VR Concert wearing a VR headset or a Spectator of the virtual experience projected on [the IMAX dome screen](https://en.wikipedia.org/wiki/Mugar_Omni_Theater). In hopes of making the experience accessible to as many people as possible, Bradley was asked to limit the prototype to a 15-minute "show loop" he could perform consecutively for 4 hours. Audiences could choose to experience one short loop or watch multiple versions to observe the variability of game play style and audience interactions.
 
-## NPC: Story Structure & Development
+## Story Structure & Development
 Bradley began devising Non-Player Character in January of 2021 and sketched a few songs and characters for solo rehearsal and writing sessions. Based on his experience performing in live virtual reality projects like *Jettison*, *OnBoardXR* and *Welcome to Respite*, Bradley wished to further investigate the responsive role of "Actor-Guide," theorizing that this relationship with the audience could be inverted by portraying a character without any agency who relied upon attendees to navigate him through open-world environments. The early writing of NPC became most satisfying to Bradley while balancing the tension of two dualing formats: 
 - [Long-form Improvisational formats](https://en.wikipedia.org/wiki/Improvisational_theatre#Non-comedic,_experimental,_and_dramatic,_narrative-based_improvisational_theater) similar to [talk radio](https://en.wikipedia.org/wiki/Talk_radio) where Hosts allow the audience to call-in and influence the show with unpredictable reactions that range from comical to heartbreaking;
 - [A Book Musical](https://en.wikipedia.org/wiki/Musical_theatre#Book_musicals) format whereby the performer can command complete control of the story and audience through well-rehearsed, emotionally resonate song, stage craft and spectacle. 
 
-Early workshops of Non-Player Character centered around this ebb and flow of participation and performance. 
+Early workshops of Non-Player Character centered around this ebb and flow of participation and performance. Bradley reached out to composer Maurice Soque Jr. to help arrange and produce the songs and backing tracks for his early scratch tracks. 
 
 ### NPC: 'Let's Get To The Bottom Of This'
 Bradley hired [Michael Morran](./michael-morran.md) as a Technical Director to explore and stablize features they both hoped to bring to the OnBoardXR [cue-system](./cue-system.md) using Non-Player Character as a prototype. For [OnBoardXR: Mythos and Monsters](./obxr-mythos-monsters.md) they presented a first musical number *'Let's Get To The Bottom Of This'* wherein the audience encountered Bradley portraying a singing octopus [avatar](./glossary-avatar) in an open ocean environment, simulating "swimming" by using the "fly" mechanic and inviting audience to banter with Bradley and sing-a-long.  
@@ -28,11 +28,16 @@ This superficially simple and silly musical performance helped stabilize and sho
 
 *'Let's Get To The Bottom Of This'* was presented for the general public and an official selection of FIVARS 2021 Festival as presented by OnBoardXR.
 
-### NPC: Early Playtesting
+### Early Playtesting
 In anticiption of the prototype performance at The Mugar Omni Theater, Bradley and Morran began running the entire show loop daily. Bradley would drop off a kit of [virtual reality headsets](./hmd.md) and instructions to friends, sanitizing and charging them between deliveries. Then he would return home to perform the live experience and receive feedback. These virtual "previews" drastically influenced and identified last-minute changes to the narrative, asset design and user experience. 
 
 ### NPC: Prototype Performance at The Mugar Omni Theater
 Non-Player Character performed 8 consecutive loops in The Museum of Science's omni dome theater for dozens of active participants and spectators. A videographer recorded the entire event and highlights from various loops were edited into an archive that may be privately screened for funding and awards consideration. 
 
 ### NPC: 'Enough'
-For [OnBoardXR: Port of Registry](./obxr-port-of-registry) 
+For [OnBoardXR: Port of Registry](./obxr-port-of-registry) Bradley and Morran wished to expand a dramatic moment towards the very end of the story where audiences consistently were not responding as intended. A new song, 'Enough,' was developed as ["the eleven o'clock number"](https://en.wikipedia.org/wiki/11_o%27clock_number) and the introduction of ['animation tables'](./glossary-animation-tables.md) to the ['cue-system'](./cue-system.md) allowed a prop lantern to "come to life" in the virtual world, illustrating the story themes and drawing attention to the importance of "lighting the way" to help the NPC character. Designer [Sage Freeman](./sage-freeman.md) and Bradley developed the lanten asset with animation events that could be played or paused via the [cue system](./cue-system.md).
+
+### NPC: Influencer Streams
+
+## Workshop Cast Recording
+As the team contineud to explore every avenue for hybrid, on-site performances and festivals, they recognized Non-Player Character did not have the traditional pitching materials of a typical musical, especially a professionally recorded version of the original music. Composer Maurice Soque Jr. returned to produce and master an Album version of the show, pointing out that the live virtual performances Bradley was already doing could be done from anywhere with wifi, including a recording studio. The two strategically scheduled and released recordings of the original music to include some of the raw enegery and responsiveness of the live show.
