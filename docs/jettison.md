@@ -6,7 +6,7 @@ parent: Case Studies
 nav_order: 2
 ---
 
-## *Jettison*
+# *Jettison*
 The first prototype production to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md)
 
 ## Background
