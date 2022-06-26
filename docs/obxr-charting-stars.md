@@ -1,7 +1,7 @@
 ---
 layout: default
 id: obxr-charting-stars
-title: JUL2022 - Charting the Stars
+title: JUL'22 - Charting the Stars
 parent: History of OnBoardXR
 nav_order: 6
 ---
