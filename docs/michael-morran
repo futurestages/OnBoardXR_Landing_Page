@@ -1,3 +1,11 @@
+---
+layout: default
+id: michael-morran
+title: Michael Morran
+parent: Case Studies
+nav_order: 9
+---
+
 ## Michael Morran
 
 In the Fall of 2020, Michael Morran was a student in the [`New York University Lab`] and presented a concept for live performance using smart home devices. He attended early [`Jettison`] rehearsals and submitted a proposal to [`OnBoardXR: Below Deck`](/obxr2-below-deck) to adapt his live stage show, *Smart Home*, for web-based virtual reality. 
