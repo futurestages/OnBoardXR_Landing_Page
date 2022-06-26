@@ -9,6 +9,11 @@ nav_order: 1
 # OnBoardXR Season 1: 'Cruise'
 The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees received a custom url allowing them freely explore several 3D environments while interacting with live performers and other attendees. A loose theme of "a virtual cruise gone awry" transitioned the audiences from a cruise ship to an underwater ship wreck to a life boat and ending on an island. 
 
+> - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15210492/?ref_=nm_flmg_act_12)
+> - [OnBoardXR on **XRMust**](https://www.xrmust.com/xrdatabase/all-experiences/onboardxr/)
+> - [OnBoardXR on **Everything Immersive**](https://everythingimmersive.com/events/onboard)
+> - [Blog Overview from Brendan Bradley](https://www.brendanabradley.com/futurestages/2021/3/19/a-one-act-festival-in-a-web-browser)
+
 ## Production & Sponsors
 **The Jigsaw Ensemble, Active Replica and Agile Lens** formed an informal partnership to produce the event and absorb overhead costs to deploy and host a custom Hubs client on XRTHEATER.LIVE. Roman Miletitch supported by David Gochfeld developed a preliminary [`cue-system`](./glossary-cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md) hosted on server space provided and managed by Jacob Ervin. Brendan Bradley oversaw all outreach and management of participating artists and proejcts, many of whom he cold-contacted on social media.
 > 
