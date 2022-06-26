@@ -1,7 +1,7 @@
 ---
 layout: default
 id: obxr-below-deck
-title: JUL2021 - Below Deck
+title: JUL'21 - Below Deck
 parent: History of OnBoardXR
 nav_order: 2
 ---
