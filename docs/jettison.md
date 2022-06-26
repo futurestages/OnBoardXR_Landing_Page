@@ -15,6 +15,11 @@ The first prototype production from producers Brendan Bradley, Alex Coulombe, Da
 The play received critcism as an 'unproduceable work of theater' given the challenges of an ocean environment, a live animal, and an on-stage drowning. 
 
 ## HERE Festvial
-Alex Coulombe, David Gochfeld and Kevin Laibson approaced Brendan Bradley about their previous work in virtual reality with an interest to investigate the viability of live theater in web-based virtual reality, utilizing ['The Future Stages'](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could resolve the previous critcisms of the play. The play was presented at No Proscenium's HERE Festival in two different modalities with the actors performing once via their webcams composited into a single video and second as virtual avatars. The production was the subject of a short-form documentary.
+Alex Coulombe, David Gochfeld and Kevin Laibson approaced Brendan Bradley about their previous work in virtual reality with an interest to investigate the viability of live theater in web-based virtual reality, utilizing ['The Future Stages'](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could resolve the previous critcisms of the play. 
 
-##. OnBoardXR: Cruise
+Actors Nican Robinson, Nick Carrillo, Ashley Clements and Brendan Bradley attended rehearsals and performances from three different cities courtesy of Pico Neo 2 headsets from LBX Immersive. The play was presented at No Proscenium's HERE Festival in two different modalities with the actors performing once via their webcams composited into a single video and second as virtual avatars. 
+
+## Reception
+The VR production of Jettison was a Finalist for The Producer Guild of America's Innovation Award and was the subject of a short-form documentary. The team was invited to present their findings at Microsoft, AMC-SIGGRAPH and VR•NY. Jettison's underlying principles for simulating the real-world theatregoing experience in virtual reality continue to inform and influence OnBoardXR's practices regarding house management, audience onboarding, theatrical cues and artist management. 
+
+## OnBoardXR: Cruise
