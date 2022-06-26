@@ -30,7 +30,8 @@ This is not disimilar to the typical first-production acknowledgement when a wor
 
 If OnBoardXR receives an award or nomination for a seasonal showcase that included your work...  
 >We welcome you to include any laurels or logos of the award on your own show marketing with the added attribtuion *"as presented by OnBoardXR"*. Pleas see an example below:
-> ![example laurel attribution](./static-media/obxr_example_laurel.png "example laurel")
+>
+> ![example laurel attribution]([./static-media/obxr_example_laurel.png](https://futurestages.github.io/OnBoardXR_Landing_Page)
 
 If your OnBoardXR prototype receives opportunity or funding for development or production... 
 >We request you include the following attribution in any and all show notes, marketing, press releases, publishing, recordings, and/or archives. 
