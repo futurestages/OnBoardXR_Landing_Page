@@ -8,16 +8,20 @@ nav_order: 5
 ## OnBoardXR Branding & Style Guide
 OnBoardXR represents an open, living community and sandbox for self-generative contributors in the spirit of the [Homebrew Computer Club]( https://en.wikipedia.org/wiki/Homebrew_Computer_Club) with a specific focus on live, experimental performing arts/events in the [‘immersive web’](). 
 
-Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”*, *"playful and punk"* identity and our Emcees often greeted guests in playful pirate accents and avatars. As OnBoardXR became known as a safe space to celebrate and support unpolished, boundary-pushing avant garde, the nautical and pirate iconography became integrated into our brand identity as variations on a skull and crossbones. 
+The OnBoardXR logo incorporates nautical and pirate iconography, often variations of a skull and crossbones, reflecting our brand equity as playfull risktaking to explore unpolished, boundary-pushing avant garde. 
+> Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”*, *"playful and punk"* identity and our Emcees often greeted guests in playful pirate accents and avatars. 
 
 The OnBoardXR accent color is a goldenrod yellow ([hexcode:FFD600](https://encycolorpedia.com/ffd600)) as an homage to the hue found in *both* our primary origins: 
-- The VR community’s [Mozilla Hubs yellow duck](https://hubs.mozilla.com/docs/hubs-cloud-branding.html); and 
-- The theater community’s iconic [Playbill yellow banner](https://playbill.com/article/how-to-build-your-own-custom-playbill-program-with-playbillder). 
+> - The VR community’s [Mozilla Hubs yellow duck](https://hubs.mozilla.com/docs/hubs-cloud-branding.html); and 
+> - The theater community’s iconic [Playbill yellow banner](https://playbill.com/article/how-to-build-your-own-custom-playbill-program-with-playbillder). 
 
-> We recommend all participants and attendees of OnBoardXR use the hashtag **#OnBoardXR** and the acronym **"OBXR-#"** when referencing the brand or seasonal experience(s). Example: *"Just got my ticket to OBXR-6, the sixth season of #OnBoardXR to support new live performances in a single web browser."*
+We recommend all participants and attendees of OnBoardXR use the hashtag **#OnBoardXR** and the acronym **"OBXR-#"** when referencing the brand or seasonal experience(s). 
+> Example: *"Just got my ticket to OBXR-6, the sixth season of #OnBoardXR to support new live performances in a single web browser."*
 
-> When possible, please include our url http://onboardxr.org in all posts and releases.
+When possible, please include our url http://onboardxr.org in all posts and releases.
 
+## Downloads
+These are the official logos and overlays for OnBoardXR. (coming soon)
 
 ## Attribution
 Many of our prototypes and artists have successfuly received funding or opportunity after support from OnBoardXR. Simultaneously, OnBoardXR submits all its prototypes for festival and awards consideration. In keeping with our mission, we believe in proper attribution for all investment(s) made by our community and team, often offering the first or only path to production for artists to bring their creative practice into virtual reality. 
@@ -25,9 +29,8 @@ Many of our prototypes and artists have successfuly received funding or opportun
 This is not disimilar to the typical first-production acknowledgement when a work of theater is published and empowers all participants to leverage the full weight and legacy of the OnBoardXR brand to elevate their personal projects. 
 
 If OnBoardXR receives an award or nomination for a seasonal showcase that included your work...  
->We welcome you to include any laurels or logos of the award on your own show marketing with the added attribtuion *"as part of OnBoardXR"*. Pleas see an example below:
->
->[FIARS LOGO]
+>We welcome you to include any laurels or logos of the award on your own show marketing with the added attribtuion *"as presented by OnBoardXR"*. Pleas see an example below:
+> ![example laurel attribution](./static-media/obxr_example_laurel.png "example laurel")
 
 If your OnBoardXR prototype receives opportunity or funding for development or production... 
 >We request you include the following attribution in any and all show notes, marketing, press releases, publishing, recordings, and/or archives. 
