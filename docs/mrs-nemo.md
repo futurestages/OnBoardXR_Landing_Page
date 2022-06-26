@@ -3,7 +3,7 @@ layout: default
 id: mrs-nemo
 title: Mrs. Nemo
 parent: Case Studies
-nav_order: 9
+nav_order: 8
 ---
 
 ## Mrs. Nemo
