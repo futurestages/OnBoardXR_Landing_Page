@@ -5,6 +5,8 @@ parent: Overview
 nav_order: 1
 ---
 
+## Ahoy there! 
+
 **OnBoardXR** supports live performance prototypes utilizing extended reality and immersive web technologies. We offer a first-look at content, talent and tools collaborating to educate, inspire, accelerate and empower live events in the 3D web, coloquially referred to as "the metaverse". OnBoardXR has been best described as a blend of [The Edinburgh Fringe Festival](https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe) and [The Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) and supported 25+ world premiere prototyes for live theater, dance, music, art, puppetry, fooling, improv and more.
 
 ## Community
