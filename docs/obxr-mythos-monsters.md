@@ -6,7 +6,7 @@ parent: History of OnBoardXR
 nav_order: 3
 ---
 
-# OnBoardXR Season 4: 'Mythos & Monsters'
+# OnBoardXR Season 3: 'Mythos & Monsters'
 
 ## Production & Sponsors
 
