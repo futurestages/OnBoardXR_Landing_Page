@@ -3,7 +3,7 @@ layout: default
 id: nyu-lab
 title: New York University Lab
 parent: Case Studies
-nav_order: 7
+nav_order: 6
 ---
 
 ## The Brendan Bradley Integrative Technology Lab
