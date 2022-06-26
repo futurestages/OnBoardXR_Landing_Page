@@ -8,7 +8,7 @@ nav_order: 6
 
 ## The Brendan Bradley Integrative Technology Lab
 
-In 2017, New York University’s Tisch School of the Arts launched The Brendan Bradley Integrative Technology Lab [1](https://playbill.com/article/could-nyu-have-the-solution-to-produce-distance-theatre-during-quarantine-and-beyond) [2](https://www.americantheatre.org/2020/05/18/vr-theatre-doesnt-seem-so-distant-anymore/) [3](https://tisch.nyu.edu/drama/news/brendan-bradley-innovation-lab-creates-space-for-collaboration-a) as a cross-departmental initiative to invite real-world technologists as survey instructors for students to experiment with interactive and immersive technology in live performance. 
+In [2017](https://tisch.nyu.edu/drama/news/brendan-bradley-innovation-lab-creates-space-for-collaboration-a), [New York University’s Tisch School of the Arts](https://playbill.com/article/could-nyu-have-the-solution-to-produce-distance-theatre-during-quarantine-and-beyond) launched [The Brendan Bradley Innovation Lab](https://www.americantheatre.org/2020/05/18/vr-theatre-doesnt-seem-so-distant-anymore/) as a cross-departmental initiative to invite real-world technologists as survey instructors for students to experiment with interactive and immersive technology in live performance. 
 
 Several previous OnBoardXR participants have been students and/or instructors at the Lab and as part of our mission to engage and connect the next generation of storytellers. 
 
