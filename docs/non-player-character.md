@@ -18,6 +18,7 @@ During the 2020 shutdown, Bradley live-streamed [a one-man show, showcasing five
 Bradley began devising Non-Player Character in January of 2021 and sketched a few songs and characters for solo rehearsal and writing sessions. Based on his experience performing in live virtual reality projects like *Jettison*, *OnBoardXR* and *Welcome to Respite*, Bradley wished to further investigate the responsive role of "Actor-Guide," theorizing that this relationship with the audience could be inverted by portraying a character without any agency who relied upon attendees to navigate him through open-world environments. The early writing of NPC became most satisfying to Bradley while balancing the tension of two dualing formats: 
 - [Long-form Improvisational formats](https://en.wikipedia.org/wiki/Improvisational_theatre#Non-comedic,_experimental,_and_dramatic,_narrative-based_improvisational_theater) similar to [talk radio](https://en.wikipedia.org/wiki/Talk_radio) where Hosts allow the audience to call-in and influence the show with unpredictable reactions that range from comical to heartbreaking;
 - [A Book Musical](https://en.wikipedia.org/wiki/Musical_theatre#Book_musicals) format whereby the performer can command complete control of the story and audience through well-rehearsed, emotionally resonate song, stage craft and spectacle. 
+
 Early workshops of Non-Player Character centered around this ebb and flow of participation and performance. 
 
 ### NPC: 'Let's Get To The Bottom Of This'
