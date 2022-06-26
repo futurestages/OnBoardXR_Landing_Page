@@ -20,6 +20,6 @@ Alex Coulombe, David Gochfeld and Kevin Laibson approaced Brendan Bradley about 
 Actors Nican Robinson, Nick Carrillo, Ashley Clements and Brendan Bradley attended rehearsals and performances from three different cities courtesy of Pico Neo 2 headsets from LBX Immersive. The play was presented at No Proscenium's HERE Festival in two different modalities with the actors performing once via their webcams composited into a single video and second as virtual avatars. 
 
 ## Reception
-The VR production of Jettison was a Finalist for The Producer Guild of America's Innovation Award and was the subject of a short-form documentary. The team was invited to present their findings at Microsoft, AMC-SIGGRAPH and VR•NY. Jettison's underlying principles for simulating the real-world theatregoing experience in virtual reality continue to inform and influence OnBoardXR's practices regarding house management, audience onboarding, theatrical cues and artist management. 
+The VR production of Jettison was a Finalist for The Producer Guild of America's Innovation Award and was the subject of a short-form documentary. The team was invited to present their findings at Microsoft, AMC-SIGGRAPH and VR•NY. Jettison's underlying principles for simulating the real-world theatregoing experience in virtual reality continue to inform and influence OnBoardXR's practices regarding prototyping, house management, audience onboarding, theatrical cues and artist management. 
 
 ## OnBoardXR: Cruise
