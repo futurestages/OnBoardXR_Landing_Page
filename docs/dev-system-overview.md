@@ -3,7 +3,7 @@ layout: default
 id: system-overview
 title: Overview
 parent: History of OnBoardXR
-nav_order: 1
+nav_order: 6
 ---
 
 # [Mozilla Hubs Fork](https://github.com/mozilla/hubs) 
