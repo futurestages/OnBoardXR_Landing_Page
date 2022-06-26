@@ -3,7 +3,7 @@ layout: default
 id: nelly-lewis
 title: Nelly Lewis
 parent: Case Studies
-nav_order: 11
+nav_order: 17
 ---
 
 ## Nelly Lewis & VR Creative Arts
