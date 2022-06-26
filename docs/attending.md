@@ -25,5 +25,5 @@ Information Button
 Settings
 
 ## Refunds
-Dasha Kittredge likes to say *"we are navigating the uncharted waters of the metaverse and things may get a bit choppy."* If your experience is unpleasant or interrupted, we understand you may wish to request a refund and are happy to receive these requests at: info@jigsawensemble.com 
+Dasha Kittredge likes to say *"we are navigating the uncharted waters of the metaverse and things may get a bit choppy."* If your experience is unpleasant or interrupted, we understand you may wish to request a refund and are happy to receive these requests at: info (at) jigsawensemble (dot) com 
 However, we ask that you consider that every dollar of ticket sales is split between our participants to support their prototyping at the bleeding edge of what is possible. We hope you'll consider leaving your donation in the future of live performing arts on the immersive web and instead asking for a complimentary ticket to a later showtime.
