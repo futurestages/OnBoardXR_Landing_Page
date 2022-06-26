@@ -8,7 +8,7 @@ nav_order: 9
 
 ## Michael Morran
 
-In the Fall of 2020, Michael Morran was a student in the [`New York University Lab`] and presented a concept for live performance using smart home devices. He attended early [`Jettison`] rehearsals and submitted a proposal to [`OnBoardXR: Below Deck`](/obxr2-below-deck) to adapt his live stage show, *Smart Home*, for web-based virtual reality. 
+In the Fall of 2020, Michael Morran was a student in the [`New York University Lab`](./nyu-lab) and presented a concept for live performance using smart home devices. He attended early [`Jettison`](./jettison) rehearsals and submitted a proposal to [`OnBoardXR: Below Deck`](./obxr2-below-deck) to adapt his live stage show, *Smart Home*, for web-based virtual reality. 
 
 ## Smart Home
 In Michael’s on-site staged production of *Smart Home*, RGB lights responded to his voice levels in a microphone using [Internet of things]( https://en.wikipedia.org/wiki/Internet_of_things) and a [raspberry pi]( https://en.wikipedia.org/wiki/Raspberry_Pi). Michael wanted to explore if he could create the same effect in virtual reality where microphone input would influence the colored lighting of the 3d environment. 
