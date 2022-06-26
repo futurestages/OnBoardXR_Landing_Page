@@ -25,7 +25,7 @@ First actors performed via [`webcameras`]() composited together into a single vi
 
 In the second section, the same actors performed as virtual [`avatars`]() with their live-action video set to the side to allow audience to observe how their movements puppetted the digital characters.
 
-![Jettison Avatar GIF](/assets/images/clip-jettison.gif)
+![Jettison Avatar GIF](/static/media/clip.jettison.gif)
 
 Three music cues were played throughout the performance to transition between the changes in narrative and modality. The team utilized a [`virtual cable`]() to pipe audio through a hidden avatar, serving as a public address system in the virtual world. The team also discovered avatars could be scaled down to flea-size and hidden in the ceiling to create a [`god-mic`]() effect to override the [`spatialized audio`](). 
 
