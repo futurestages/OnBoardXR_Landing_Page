@@ -3,12 +3,12 @@ title: "Home"
 output: html_document
 nav_order: 1
 ---
-# OnBoardXR
+# Welcome to OnBoardXR
 
-Welcome to the OnBoardXR Repository for organizing and archiving documentation and case studies from our community and seasonal showcases. 
+A community and seasonal first-look hackathon to educate, inspire, accelerate and empower live performing artists in the immersive web. This site is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes.
 
 ## Who is OnBoardXR for?
-OnBoardXR is for live performing artists and technologists who wish to connect with others remotely in a shared virtual space. 
+OnBoardXR is a fleet of tools and talent supporting live performance prototpyes to onboard new artists and audiences in a shared virtual space. 
 
 OnBoardXR utilizes ['web-based virtual realiity'] working across platforms without purchasing equipment or downloading software. Got a VR headset? Awesome! If not, you can use your desktop computer, laptop, tablet, or mobile devices to explore in 2D ([see supported browsers](./hubs-create-join-rooms.html#for-2d-experience)).
 
