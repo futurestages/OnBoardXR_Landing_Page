@@ -6,7 +6,7 @@ parent: Case Studies
 nav_order: 17
 ---
 
-## Nelly Lewis & VR Creative Arts
+# Nelly Lewis & VR Creative Arts
 
 In the beginning of 2022, [Nelly Lewis]() submitted a proposal to [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) as a first exploration of her [mime practice](https://en.wikipedia.org/wiki/Mime_artist) in virtual reality. At her [`intake session`](./glossary-intake.md), Nelly described the importance of the audience being able to see her real-life face and body to convey her craft. Her proposal for *Here and There* aimed to explore a simultaneous performance where she pupetted a laughing, male-presenting [`avatar`](./glossary-avatar.md) using a vr headset while appearing as a distressed female-presenting performer on her 2D [`webcam`](./glossary-webcam.md) feed.
 
