@@ -1,14 +1,16 @@
 ---
-id: contributing
-title: Contributing
-nav_exclude: true
+layout: default
+title: Dev With Us
+parent: Overview
+nav_order: 4
 ---
 
-This page outlines opportunities for people who want to contribute to the Hubs project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
+## How to Dev With Us
+This page outlines opportunities for people who want to contribute to the OnBoardXR project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
 
 Contributors are expected to abide by the project's [Code of Conduct](https://github.com/mozilla/hubs/blob/master/CODE_OF_CONDUCT.md) and to be respectful of the project and people working on it. 
 
-The following GitHub projects are part of the Hubs platform and governed by these contributing guidelines: 
+The following GitHub projects are part of the Mozilla Hubs platform and governed by these contributing guidelines. We recommend familiarizing yourself with Hubs prior to accessing the repo for OnBoardXR. 
 
 * https://github.com/mozilla/hubs/ - the core Hubs project
 * https://github.com/mozilla/spoke - 3D editor for creating scenes
@@ -20,7 +22,7 @@ The following GitHub projects are part of the Hubs platform and governed by thes
 
 ## Quick Start
 
-We are happy to receive contributions to the Hubs platform in a number of different ways as outlined below. Please note that all contributions are subject to approval by the project maintainers. We ask (but do not require) that those interested in contributing to Hubs consider joining the public [Hubs Discord chat server](https://discord.gg/wHmY4nd) to connect with the dev team, ask questions, and view discussions about work being done on the project.
+We are happy to receive contributions to the OnBoardXR platform in a number of different ways as outlined below. Please note that all contributions are subject to approval by the project maintainers. We ask (but do not require) that those interested in contributing to Hubs consider joining the public [OnBoardXR Discord chat server](https://discord.gg/) to connect with the dev team, ask questions, and view discussions about work being done on the project.
 
 ### 💻 Code Contributions
 Hubs has a client-server architecture that gives multiple users the ability to connect to a shared room on the server. If you are interested in contributing to the Hubs client, follow the instructions in the [Readme](https://github.com/mozilla/hubs#readme) to get started. If you want to contribute to the networking or infrastructure, consider looking at the [reticulum](https://github.com/mozilla/reticulum) or [Dialog](https://github.com/mozilla/dialog) repositories. If you are interested in working on the code for Spoke, the 3D editor used to create custom environments for Hubs rooms, explore the [Spoke](https://github.com/mozilla/spoke) repository.
