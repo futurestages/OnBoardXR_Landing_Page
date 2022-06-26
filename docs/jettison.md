@@ -15,7 +15,7 @@ The first prototype production from producers Brendan Bradley, Alex Coulombe, Da
 The play received critcism as an 'unproduceable work of theater' given the challenges of an ocean environment, a live animal, and an on-stage drowning. 
 
 ## Webcam versus Avatar Performance 
-Alex Coulombe, David Gochfeld and Kevin Laibson approaced Brendan Bradley about their previous work in virtual reality with an interest to investigate the viability of live theater in web-based virtual reality, utilizing ['The Future Stages'](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could resolve the previous critcisms of the play. 
+Alex Coulombe, David Gochfeld and Kevin Laibson approached Brendan Bradley about their previous work in virtual reality with an interest to investigate the viability of live theater in web-based virtual reality, utilizing ['The Future Stages'](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could resolve the previous critcisms of the play. 
 
 The team elected to limit their asset design to default and/or creative commons 3D models and avatars as a proof of concept for what any artist could replicate with a budget or bespoke 3D modeling. 
 
