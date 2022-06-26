@@ -1,7 +1,7 @@
 ---
 layout: default
 id: obxr-mythos-monsters
-title: OCT2021 - Mythos & Monsters
+title: OCT'21 - Mythos & Monsters
 parent: History of OnBoardXR
 nav_order: 3
 ---
