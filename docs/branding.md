@@ -10,7 +10,9 @@ OnBoardXR represents an open, living community and sandbox for self-generative c
 
 Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”* and *"playful and punk"* identity and Emcees often greeted guests in playful pirate accents and avatars. As OnBoardXR became known as a safe space to celebrate and support unpolished, boundary-pushing avant garde, the nautical and pirate iconography became integrated into our brand identity as variations on a skull and crossbones. 
 
-The accent goldenrod yellow ([hexcode:FFD600](https://encycolorpedia.com/ffd600)) is an homage to the color palette found in both our primary origins: the VR community’s [Mozilla Hubs yellow duck](https://hubs.mozilla.com/docs/hubs-cloud-branding.html) and the theater community’s iconic [Playbill yellow banner](https://playbill.com/article/how-to-build-your-own-custom-playbill-program-with-playbillder). 
+The OnBoardXR accent color is a goldenrod yellow ([hexcode:FFD600](https://encycolorpedia.com/ffd600)) as an homage to the hue found in *both* our primary origins: 
+- The VR community’s [Mozilla Hubs yellow duck](https://hubs.mozilla.com/docs/hubs-cloud-branding.html); and 
+- The theater community’s iconic [Playbill yellow banner](https://playbill.com/article/how-to-build-your-own-custom-playbill-program-with-playbillder). 
 
 > All participants and attendees of OnBoardXR are requested to use the hashtags #OnBoardXR and #OBXR when referencing the brand or experience(s).
 
