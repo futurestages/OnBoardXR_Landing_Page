@@ -7,6 +7,12 @@ nav_order: 1
 
 A community and seasonal first-look hackathon to educate, inspire, accelerate and empower live performing artists in the immersive web. This site is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes.
 
+> ## *"Theatre is not a building. It is a movement."* 
+> Robert Barry Fleming (2020), Actors Theatre of Louisville
+
+> ## *"A group of amateur players have presented some fifty one-act plays to the great pleasure and interest of themselves and the alternate, sometimes mingled, amusement, surprise, disapproval and horror of their neighbors."*
+> Mary Aldis (1915), predecessor to the 'little theater' movement
+
 ## Who is OnBoardXR for?
 OnBoardXR is a fleet of tools and talent supporting live performance prototpyes to onboard new artists and audiences in a shared virtual space. 
 
