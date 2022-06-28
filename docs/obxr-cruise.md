@@ -17,7 +17,7 @@ The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees
 ## Production & Sponsors
 **The Jigsaw Ensemble, Active Replica and Agile Lens** formed an informal partnership to produce the event and absorb overhead costs to deploy and host a custom Hubs client on XRTHEATER.LIVE. Roman Miletitch supported by David Gochfeld developed a preliminary [`cue-system`](./glossary-cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md) hosted on server space provided and managed by Jacob Ervin. Brendan Bradley oversaw all outreach and management of participating artists and proejcts, many of whom he cold-contacted on social media.
 > 
-> Narrative Lead & Curation:
+> Artistic Director:
 > BRENDAN BRADLEY
 > 
 > Creative Technologist:
