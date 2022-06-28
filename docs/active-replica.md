@@ -12,9 +12,11 @@ For [`OnBoardXR: Cruise`](./obxr-cruise.md), a Canadian immersive company, [`Act
 
 ## Sponsorship 
 
-Active Replica supported OnBoardXR with [In-Kind Sponsorship](https://en.wikipedia.org/wiki/Gifts_in_kind) for [`OnBoardXR: Cruise`](./obxr-cruise.md), [`OnBoardXR: Below Deck`](./obxr-below-deck.md), and [`OnBoardXR: Mythos & Monsters`](./obxr-mythos-monsters.md). This [`"soft support"`](./glossary-soft-support.md) included maintaining XRtheater.live as a test-server for deploying webVR features or prototypes that may have disrupted Active Replica's primary business on their company server and evolving Design support to help enhance and optimize visual assets.  During [`OnBoardXR: Mythos & Monsters`](./obxr-mythos-monsters.md), Active Replica provided a 3D Lobby-Aquarium [`Scene`](./glossary-scene.md), which became known as [`The Sponsor Lobby`]().
+Active Replica's [`Jacob Ervin`]() and [`Valerian`]() supported OnBoardXR with [In-Kind Sponsorship](https://en.wikipedia.org/wiki/Gifts_in_kind) for [`OnBoardXR: Cruise`](./obxr-cruise.md), [`OnBoardXR: Below Deck`](./obxr-below-deck.md), and [`OnBoardXR: Mythos & Monsters`](./obxr-mythos-monsters.md). This [`"soft support"`](./glossary-soft-support.md) included maintaining XRtheater.live as a test-server for deploying webVR features or prototypes that may have disrupted Active Replica's primary business on their company server and evolving staff support by [`Anais Ron`]() to help enhance and optimize visual assets, [`Stephen Flach`]() for stage management and [`Paola`] for livestreaming the events to a secondary streaming partner.  
 
-During [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md), Active Replica offered a modest fiscal sponsorship to help OnBoardXR's overhead costs and allow ticket sales to continue to be split amoung OnBoardXR participants.
+During [`OnBoardXR: Mythos & Monsters`](./obxr-mythos-monsters.md), Active Replica provided a 3D Lobby-Aquarium [`Scene`](./glossary-scene.md), which became known as [`The Sponsor Lobby`]() and showcased the company's standout design capability. 
+
+During [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md), Active Replica offered to include a modest fiscal sponsorship to help OnBoardXR's overhead costs and allow ticket sales to continue to be split amoung OnBoardXR participants.
 
 ## MozFest: A Case-Study in Interoperable Metaverses
 
