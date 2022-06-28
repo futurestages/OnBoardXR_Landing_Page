@@ -21,6 +21,15 @@ Bradley began devising *Non-Player Character* in January of 2021 and sketched a 
 
 Early workshops of *Non-Player Character* centered around this ebb and flow of participation and performance. Bradley reached out to composer [Maurice Soque Jr.]() to help further arrange and produce the songs and backing tracks for his early scratch tracks. 
 
+### Asset Creation
+*Non-Player Character* was an opportunity for Bradley to reflect on the limitations and criticsms of webVR, primarily in low poly, compressed graphical assets. On a technical scout at The Museum of Science, Bradley took a LIDAR scan of the entire Mugar Omni Theater as well as articfacts and architectual elements around the Museum. These all became incorporated into environments, props and characters for the final show. 
+
+Inspired by his experience performing in *Welcome To Respite*, Bradley experimented with Blender [`shape keys`]() to add [`weighted bones`]() to the face of the non-player character. By pressing a combination of buttons on the left controller, the character's face stretched to appear more expressive than default Mozilla Hubs avatars. In contrast, audience avatars were not given faces so the audience focus would gravitate toward the protagonist.
+
+During rehearsals, Michael Morran and Brendan Bradley determined it was useful to preserve the "head wobble" of Mozilla avatars whereby the avatar's head scales slightly larger when the microphone detects audio input, thus helping the viewer visualze who is speaking. The team also preserved the default [`idle animation`]() of the blinking eyes and even added a secondary idle a slight "breathing" to the chest to give the character more lifelike appearance.  
+
+Name tags were forced off in the experience to increase audience immersion.
+
 ### NPC: *'Let's Get To The Bottom Of This'*
 Bradley approached [`Michael Morran`](./michael-morran.md) as a Technical Director to explore and stablize features they both hoped to bring to the OnBoardXR [`cue system`](./cue-system.md) using *Non-Player Character* as a prototype. For [`OnBoardXR: Mythos and Monsters`](./obxr-mythos-monsters.md) they presented a first musical number *'Let's Get To The Bottom Of This'* wherein the audience encountered Bradley portraying a singing octopus [`avatar`](./glossary-avatar) in an open ocean environment, simulating "swimming" by using the "fly" mechanic and inviting audience to banter with Bradley and sing-a-long.  
 
