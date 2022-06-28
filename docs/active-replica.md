@@ -30,7 +30,7 @@ OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Regi
 
 ## Productions
 
-Active Replica was often listed as a producer on one of the OnBoardXR acts each season. These prototypes recieved additional internal support from Active Replica's broader staff, often investigating an application of live events the company wished to offer to its own client base. 
+Active Replica was often listed as a producer on one of the OnBoardXR acts each season. These prototypes recieved additional internal support from Active Replica's broader staff, often prototyping an application of live events the company wished to offer to its own client base. OnBoardXR's community and team offered equal support and services to this performances, leading to a familiar group of recurring participants. 
 
 ### This Land Is Island
 [`Xriel Tarr`]() and [`Dasha Kittredge`]() devised an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by Kevin Laibson. 
