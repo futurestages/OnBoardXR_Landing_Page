@@ -20,9 +20,6 @@ The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees
 > Artistic Director:
 > BRENDAN BRADLEY
 > 
-> Line Producer:
-> KEVIN LAIBSON
-> 
 > Stage Management:
 > ALEX COULOMBE & STEPHEN FLACH
 > 
