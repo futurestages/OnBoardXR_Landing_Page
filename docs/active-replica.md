@@ -34,13 +34,18 @@ Active Replica was often listed as a producer on one of the OnBoardXR acts each 
 
 ### This Land Is Island
 [`Xriel Tarr`]() and [`Dasha Kittredge`]() were approached by [`Brendan Bradley`](./future-stages.md) to join [`OnBoardXR: Cruise`](./obxr-cruise.md). The team partnered with [`Active Replica`]() to devise an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
-<! 
+
+<img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.thisland.png" alt="alt text" title="This Land Is Island" width="150"/>
 
 ### Haroun Desert
 [`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md) to expand upon a concept developed at PXR Conference, hosted by Single Thread and Electric Company Theatre. In Haroun Desert audiences encountered an unreliable protagonist [`avatar`](./glossary-avatar.md) riding an animated horse model to obscure Mozilla's half-body avatars without legs. Participants were instructed to convince another actor to give them a potion, which would ultimately give the villain-protagonist magic powers to alter his scale, summon creatures and unlock the audiences ability to 'fly.'  
 
+<img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif" alt="alt text" title="Haroun Desert" width="150"/>
+
 ### Jazz Organ
 [`Xriel Tarr`]() submitted a proposal to [`OnBoardXR: Port of Registry`](./obxr-port-or-registry.md) to explore the potential for collaboration to repurpose a 3D artist's existing assets into an original narrative experience. Dax Norman's animated models were re-imagined as a cabaret inside the chest of the Emcee avatar, building upon earlier prototypes from [`Non-Player Character`]() for [`animation tables`](./glossary-animation-tables.md) and [`shape keys`](./glossary-shape-keys.md) that could be triggered by the [`cue system`](./cue-system.md) or the performer's vr controller.
+
+<img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.jazzorgan.gif" title="Jazz Organ" width="150"/>
 
 ### Parable of the Sower
 MozFest engaged Active Replica to host composer and librettist, Toshi Reagon at for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) and [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
