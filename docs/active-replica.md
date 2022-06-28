@@ -8,7 +8,7 @@ nav_order: 7
 
 # Active Replica
 
-For [`OnBoardXR: Cruise`](./obxr-cruise.md), a Canadian immersive company, [`Active Replica`](), was introduced to the team via performer [`Xriel Tarr`]() to offer Technical support to deploy a custom client of Mozilla Hubs at XRtheater.live and Design suppport/optimization for the 3D assets. 
+For [`OnBoardXR: Cruise`](./obxr-cruise.md), a Canadian immersive company, [`Active Replica`](), was introduced to the team via performer [`Xriel Tarr`]() to offer Technical support to deploy a custom client of Mozilla Hubs at XRtheater.live and Design suppport for 3D assets. 
 
 ## Sponsorship 
 
