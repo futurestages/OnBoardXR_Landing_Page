@@ -58,7 +58,7 @@ A scene from The Play That Is Going To Change Everything. the world's first play
 ## [Jettison](./jettison.md) (Reprise)
 Above water, a life boat floats in the open ocean as three strangers discover an unexpected stowaway in this dark comedy about survival. Producers: Bendan Bradley, David Gochfeld, Alex Coulombe and Kevin Laibson. Direction by David Gochfeld. Written by Brendan Bradley. Performed by Nican Robinson, Nick Carrillo, Ashley Clements and Brendan Bradley.
 
-## [This Land is I Land](./active-replica.md)
+## [This Land is IsLand](./active-replica.md)
 Vera and Captain Boouffe have been on an island for...a little too long. Help them see paste the pitfalls of their relationship, overcome their self-absorption and conquer the islands' monstrous obstacles to inevitably find what they have been searching for all along. Devised and performed by Ari Tarr and Dasha Kittredge with Kevin Laibson as puppeteer for monsters. Produced by Active Replica with contributions from Jacob Ervin.
 
 ## [Cue System](./glossary-cue-system.md)
