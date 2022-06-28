@@ -33,19 +33,19 @@ OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Regi
 Active Replica was often listed as a producer on one of the OnBoardXR acts each season. These prototypes recieved additional internal support from Active Replica's broader staff, often prototyping an application of live events the company wished to offer to its own client base. OnBoardXR's community and team offered equal support and services to this performances, leading to a familiar group of recurring participants. 
 
 ### This Land Is Island
-[`Xriel Tarr`]() and [`Dasha Kittredge`]() devised an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by Kevin Laibson. 
+[`Xriel Tarr`]() and [`Dasha Kittredge`]() were approached by [`Brendan Bradley`](./future-stages.md) to join [`OnBoardXR: Cruise`](./obxr-cruise.md). The team partnered with [`Active Replica`]() to devise an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
 
 ### Haroun Desert
-[`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() 
+[`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md)
 
 ### Jazz Organ
-[`Xriel Tarr`]() 
+[`Xriel Tarr`]() submitted a proposal to [`OnBoardXR: Port of Registry`](./obxr-port-or-registry.md)
 
 ### Parable of the Sower
-MozFest engaged Active Replica to host composer and librettist, Toshi Reagon for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) and [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
+MozFest engaged Active Replica to host composer and librettist, Toshi Reagon at for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) and [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
 
 ### Seikuken
-In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program with Xriel Tarr as deeper exploration of his OnBoardXR prototypes. The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md). Proximity triggers similar to [`Strings: Prisoner`](./unwired-dance.md) and [`Pier to Peer`]() altered avatars and environment. [`Animation tables`]() built on the earlier prototypes from [`Jazz Organ`]() and [`Enough`](). 
+In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program to [`Xriel Tarr`]() on the heels of his multiple OnBoardXR prototypes and his adjunct teaching at [`New York University's Lab`](./nyu-lab.md). The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md). Proximity triggers similar to [`Strings: Prisoner`](./unwired-dance.md) and [`Pier to Peer`]() altered avatars and environment. [`Animation tables`]() built on the earlier prototypes from [`Jazz Organ`]() and [`Enough`](). 
 
 ## Staffing and Tools
 
