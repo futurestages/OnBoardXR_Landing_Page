@@ -24,9 +24,9 @@ Unbeknownst to either party, [`OnBoardXR: Port of Registry`](./obxr-port-of-regi
 
 This campus aimed to connect multiple custom clients of Mozilla Hubs so users could "portal" between different experiences. As a case study for interoperable metaverses, MozFest granted Active Replica permission to incorporate OnBoardXR's lobby directly into the virtual conference itself as a dedicated "wing." Participants of the conferece could visit the OnBoardXR lobby by clicking on a doorway which linked to a [`Room`](./glossary-room.md) url on OnBoardXR's separate server. This mirrored the exact mechanic of portaling into breakout rooms within the virtual conference itself, with a minor inconvenience of requiring the user to repeat the sign-in menu process.
 
-During showtimes, participants could join the live performance by navigating the theater wing and clicking on the doorway. When shows were not in progress, [`Sage Freeman`]() designed a stunning port environment where visitors could explore and learn more information about the performances. OnBoardXR premieredsix prototypes in [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) on March 10, 2022 for the MozFest passholders before embarking on a run of shows for the general public. 
+During showtimes, participants could join the live performance by navigating the theater wing and clicking on the doorway. When shows were not in progress, [`Sage Freeman`]() designed a stunning port environment where visitors could explore and learn more information about the performances. 
 
-This successful handshake between three separate ecosystems (OnBoardXR, MozFest and Active Replica) running their own clients on their own servers provided a compeling framework for a web of disconnected communities in WebVR chosing to allow occasional traffic to each others users and content. 
+OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) on March 10, 2022 for MozFest passholders before embarking on a run of shows for the general public. This successful handshake between three separate ecosystems (OnBoardXR, MozFest and Active Replica) running their own clients on their own servers provided a compeling framework for a web of disconnected communities in WebVR chosing to allow occasional traffic to each others users and content. 
 
 ## Productions
 
@@ -42,7 +42,7 @@ Active Replica was usually listed as a producer on one of the OnBoardXR acts eac
 [`Xriel Tarr`]() 
 
 ### Parable of the Sower
-MozFest engaged Active Replica to host composer and librettist, Toshi Reagon for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) [`Michael Morran`](./michael-morran.md). 
+MozFest engaged Active Replica to host composer and librettist, Toshi Reagon for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
 
 ### Seikuken
 In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program with Xriel Tarr. The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md).
