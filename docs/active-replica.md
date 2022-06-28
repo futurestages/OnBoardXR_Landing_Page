@@ -24,13 +24,13 @@ Unbeknownst to either party, [`OnBoardXR: Port of Registry`](./obxr-port-of-regi
 
 This campus aimed to connect multiple custom clients of Mozilla Hubs so users could "portal" between different experiences. As a case study for interoperable metaverses, MozFest granted Active Replica permission to incorporate OnBoardXR's lobby directly into the virtual conference itself as a dedicated "wing." Participants of the conferece could visit the OnBoardXR lobby by clicking on a doorway which linked to a [`Room`](./glossary-room.md) url on OnBoardXR's separate server. This mirrored the exact mechanic of portaling into breakout rooms within the virtual conference itself, with a minor inconvenience of requiring the user to repeat the sign-in menu process.
 
-During showtimes, participants could join the live performance by navigating the theater wing and clicking on the doorway. When shows were not in progress, [`Sage Freeman`]() designed a stunning port environment where visitors could explore and learn more information about the performances. 
+During showtimes, participants could join the live performance by navigating the to theater wing and clicking on the doorway. When shows were not in progress, [`Sage Freeman`]() designed a stunning port environment where visitors could explore and learn more information about the performances. 
 
-OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) on March 10, 2022 for MozFest passholders before embarking on a run of shows for the general public. This successful handshake between three separate ecosystems (OnBoardXR, MozFest and Active Replica) running their own clients on their own servers provided a compeling framework for a web of disconnected communities in WebVR chosing to allow occasional traffic to each others users and content. 
+OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) on March 10, 2022 for MozFest passholders before embarking on a run of shows for the general public. This successful handshake between three separate ecosystems (OnBoardXR, MozFest and Active Replica) running their own clients on their own servers provided a compeling framework for a web of disconnected 3D virtual communities chosing to allow occasional traffic to each others users and content. 
 
 ## Productions
 
-Active Replica was usually listed as a producer on one of the OnBoardXR acts each season, often the work of their long time collaborator, Xriel Tarr. These prototypes recieved additional internal support from Active Replica's broader staff, often investigating an application of live events the company wished to offer to its client base. 
+Active Replica was often listed as a producer on one of the OnBoardXR acts each season. These prototypes recieved additional internal support from Active Replica's broader staff, often investigating an application of live events the company wished to offer to its own client base. 
 
 ### This Land Is Island
 [`Xriel Tarr`]() and [`Dasha Kittredge`]() devised an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by Kevin Laibson. 
