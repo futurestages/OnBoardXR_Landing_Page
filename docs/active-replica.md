@@ -34,18 +34,19 @@ Active Replica was often listed as a producer on one of the OnBoardXR acts each 
 
 ### This Land Is Island
 [`Xriel Tarr`]() and [`Dasha Kittredge`]() were approached by [`Brendan Bradley`](./future-stages.md) to join [`OnBoardXR: Cruise`](./obxr-cruise.md). The team partnered with [`Active Replica`]() to devise an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
+<! 
 
 ### Haroun Desert
-[`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md)
+[`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md) to expand upon a concept developed at PXR Conference, hosted by Single Thread and Electric Company Theatre. In Haroun Desert audiences encountered an unreliable protagonist [`avatar`](./glossary-avatar.md) riding an animated horse model to obscure Mozilla's half-body avatars without legs. Participants were instructed to convince another actor to give them a potion, which would ultimately give the villain-protagonist magic powers to alter his scale, summon creatures and unlock the audiences ability to 'fly.'  
 
 ### Jazz Organ
-[`Xriel Tarr`]() submitted a proposal to [`OnBoardXR: Port of Registry`](./obxr-port-or-registry.md)
+[`Xriel Tarr`]() submitted a proposal to [`OnBoardXR: Port of Registry`](./obxr-port-or-registry.md) to explore the potential for collaboration to repurpose a 3D artist's existing assets into an original narrative experience. Dax Norman's animated models were re-imagined as a cabaret inside the chest of the Emcee avatar, building upon earlier prototypes from [`Non-Player Character`]() for [`animation tables`](./glossary-animation-tables.md) and [`shape keys`](./glossary-shape-keys.md) that could be triggered by the [`cue system`](./cue-system.md) or the performer's vr controller.
 
 ### Parable of the Sower
 MozFest engaged Active Replica to host composer and librettist, Toshi Reagon at for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) and [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
 
 ### Seikuken
-In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program to [`Xriel Tarr`]() on the heels of his multiple OnBoardXR prototypes and his adjunct teaching at [`New York University's Lab`](./nyu-lab.md). The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md). Proximity triggers similar to [`Strings: Prisoner`](./unwired-dance.md) and [`Pier to Peer`]() altered avatars and environment. [`Animation tables`]() built on the earlier prototypes from [`Jazz Organ`]() and [`Enough`](). 
+In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program to [`Xriel Tarr`]() on the heels of his multiple OnBoardXR prototypes and his adjunct teaching at [`New York University's Lab`](./nyu-lab.md). The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md). Proximity triggers similar to [`Strings: Prisoner`](./unwired-dance.md) and [`Pier to Peer`]() altered avatars and environment. [`Animation tables`]() built on the earlier prototypes from [`Jazz Organ`]() and [`Non-Player Character`](). 
 
 ## Staffing and Tools
 
