@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Welcome to OnBoardXR
 
-A community and seasonal first-look hackathon to educate, inspire, accelerate and empower live performing artists in the immersive web. This site is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes.
+OnBoardXR represents a fleet of talent and tools to support accessible and emotionally resonate live experiences and events in the immersive web while developing and training the next generation of storytellers with bespoke tools for artist and audience management, ticketing, onboarding, secondary-streaming, and documentation. This site is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes.new artists and audiences in a shared virtual space. 
 
 > ## *"Theatre is not a building. It is a movement."* 
 > Robert Barry Fleming (2020), Actors Theatre of Louisville
@@ -14,7 +14,7 @@ A community and seasonal first-look hackathon to educate, inspire, accelerate an
 > Mary Aldis (1915), predecessor to the 'little theater' movement
 
 ## Who is OnBoardXR for?
-OnBoardXR is a fleet of tools and talent supporting live performance prototpyes to onboard new artists and audiences in a shared virtual space. 
+OnBoardXR is a community and showcase to educate, inspire, accelerate and empower live performing artists in the immersive web. Most of our performance prototypes are the very first time those artists have brought their creative practive into virtual reality and over 30% of our audiences report OnBoardXR as their first virtual reality or live vr experience.
 
 OnBoardXR utilizes ['web-based virtual realiity'] working across platforms without purchasing equipment or downloading software. Got a VR headset? Awesome! If not, you can use your desktop computer, laptop, tablet, or mobile devices to explore in 2D ([see supported browsers](./hubs-create-join-rooms.html#for-2d-experience)).
 
