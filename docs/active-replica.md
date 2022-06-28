@@ -42,7 +42,7 @@ Active Replica was often listed as a producer on one of the OnBoardXR acts each 
 [`Xriel Tarr`]() 
 
 ### Parable of the Sower
-MozFest engaged Active Replica to host composer and librettist, Toshi Reagon for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
+MozFest engaged Active Replica to host composer and librettist, Toshi Reagon for a short work and conversation inspired by Octavia E. Butler’s Parable of the Sower - An Opera with technical and managerial support from [`Valencia James`](./valencia-james.md) and [`Michael Morran`](./michael-morran.md). MozFest participants could join multiple breakout rooms as a "watch party" of the live event to maximize the number of concurrent viewers in-world. After the festival, the team continued to host conversations and workshops with Toshi Reagon as low impact events to scale room capacity and multi-room broadcasting.  
 
 ### Seikuken
 In the Summer of 2022, Active Replica offered its first 'Artist In Residency' program with Xriel Tarr. The resulting performance *Seikuken* synthesized music, 3d animation, and user interactions with “ceremony” design by Joost Eggermont and technical and managerial operation by [`Michael Morran`](./michael-morran.md).
