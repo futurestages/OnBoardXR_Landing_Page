@@ -1,7 +1,7 @@
 ---
 layout: default
 id: obxr-21-day-challenge
-title: APR'22 - 21-Day-Challenge
+title: MAY'22 - 21-Day-Challenge
 parent: History of OnBoardXR
 nav_order: 5
 ---
