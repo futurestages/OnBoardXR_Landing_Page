@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # OnBoardXR Season 2: 'Below Deck'
-The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees received a custom url allowing them freely explore several 3D environments while interacting with live performers and other attendees. A loose theme of "a virtual cruise gone awry" transitioned the audiences from a cruise ship to an underwater ship wreck to a life boat and ending on an island. 
+The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees received a custom url allowing them freely explore several 3D environments while interacting with live performers and other attendees. Building on the pirate jokes from the first OnBoardXR, we embraced a loose theme of "Below Deck" asking audiences to "board" a pirate ship as part of their onboarding and tutorial for how to use controls. 
 
 > - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15210492/?ref_=nm_flmg_act_12)
 > - [OnBoardXR on **XRMust**](https://www.xrmust.com/xrdatabase/all-experiences/onboardxr/)
