@@ -18,5 +18,5 @@ The fifth season revealed an immense opportunity and appetite for asynchronous, 
 [Michael Morran](./michael-morran) began developing a cue building interface that would allow creators without any background or experience in coding to build their own cues on the onboardxr.live server. 
 
 ## Augmented Reality World Expo
-OnBoardXR was nomintaed for the Auggie Award's Best Indie Creator and invited to present their work. [Brendan Bradley](./non-player-character.md), [Michael Morran](./michael-morran.md), [Rebecca Evans](./rebecca-evans.md) and [Clemence Debaig](./unwired-dance.md) presented 'OnBoarding new artists and audiences into the immersive web' on Friday, June 3rd.  
+OnBoardXR was nomintaed for the Auggie Award's Best Indie Creator and invited to present their work. [Brendan Bradley](./non-player-character.md), [Michael Morran](./michael-morran.md), [Rebecca Evans](./rebecca-evans.md) and [Clemence Debaig](./unwired-dance.md) presented ['ONBOARDXR: LIVE PERFORMANCE IN WEBXR'](https://www.awexr.com/usa-2022/agenda/2637-onboardxr-live-performance-in-webxr) on Friday, June 3rd.  
 
