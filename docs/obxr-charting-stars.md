@@ -14,7 +14,7 @@ The Constellation Project is overseen entirely by Active Replica with individual
 
 ## [Cue System](./glossary-cue-system.md)
 
-### [Sekuken](./active-replica.md) 
+### [Seikuken](./active-replica.md) 
 ### [Spaceholder](./mandy-carnales.md)
 ### [Unwanted Waters](./unwired-dance.md): Installation
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
