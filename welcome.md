@@ -1,6 +1,6 @@
 ---
 id: welcome
-title: Welcome to Hubs
+title: Delete This
 sidebar_label: Welcome
 ---
 
