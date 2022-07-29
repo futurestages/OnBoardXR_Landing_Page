@@ -29,3 +29,7 @@ Her participation in [`OnBoardXR: Mythos and Monsters`](./obxr-mythos-monsters.m
 Naomi received funding from [Arts Council England]() to develop her short-form prototypes with OnBoardXR into a full format, standalone show, called MindLand. OnBoardXR provided server space, codebase support and Naomi chose to hire several of our community members and compensate their contributions toward the expansion of her show. MindLand allowed for 5 embodied participants, 10 ghost spectators and unlimited livestream viewers to attend via direct ticket purchase or the [`FIVARS`]() Spring 2022 Festival.
 
 Our work with Naomi Smyth illustrates the spirit of the OnBoardXR community to empower an artist to build and monetize their first prototype in virtual reality and within six months leverage those learnings into opportunity and funding beyond our support. Naomi was the beneficiary of the knowledge and experience of our community members while her own experiences returned insight into the grant-application and production process that other artists face when they leave our sandbox. MindLand was our first experience transitioning from mentor to vendor, helping us identify how to better productize and quantify our support for future [`“mainstage”`]() productions. 
+
+### The Constellation Project
+Mindland was invited and included in the ["OnBoardXR presents..." Charting The Stars](./obxr-charting-stars.md) season for Active Replica's Constellation Project. 
+
