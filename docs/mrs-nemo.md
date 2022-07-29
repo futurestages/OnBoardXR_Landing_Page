@@ -15,7 +15,7 @@ OnBoardXR supported the team of PhD students and researchers from University of 
 
 This team brought the rare advantage of their own independent financial, design, and narrative resources to their prototype, allowing the OnBoardXR’s community to focus on mentoring and stabilizing the integration of:
 1. Music sync in virtual reality (using [`virtual cable`](./glossary-virtual-cable.md) from [`Non-Player Character`](./non-player-character.md)), allowing the solo perfomer, [Vivian Belosky](./mrs-nemo.md) to sing live with a backing track; and 
-2. Developments to the [`external cueing system`](./cue-system.md) from [Michael Morran](./michael-morran.md), [Roman Miletitch](./jettison.md) and [David Gochfeld](./jettison.md) which allowed spawning and animating multiple objects throughout the live performance. 
+2. Developments to the [`external cueing system`](./cue-system.md) from [`Michael Morran`](./michael-morran.md), [`Roman Miletitch`](./jettison.md) and [`David Gochfeld`](./jettison.md) which allowed spawning and animating multiple objects throughout the live performance. 
 
 The most compelling application of the cueing system was a “Kraken attack” in the story, where [`“grouped cues”`](./glossary-group-cues.md) allowed multiple animated objects to be triggered in succession by clicking on a single button on the stage manager’s graphic user interface.
 
