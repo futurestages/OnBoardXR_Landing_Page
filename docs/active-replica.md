@@ -8,7 +8,7 @@ nav_order: 7
 
 # Active Replica
 
-For [`OnBoardXR: Cruise`](./obxr-cruise.md), a Canadian immersive company, [`Active Replica`](), was introduced to the team via performer [`Xriel Tarr`]() to offer Technical support to deploy a custom client of Mozilla Hubs at XRtheater.live and Design suppport for 3D assets. 
+For [`OnBoardXR: Cruise`](./obxr-cruise.md), a Canadian immersive company, [`Active Replica`](), was introduced to the team via performer [`Xriel Tarr`]() to offer Technical support to deploy a custom client of Mozilla Hubs at XRTHEATER.LIVE and design suppport for 3D assets. 
 
 ## Sponsorship 
 
@@ -20,13 +20,16 @@ During [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md), Active Repli
 
 ## MozFest: A Case-Study in Interoperable Metaverses
 
-Unbeknownst to either party, [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) applied and was accepted into Mozilla Festival (known as 'MozFest') as Active Replica was tapped to design and host the Festival's virtual campus. 
+Serendipitously, [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) applied and was accepted into Mozilla Festival (known as 'MozFest') as Active Replica was tapped to design and host the Festival's virtual campus. 
 
 This campus aimed to connect multiple custom clients of Mozilla Hubs so users could "portal" between different experiences. As a case study for interoperable metaverses, MozFest granted Active Replica permission to incorporate OnBoardXR's lobby directly into the virtual conference itself as a dedicated "wing." Participants of the conferece could visit the OnBoardXR lobby by clicking on a doorway which linked to a [`Room`](./glossary-room.md) url on OnBoardXR's separate server. This mirrored the exact mechanic of portaling into breakout rooms within the virtual conference itself, with a minor inconvenience of requiring the user to repeat the sign-in menu process.
 
 During showtimes, participants could join the live performance by navigating the to theater wing and clicking on the doorway. After the performance, attendees could return to the conference via the original portal. When shows were not in progress, [`Sage Freeman`]() designed a stunning port environment where visitors could explore and learn more information about the performances. 
 
 OnBoardXR premiered six live performance prototypes in [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) on March 10, 2022 for MozFest passholders before embarking on a run of shows for the general public. At this time, the portal was disabled to prevent non-ticketed attendees from entering. This successful handshake between three separate ecosystems (OnBoardXR, MozFest and Active Replica) running their own clients on their own servers provided a compeling framework for a web of disconnected 3D virtual communities chosing to allow occasional traffic to each others users and content. 
+
+## The Constellation Project Pilot
+When Active Replica launched a pilot of ‘The Constellation Project’ to connect multiple private communities using their own Mozilla Hubs Cloud instances to share each other’s live events/experiences, they asked OnBoardXR to serve as their “theater wing.” This opportunity allowd us to test an [`“OnBoardXR presents…”`](./obxr-charting-stars.md) model of supporting asynchronous creatorship in the immersive web beyond the protoype or hackathon stage, providing support for a repertory of singular “Mainstage” productions from previous OnBoardXR participants. These encore events highlighted the innagural year of OnBoardXR with more formal support to elevate the run-time, visulas, marketing and attendance of these original prototypes.  
 
 ## Productions
 
@@ -37,10 +40,10 @@ Active Replica was often listed as a producer on one of the OnBoardXR acts each 
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.thisland.png" alt="alt text" title="This Land Is Island" width="150"/>
 
-### Haroun Desert / Magig
+### Haroun Desert / Magid
 [`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md) to expand upon a concept developed at PXR Conference, hosted by Single Thread and Electric Company Theatre. In Haroun Desert audiences encountered an unreliable protagonist [`avatar`](./glossary-avatar.md) riding an animated horse model to obscure Mozilla's half-body avatars without legs. Participants were instructed to convince another actor to give them a potion, which would ultimately give the villain-protagonist magic powers to alter his scale, summon creatures and unlock the audiences ability to 'fly.'  
 
-Haroun Desert was invited and included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. The team re-workshopped and re-branded the story under the new name [`'Magid'`]() drawing from the creators' own culture and history.
+Haroun Desert was invited and included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. The team re-workshopped and re-branded the story under the new name [`'Magid'`](), drawing from the creators' own culture and history.
 
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif" alt="alt text" title="Haroun Desert" width="150"/>
