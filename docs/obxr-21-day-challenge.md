@@ -7,7 +7,7 @@ nav_order: 5
 ---
 
 # OnBoardXR Season 5: '21 Day Challenge'
-In anticipation of the season, [Brendan Bradley](./future-stages.md) began producing a series of challenge videos to allow new participants to intake and onboard themselves on their own schedule. This led to a 3X growth in Discord membership and more participants began the 21-Day-Challenge in its first month than the total number of prototpyes in the history of OnBoardXR. Unfortunately, in an effort to attract new talent and foster more community, OnBoardXR limited submissions to current students (college and graduate level) without being mindful of the end of the academic year resulting in zero applications. 
+In anticipation of the season, [Brendan Bradley](./future-stages.md) began producing a series of challenge videos to allow new participants to intake and onboard themselves on their own schedule. This led to a 3X growth in Discord membership and more participants began the 21-Day-Challenge in its first month than the total number of prototpyes in the history of OnBoardXR. Unfortunately, in an effort to attract new talent and foster more community, OnBoardXR limited submissions to current students (college and graduate level) without being mindful of the end of the academic year, resulting in zero applications. 
 
 The fifth season revealed an immense opportunity and appetite for asynchronous, low-stakes creatorship and remains the largest influx of new prototypes and members our community has experienced. 
 
