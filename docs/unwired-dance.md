@@ -24,6 +24,9 @@ nav_order: 3
 
 ## Augmented World Expo
 
+### The Constellation Project
+Unwanted Waters was invited and included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. 
+
 ## Reception
 - Kent Bye Interview
 - Poly Award Nomination
