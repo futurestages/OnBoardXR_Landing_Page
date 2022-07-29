@@ -23,7 +23,7 @@ The most compelling application of the cueing system was a “Kraken attack” i
 The team released an [abstract on their experience collaborating on Mrs. Nemo with OnBoardXR](https://thewritingplatform.com/2022/05/the-making-of-an-immersical/), initially concluding with a desire to explore alternative social vr platforms. In the Summer of 2022, the team returned to request support to reprise *Mrs. Nemo* using OnBoardXR’s codebase and sponsor server to perform at an academic conference. 
 
 ### The Constellation Project
-Mrs. Nemo was invited and included in the ["OnBoardXR presents..." Charting The Stars](./obxr-charting-stars.md) season for Active Replica's Constellation Project. 
+Mrs. Nemo was invited and included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. 
 
 ## The Immer•sical
 OnBoardXR is delighted by the success of *Mrs. Nemo* as the team's first in a series of anticipated musicals which aim to retell episodes from Victorian literature from an imaginary wife’s perspective using virtual reality storytelling tools and technology.
