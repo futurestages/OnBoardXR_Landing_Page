@@ -20,3 +20,7 @@ The fifth season revealed an immense opportunity and appetite for asynchronous, 
 ## Augmented Reality World Expo
 OnBoardXR was nomintaed for the Auggie Award's Best Indie Creator and invited to present their work. [Brendan Bradley](./non-player-character.md), [Michael Morran](./michael-morran.md), [Rebecca Evans](./rebecca-evans.md) and [Clemence Debaig](./unwired-dance.md) presented ['ONBOARDXR: LIVE PERFORMANCE IN WEBXR'](https://www.awexr.com/usa-2022/agenda/2637-onboardxr-live-performance-in-webxr) on Friday, June 3rd.  
 
+## Reception & Analysis
+While our fifth season did not culminate in a public showcase of work, it did foster several *private* showcase and speaking opportunities for our members. Without producing our own event, we seeded content to several events and entities, including our talk at A.W.E. and SF Design Week; private playtests of [`Non-Player Character`](./non-player-character.md), [`Unwanted Waters`](./unwired-dance.md), and [`Mrs. Nemo`](./mrs-nemo.md); and provided mentorship and support for 30 new prototypes/creators who began the 21-Day-Challenge during its first month. 
+
+The Season revealed the value of OnBoardXR as an advocate for artists and productions to meet them where they are in their development process, rather than pushing them toward a public-facing production. As we look toward the future, we hope to explore an asynchronous model of "OnBoardXR presents..." to allow participating artists to access our community and tools within their own pace and process. 
