@@ -48,9 +48,6 @@ For [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) Bradley and Morr
 
 *'Enough' was presented for the general public and an official selection of Mozilla Festival 2022 as presented by OnBoardXR.* Through [`OnBoardXR: Port of Registry`](./obxr-port-of-registry.md) and [`The New York University Lab`](./nyu-lab.md), Bradley met [`Jason Wang`](./jason-wang.md) whom he invited to join the team as a User Experience Designer to further test and challenge how the audience interactions and mechanics connect to the narrative and themes of the *Non-Player Character*.
 
-### Influencer Streams
-
-### Palm Springs Animation Festival
-
-## Workshop Cast Recording
+## [Workshop Cast Recording](https://futurestages.github.io/npcmusical/docs/press-and-releases/)
 As the team continued to explore avenues for hybrid, on-site performances and festivals, they recognized *Non-Player Character*'s technical advantage to spin up a show any time they wished actually created a blindspot in their pitching materials, especially lacking a professionally recorded version of the original music. [Maurice Soque Jr.]() returned to produce and master a **[Workshop Musical Cast Recording](https://music.apple.com/album/1634852775?app=itunes)** of the prototype performance, pointing out that the live virtual performances Bradley was already doing could be performed from anywhere with wifi, including [Fever Recording Studio](https://feverrecording.com/) in North Hollywood, California. The two strategically scheduled and released recordings of the original music to include some of the raw enegery and responsiveness from the live show.
+A listening room for *Non-Player Character* was included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. 
