@@ -26,7 +26,7 @@ The Constellation Project was overseen entirely by Active Replica with individua
 **Ongoing** - Clemence Debaig stages a living muesum of her full-body motion capture performances from the last year.
 ### [Mrs. Nemo](./mrs-nemo.md)
 **TBD** - An encore performance of Mary Stewart-David's first 'Immersical' starring Vivian Belowsky
-### [NPC](./non-player-character.md) Listening Room
+### [NPC](./non-player-character.md): Listening Room
 **Ongoing** - Brendan Bradley invites audiences *inside* the Soundtrack of his original musical, Non-Player Character.
 
 ## [Cue System](./glossary-cue-system.md)
