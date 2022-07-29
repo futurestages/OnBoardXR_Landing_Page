@@ -37,8 +37,11 @@ Active Replica was often listed as a producer on one of the OnBoardXR acts each 
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.thisland.png" alt="alt text" title="This Land Is Island" width="150"/>
 
-### Haroun Desert
+### Haroun Desert / Magig
 [`Xriel Tarr`](), [`Dasha Kittredge`](), and [`Tyler Graham`]() submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md) to expand upon a concept developed at PXR Conference, hosted by Single Thread and Electric Company Theatre. In Haroun Desert audiences encountered an unreliable protagonist [`avatar`](./glossary-avatar.md) riding an animated horse model to obscure Mozilla's half-body avatars without legs. Participants were instructed to convince another actor to give them a potion, which would ultimately give the villain-protagonist magic powers to alter his scale, summon creatures and unlock the audiences ability to 'fly.'  
+
+Haroun Desert was invited and included in the [`"OnBoardXR presents..." Charting The Stars`](./obxr-charting-stars.md) season for Active Replica's Constellation Project. The team re-workshopped and re-branded the story under the new name [`'Magid'`]() drawing from the creators' own culture and history.
+
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif" alt="alt text" title="Haroun Desert" width="150"/>
 
