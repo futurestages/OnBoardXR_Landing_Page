@@ -8,18 +8,20 @@ nav_order: 3
 ## Join the OnBoardXR Community
 Our [Discord Community](https://discord.gg/qPgbxawu9W) is a place for knowledge sharing, mentorship and support. 
 
-Please remember, this community contains other freelance artists and technologists who are volunteering their time and talent for new performance prototypes and they are not obligated to respond or assist your own creative work. As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
+Please remember, this community contains other freelance artists and technologists who are volunteering their time and talent for new performance prototypes and they are not obligated to respond or assist your own creative work. 
+
+As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
 
 ## Submit A Proposal
 We host regular showcase opportunities and hackathons for our community to present new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
 
 ## The 21-Day Challenge
-In our fifth season, we released [a series of video tutorials](https://discord.com/channels/849041584905388053/957669747472875530/957693244593041418) to guide newcomers through the entire OnBoardXR pipeline and toolkit. To date, this series inspired the largest influx of new prototypes and members our community has experienced. This video series will step you through how to develop, build and launch your first virtual reality experience on your own schedule! 
+In our fifth season, we released [a series of video tutorials](https://discord.com/channels/849041584905388053/957669747472875530/957693244593041418) to guide newcomers through the entire OnBoardXR pipeline and toolkit. To date, this series inspired the largest influx of new prototypes and members our community has experienced. This video series will step you through how to develop, build and launch your first virtual reality experience on your own schedule.
 
 ## Programming Guidelines and Protocols
 OnBoardXR offers a glimpse at the exciting potential of the future workforce and creative economy through connecting international artists in a shared mission and collaboration. We are essentially “the thespian society of the metaverse,” a community theater no defined by a single community. 
 
-With any large group of people, there will inevitably arise disagreements or differences in preferences and processes for creation and communication. The following Programming Guidelines and Protocols outlines our expectations from our community members and performances.
+With any large group of people, there will inevitably arise disagreements or differences in preferences and processes for creation and communication. The following Programming Guidelines and Protocols outlines our expectations from our community members and performances. Community Members are encouraged to copy-and-paste the applicable policy or contact the appropriate team member for assistance rather than waste time and energy defending or disputing violations. 
 
 1.	Like any online community, we reserve the right to block or kick any member at any time, without warning, for behavior we interpret to be harassment, bullying, hate-speech, predatory, divisive or disruptive to our members. If you're looking for a public space to randomly chat, this community is not intended for that either. We welcome you to return at any time to sincerely engage with our community and content.
 2.	**OnBoardXR is *not* a producing entity.** You are expected to develop and produce your own work as a self-generative artist. We do offer mentorship and 'soft support' through our showcases and sandboxes, however this is a community of volunteers, many of whom are working professionals in sectors of entertainment, education and technology. *No one is obligated to participate or assist in your project or problem*. You are welcome to offer employment, collaboration or inquiry to community members, however we shall interpret any mass or repetitive messaging to solicit/demand any community members' response (publicly or privately) as a form of harassment and you will be blocked without warning.
