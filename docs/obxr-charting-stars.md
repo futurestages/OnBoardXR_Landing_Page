@@ -17,13 +17,13 @@ The creators and initiative were features in a series of Creator Blogs to inspir
 Brendan Bradley served as a liason and coordinator between Active Replica and individual creators, who maintained complete control and ownership over their content, schedule and ticketing. This experience can be best compared to a gallery residency/installation where an artist is commissioned to have free reign over a venue during a set window of time to explore their personal process with elevated support and resources. These works are self-generative with design and marketing support from Active Replica to be made available of Active Replica's broader network to test The Consteallation Project's objective for portalling and messaging between multiple webVR instances regarding live events. 
 
 ### [Mindland](./naomi-smyth.md)
-**August 15th @ 10pm GMT** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS]() | [BLOG]()
+**August 15th @ 10pm GMT** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | [BLOG]()
 ### [Magid](./active-replica.md) (formerly 'Haroun Desert')
-**August 17th** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS]() | [BLOG]()
+**August 17th** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [BLOG]()
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
-**August 24th** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS]() | [BLOG]()
+**August 24th** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://https//tinyurl.com/leewardport) | [BLOG]()
 ### [Spaceholder](./mandy-carnales.md)
-**August 26th @ 7pm PDT** - The World Premiere of Mandy Carnale's examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS]() | [BLOG]()
+**August 26th @ 7pm PDT** - The World Premiere of Mandy Carnale's examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS](https://www.eventbrite.com/e/spaceholder-a-live-xr-performance-tickets-394658202307) | [BLOG]()
 ### [Unwanted Waters](./unwired-dance.md): Installation
 **Ongoing** - Clemence Debaig stages a living muesum of her full-body motion capture performances from the last year. [TICKETS]() | [BLOG]()
 ### [Mrs. Nemo](./mrs-nemo.md)
