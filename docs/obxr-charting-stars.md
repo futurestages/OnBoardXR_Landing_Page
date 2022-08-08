@@ -19,9 +19,9 @@ Brendan Bradley served as a liason and coordinator between Active Replica and in
 ### [Mindland](./naomi-smyth.md)
 **August 15th @ 10pm GMT** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | [BLOG]()
 ### [Magid](./active-replica.md) (formerly 'Haroun Desert')
-**August 17th** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [BLOG]()
+**August 17th @ 7pm EDT** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [BLOG]()
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
-**August 24th** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://https//tinyurl.com/leewardport) | [BLOG]()
+**August 24th @ 6:30pm PDT** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://https//tinyurl.com/leewardport) | [BLOG]()
 ### [Spaceholder](./mandy-carnales.md)
 **August 26th @ 7pm PDT** - The World Premiere of Mandy Carnale's examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS](https://www.eventbrite.com/e/spaceholder-a-live-xr-performance-tickets-394658202307) | [BLOG]()
 ### [Unwanted Waters](./unwired-dance.md): Installation
