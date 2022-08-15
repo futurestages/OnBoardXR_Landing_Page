@@ -22,8 +22,8 @@ Brendan Bradley served as a liason and coordinator between Active Replica and in
 **August 17th @ 7pm EDT** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [VIDEO CLIP](https://youtu.be/v30CiEqAt4w)
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
 **August 24th @ 6:30pm PDT** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://www.eventbrite.com/e/windward-wandering-leeward-port-tickets-394357222067) | 
-### [Spaceholder](./mandy-carnales.md)
-**August 26th @ 7pm PDT** - The World Premiere of Mandy Carnale's examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS](https://www.eventbrite.com/e/spaceholder-a-live-xr-performance-tickets-394658202307) | 
+### [Spaceholder](./mandy-canales.md)
+**August 26th @ 7pm PDT** - The World Premiere of Mandy Canales' examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS](https://www.eventbrite.com/e/spaceholder-a-live-xr-performance-tickets-394658202307) | 
 ### [Mrs. Nemo](./mrs-nemo.md)
 **August 27 & 28** - An encore performance of Mary Stewart-David's first 'Immersical' starring Vivian Belowsky. [TICKETS](https://www.eventbrite.co.uk/e/mrs-nemo-xr-tickets-401377419667) | [ROOM](https://xrtheater.live/WfbtQNX/)
 ### [Unwanted Waters](./unwired-dance.md): Installation
