@@ -17,15 +17,15 @@ The creators and initiative were features in a series of Creator Blogs to inspir
 Brendan Bradley served as a liason and coordinator between Active Replica and individual creators, who maintained complete control and ownership over their content, schedule and ticketing. This experience can be best compared to a gallery residency/installation where an artist is commissioned to have free reign over a venue during a set window of time to explore their personal process with elevated support and resources. These works are self-generative with design and marketing support from Active Replica to be made available of Active Replica's broader network to test The Consteallation Project's objective for portalling and messaging between multiple webVR instances regarding live events. 
 
 ### [Mindland](./naomi-smyth.md)
-**August 15th @ 10pm BST** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | 
+**August 15th @ 10pm BST** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | [ROOM](https://xrtheater.live/vaGV5k7/neat-modest-dominion)
 ### [Magid](./active-replica.md) (formerly 'Haroun Desert')
-**August 17th @ 7pm EDT** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | 
+**August 17th @ 7pm EDT** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [VIDEO CLIP](https://youtu.be/v30CiEqAt4w)
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
 **August 24th @ 6:30pm PDT** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://www.eventbrite.com/e/windward-wandering-leeward-port-tickets-394357222067) | 
 ### [Spaceholder](./mandy-carnales.md)
 **August 26th @ 7pm PDT** - The World Premiere of Mandy Carnale's examination of the afterlife as a game show, featuring Leah Sullivan and Braden Roy. [TICKETS](https://www.eventbrite.com/e/spaceholder-a-live-xr-performance-tickets-394658202307) | 
 ### [Mrs. Nemo](./mrs-nemo.md)
-**August 27 & 28** - An encore performance of Mary Stewart-David's first 'Immersical' starring Vivian Belowsky. [TICKETS](https://www.eventbrite.co.uk/e/mrs-nemo-xr-tickets-401377419667) | 
+**August 27 & 28** - An encore performance of Mary Stewart-David's first 'Immersical' starring Vivian Belowsky. [TICKETS](https://www.eventbrite.co.uk/e/mrs-nemo-xr-tickets-401377419667) | [ROOM](https://xrtheater.live/WfbtQNX/)
 ### [Unwanted Waters](./unwired-dance.md): Installation
 **August 30 @ 8pm BST** - Clemence Debaig stages a living muesum of her full-body motion capture performances from the last year. [TICKETS](https://www.eventbrite.co.uk/e/constellation-unwanted-waters-our-brave-space-talk-qa-tickets-399510676187) |
 ### [NPC](./non-player-character.md): Listening Room
