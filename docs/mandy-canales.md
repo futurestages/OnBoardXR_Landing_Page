@@ -1,9 +1,9 @@
 ---
 layout: default
-id: koyrn-wicks
-title: Koryn Wicks 360 Dance Film
+id: mandy-canales
+title: Mandy Canales
 parent: Case Studies
-nav_order: 15
+nav_order: 16
 ---
 
 ## Mandy Canales
