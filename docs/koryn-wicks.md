@@ -1,7 +1,7 @@
 ---
 layout: default
 id: koyrn-wicks
-title: Koryn Wicks 360 Dance Film
+title: Koryn Wicks 360 Film
 parent: Case Studies
 nav_order: 15
 ---
