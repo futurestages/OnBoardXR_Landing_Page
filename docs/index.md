@@ -17,10 +17,10 @@ nav_order: 1
 ## Who is OnBoardXR for?
 OnBoardXR is a community and showcase to educate, inspire, accelerate and empower live performing artists in the immersive web. Most of our performance prototypes are the very first time those artists have brought their creative practive into virtual reality and over 30% of our audiences report OnBoardXR as their first virtual reality or live vr experience.
 
-OnBoardXR utilizes ['web-based virtual realiity'] working across platforms without purchasing equipment or downloading software. Got a VR headset? Awesome! If not, you can use your desktop computer, laptop, tablet, or mobile devices to explore in 2D ([see supported browsers](./hubs-create-join-rooms.html#for-2d-experience)).
+OnBoardXR utilizes ['web-based virtual realiity'] working across platforms without purchasing equipment or downloading software. Got a VR headset? Awesome! If not, you can use your desktop computer, laptop, tablet, or mobile devices to explore in 2D ([see supported browsers](https://hubs.mozilla.com/docs/hubs-create-join-rooms.html#for-2d-experience)).
 
 ## Documentation
-This site is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes.new artists and audiences in a shared virtual space. 
+This blog is meant to organize and search documentation and case studies from OnBoardXR's community and prototypes experimenting with new artists and audiences in shared, virtual spaces. 
 
 ### Overview
 Learn about OnBoardXR, its tools and submission process. 
@@ -32,4 +32,4 @@ Archive of our previous showcases and development history.
 Individual shows, creators and clients supported by OnBoardXR.
 
 ### Repository
-A collection of terms and tips OnBoardXR community members frequently need to access. 
+An evolving collection of terms and tips OnBoardXR to which community members frequently need to access. 
