@@ -11,11 +11,13 @@ In anticipation of the season, [Brendan Bradley](./future-stages.md) began produ
 
 The fifth season revealed an immense opportunity and appetite for asynchronous, low-stakes creatorship and remains the largest influx of new prototypes and members our community has experienced. 
 
+![21 Day Challenge](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/logo.21challenge.gif "21 Day Challenge")
+
 ## Production & Sponsors
 **The Jigsaw Ensemble** oversaw production of the 21-Day-Challenge video series with a click funnel fully integrated into Discord to step users through the 21 challege videos with unique call-to-actions to onboard themselves into OnBoardXR's community and toolkit. 
 
 ## [Cue System](./glossary-cue-system.md)
-[Michael Morran](./michael-morran) began developing a cue building interface that would allow creators without any background or experience in coding to build their own cues on the onboardxr.live server. 
+[Michael Morran](./michael-morran) began development on a cue building interface that would allow creators without any background or experience in coding to build their own cues on the onboardxr.live server. Meanwhile, our 12th Challenge offered an overview of how to use a few simple scripts to understand theatrical cueing in web-based virtual reality. 
 
 ## Augmented Reality World Expo
 OnBoardXR was nomintaed for the Auggie Award's Best Indie Creator and invited to present their work. [Brendan Bradley](./non-player-character.md), [Michael Morran](./michael-morran.md), [Rebecca Evans](./rebecca-evans.md) and [Clemence Debaig](./unwired-dance.md) presented ['ONBOARDXR: LIVE PERFORMANCE IN WEBXR'](https://www.awexr.com/usa-2022/agenda/2637-onboardxr-live-performance-in-webxr) on Friday, June 3rd.  
