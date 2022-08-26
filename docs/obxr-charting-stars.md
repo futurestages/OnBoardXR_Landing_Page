@@ -13,13 +13,13 @@ This opportunity allowed us to test an "OnBoardXR presents..." model of supporti
 
 The creators and initiative were features in a series of Creator Blogs to inspire and empower other creative artists interested in immersive web technologies. 
 
-![OnBoardXR presents...Charting The Stars](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/shows.chartingstars.png) "OnBoardXR presents")
+![OnBoardXR presents...Charting The Stars](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/shows.chartingstars.png "OnBoardXR presents")
 
 ## Production & Sponsors
 Brendan Bradley served as a liason and coordinator between Active Replica and individual creators, who maintained complete control and ownership over their content, schedule and ticketing. This experience can be best compared to a gallery residency/installation where an artist is commissioned to have free reign over a venue during a set window of time to explore their personal process with elevated support and resources. These works are self-generative with design and marketing support from Active Replica. Shows will be made available to Active Replica's broader ecosystem of clients to test The Consteallation Project's objective for portalling and messaging between multiple webVR instances regarding live events. This will appear in-world with portal at each community hub, advertising the upcoming three events in a "billboard" and a portal that will instantly take users to an active event across the network. 
 
 
-![OnBoardXR presents...Charting The Stars](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/lobby.theaterwingconstellation.gif) "OnBoardXR presents")
+![OnBoardXR presents...Charting The Stars](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/lobby.theaterwingconstellation.gif "OnBoardXR presents")
 
 ### [Mindland](./naomi-smyth.md)
 **August 15th @ 10pm BST** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | [ROOM](https://xrtheater.live/vaGV5k7/neat-modest-dominion)
