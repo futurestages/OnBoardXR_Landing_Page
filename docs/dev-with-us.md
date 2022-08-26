@@ -6,6 +6,8 @@ nav_order: 4
 ---
 
 ## How to Dev With Us
+**This page is a work in progress as we curate the best materials for new collabortors. For now, we have copied the standard Dev Overview from Mozilla Hubs**
+
 This page outlines opportunities for people who want to contribute to the OnBoardXR project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
 
 Contributors are expected to abide by the project's [Code of Conduct](https://github.com/mozilla/hubs/blob/master/CODE_OF_CONDUCT.md) and to be respectful of the project and people working on it. 
