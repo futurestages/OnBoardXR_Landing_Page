@@ -11,7 +11,7 @@ In anticipation of the season, [Brendan Bradley](./future-stages.md) began produ
 
 The fifth season revealed an immense opportunity and appetite for asynchronous, low-stakes creatorship and remains the largest influx of new prototypes and members our community has experienced. 
 
-![21 Day Challenge](https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/logo.21challenge.gif "21 Day Challenge")
+<img src="https://raw.githubusercontent.com/futurestages/OnBoardXR_Landing_Page/gh-pages/static/media/logo.21challenge.gif" alt="21 Day Challenge" width="300">
 
 ## Production & Sponsors
 **The Jigsaw Ensemble** oversaw production of the 21-Day-Challenge video series with a click funnel fully integrated into Discord to step users through the 21 challege videos with unique call-to-actions to onboard themselves into OnBoardXR's community and toolkit. 
