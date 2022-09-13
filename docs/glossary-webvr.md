@@ -27,11 +27,11 @@ OnBoardXR pays for server space to deploy and run its own custom cloud of Mozill
 
 We make regular changes to our fork of the Mozilla Hubs [`codebase`]() to enable new features of our [`cue system`](./cue-system.md). 
 
-Artists publish a [`Scene`]() using Mozilla Spoke's world-building tool and then generate a [`Room`](./glossary-role.md), providing them with a unique URL. 
+Artists can publish a [`Scene`]() (or 3D World) using Mozilla Spoke's world-building tool and then generate a [`Room`](./glossary-role.md), providing them with a unique URL. 
 
 Anyone who clicks or types that unique URL will be able to join the Room with the Artist and see the environment, objects, and lighting, as published in the Scene. The Artist can create as many Rooms as they wish without affecting the original Scene. If the Artist makes changes to the Scene and re-publishes, it will update *all* the Rooms using that Scene. 
 
 Using our [`cue system`](./cue-system.md), Artists are assigned a unique [`Role`](./glossary-role.md) name which they type as an extenstion to the Room URL. When added correctly, the Role enables custom buttons or triggers that do not appear for any other users. 
 
-Using this process, a group of artists are able to work asynchronously on the same server across different projects, schedules and applications without disrupting each other. 
+Using this pipeline, countless artists are able to work asynchronously on the same server across unrelated projects, schedules and applications without disrupting each other, while maintaining privacy for their work and their audience. 
 
