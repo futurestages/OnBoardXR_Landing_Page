@@ -17,7 +17,7 @@ This allows for maximum output and scale, often supporting over a dozen artists 
 
 This also preserves ownership of creative material and property with the original Artist(s) while OnBoardXR continues to develop tools and talent that can support the future creative and storytelling economy. 
 
-All previous [OnBoardXR Case Studies](./case-studies) followed this pipeline and philosophy. Many prototypes and participants have received funding, production and/or employment based on their original work with OnBoardXR.
+All previous [OnBoardXR Case Studies](./case-studies.md) followed this pipeline and philosophy. Many prototypes and participants have received funding, production and/or employment based on their original work with OnBoardXR.
 
 ## What does OnBoardXR offer?
 Access to server space to create and host your own virtual event. 
