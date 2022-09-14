@@ -11,7 +11,7 @@ OnBoardXR supports live events in the 3D web, coloquially referred to as the met
 
 For the simplist explanation: we allow artists and audieces to join a shared 3D virtual space using the web browser of their personal, internet-connected device. This allows users without virtual reality equipment to move and look around a 3D experience, often from a 2D screen, like a computer, tablet, or phone. 
 
-So...it's virtual reality...from your web browser (or webVR). 
+So...it's virtual reality...from your web browser. 
 
 The capability for [WebVR was first discovered at Mozilla in 2014](https://en.wikipedia.org/wiki/WebXR) and is the foundation for their open-source, virtual reality platform called [Mozilla Hubs](https://hubs.mozilla.com/docs/welcome.html) with a companion world-building tool, [Mozilla Spoke](https://hubs.mozilla.com/spoke), and an immserive web-broser, [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/). Mozilla allows users to access and fork the Mozilla Hubs codebase on [GitHub](https://github.com/mozilla/hubs) and deploy their own [Custom Cloud]((https://hubs.mozilla.com/docs/hubs-cloud-custom-clients.html)) version on their own server. This is the underlying [`codebase`] of OnBoardXR.live.
 
