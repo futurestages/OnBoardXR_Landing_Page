@@ -9,13 +9,13 @@ nav_order: 3
 # OnBoardXR Season 3: 'Mythos & Monsters'
 The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FIVARS festival to explore pre-seating a larger event with its own built-in audience and press outreach. 
 
-> - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15210492/?ref_=nm_flmg_act_12)
+> - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15716876/?ref_=nm_flmg_act_8)
 > - [OnBoardXR on **XRMust**](https://www.xrmust.com/xrdatabase/all-experiences/onboardxr/)
 > - [OnBoardXR on **Everything Immersive**](https://everythingimmersive.com/events/onboard)
 > - [Blog Overview from Brendan Bradley](https://www.brendanabradley.com/futurestages/2021/3/19/a-one-act-festival-in-a-web-browser)
 > 
 ## Production & Sponsors
-**The Jigsaw Ensemble and Active Replica** continued their informal partnership to produce the event and absorb overhead costs. Michael Morran stepped up as Techincal Director and Stage Manager to expand the [`cue system`](./glossary-cue-system.md) with experimental features intended for [Non-Player Character]() and organized a [Paper Tech]() system for all participants to submit a cue sheet without learning javascript. Participants submitted prototype proposals via an open-submission process, however the season was saturated primarily by returning participants which cultivated a stronger sense of community and collaboration.
+**The Jigsaw Ensemble and Active Replica** continued their informal partnership to produce the event and absorb overhead costs. Michael Morran stepped up as Techincal Director and Stage Manager to expand the [`cue system`](./cue-system.md) with experimental features intended for [Non-Player Character](./non-player-character.md) and organized a [Paper Tech](./cue-system/#paper-tech) system for all participants to submit a cue sheet without learning javascript. Participants submitted prototype proposals via an open-submission process, however the season was saturated primarily by returning participants which cultivated a stronger sense of community and collaboration.
 > 
 > Artistic Director:
 > BRENDAN BRADLEY
@@ -29,7 +29,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 
 ## Emcees & OnBoarding
 
-## [Peer to Pier](./ob3-dramaturgy.md)
+## [Peer to Pier](./pier-to-peer.md)
 
 ## [The Aquaians](./rebecca-evans.md) 
 
