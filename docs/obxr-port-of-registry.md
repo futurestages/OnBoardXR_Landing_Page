@@ -8,6 +8,9 @@ nav_order: 4
 
 # OnBoardXR Season 4: 'Port of Registry'
 Applicants, Designers, Animations, Mozilla Festival, Portals
+>
+> - [IMDb Listing](https://www.imdb.com/title/tt18766894/?ref_=nm_flmg_act_6)
+> - [Press Release](https://www.einpresswire.com/article/563969984/onboardxr-launches-4th-season-at-mozfest)
 
 ## Production & Sponsors
 **The Jigsaw Ensemble and Active Replica** explored a more formal partnership to produce the event with Active Replica providing a fiscal sponsorship to absorb approved overhead costs. Michael Morran returned as Techincal Director and Stage Manager to 'productize' all the features developed for [Non-Player Character](). Sevearal indepdendent designers volunteered "office hours" to elevate and optimize the visuals of the prototypes submitted via an open-submission process and leading to almost double the number of applicants.
@@ -37,9 +40,9 @@ Applicants, Designers, Animations, Mozilla Festival, Portals
 
 ## [NPC](./non-player-character.md): 'Enough'
 
-## [Cue System](./glossary-cue-system.md)
+## [Cue System](./cue-system.md)
 
-## [Re-Branding](./ob4-rebrand.md)
+## [Re-Branding](./branding.md)
 
 ## Reception & Analysis
 This was a shorter run than other seasons, but we had increased page views from Eventbrite (compared to prior) and we also continued to see an increase in the average donation per ticket! Remarkable to see the standalone headset market bringing almost 52% of our audience, while a healthy 3% on phone/tablet! We engaged and worked with a marketing company, however still saw the largest ticket conversion from personal social media. Despite presenting in the virtual campus of Mozilla's techincal conference, over 22% of attendees still reported OnBoardXR as their first ever virtual reality or live virtual reality experience. 
