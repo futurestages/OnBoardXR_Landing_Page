@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 ## OnBoardXR Branding & Style Guide
-OnBoardXR represents an open, living community and sandbox for self-generative contributors in the spirit of the [Homebrew Computer Club]( https://en.wikipedia.org/wiki/Homebrew_Computer_Club) with a specific focus on live, experimental performing arts/events in the [‘immersive web’](). 
+OnBoardXR represents an open, living community and sandbox for self-generative contributors in the spirit of the [Homebrew Computer Club]( https://en.wikipedia.org/wiki/Homebrew_Computer_Club) with a specific focus on live, experimental performing arts/events in the [‘immersive web’](./glossary-webvr.md). 
 
 The OnBoardXR logo incorporates nautical and pirate iconography, often variations of a skull and crossbones, reflecting our brand equity as playfull risktaking to explore unpolished, boundary-pushing avant garde. 
 > Our early productions and onboarding practices were nautically themed and celebrated a ‘hacker’ approach to storytelling. Early creators organically adopted a *“pirate”*, *"playful and punk"* identity and our Emcees often greeted guests in playful pirate accents and avatars. 
