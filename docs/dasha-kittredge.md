@@ -19,4 +19,7 @@ nav_order:
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif" alt="alt text" title="Haroun Desert" width="150"/>
 
+## NYU Lab
+[Brendan Bradley](./future-stages.md) invited [Dasha Kittredge](./dasha-kittredge.md) and [Ari Tarr](./ari-tarr) to teach a semester of his Integrative Technology Lab at New York University. 
+
 ### Emcee and Hosting
