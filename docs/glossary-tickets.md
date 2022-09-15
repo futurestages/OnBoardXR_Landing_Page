@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Tickets
-Tickets to OnBoardXR are often offered via third-party sites (Eventbrite, EverythingImmserive, etc) for secure payment and ease. Attendees register for a specific performance date and time and are messaged a unique [`Room`](./glossary-room.md) url to join from their device roughly fifteen (15) minutes before showtime. 
+Tickets to OnBoardXR are often offered via third-party sites (Eventbrite, EverythingImmserive, etc) for secure payment and ease of use. Attendees register for a specific performance date and time and are messaged a unique [`Room`](./glossary-room.md) URL to join from their personal device roughly fifteen (15) minutes before showtime. 
 
 ## Ticket Tiers
 Ongoing debate and experimentation in virtual attendance has attempted to address the needs to different audience members. OnBoardXR currently utilizes three (3) `tiers` of ticketing to accomodate different attendee preferences. 
@@ -23,3 +23,6 @@ A Virtual On-Stage Seat allows our most “active attendees” to enjoy all the 
 
 ### Audience Avatars
 At the recommendation of [`Kevin Laibson`](./jettison.md) during [`OnBoardXR: Below Deck`](obxr2-below-deck.md), often attendees are presented with an additional selection of [`Audience Avatars`](./glossary-avatars.md) to denote their preferred level of interaction within the experience. Active Attendees were instructed to select a bright orange life vest so they could be easily spotted and incorporated into the event. Meanwhile, Passive Attendees selected either a Blue/Gray life vest or a completely invisible avatar, allowing them to freely wander and watch from anywhere in the virtual world without being acknowledged or “put on the spot” by the performers. 
+
+## Pricing
+Tickets are priced at the discretion of individual shows or events, often based on historical data. OnBoardXR's Seasonal Showcases are offered at a pay-what-you-want donation to ensure access to anyone who wishes to experience artists work and all revenues are split between participants. After each Season, OnBoardXR shares box office data to anyalize and track trends in the broader virtual creative economy. 
