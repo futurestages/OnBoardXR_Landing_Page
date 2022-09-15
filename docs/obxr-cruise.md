@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 # OnBoardXR Season 1: 'Cruise'
-The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees received a custom url allowing them freely explore several 3D environments while interacting with live performers and other attendees. A loose theme of "a virtual cruise gone awry" transitioned the audiences from a cruise ship to an underwater ship wreck to a life boat and ending on an island. 
+The inagural showcase of scaling our [Jettison](./jettison.md) pipeline to multiple concurrent acts, premiering March 16, 2021. Virtual attendees received a custom url allowing them freely explore several 3D environments while interacting with live performers and other attendees. A loose theme of "a virtual cruise gone awry" transitioned the audiences from a cruise ship to an underwater ship wreck to a life boat and ending on an island. 
 
 > - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15210492/?ref_=nm_flmg_act_12)
 > - [OnBoardXR on **XRMust**](https://www.xrmust.com/xrdatabase/all-experiences/onboardxr/)
@@ -15,7 +15,7 @@ The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees
 > - [Blog Overview from Brendan Bradley](https://www.brendanabradley.com/futurestages/2021/3/19/a-one-act-festival-in-a-web-browser)
 
 ## Production & Sponsors
-**The Jigsaw Ensemble, Active Replica and Agile Lens** formed an informal partnership to produce the event and absorb overhead costs to deploy and host a custom Hubs client on XRTHEATER.LIVE. Roman Miletitch supported by David Gochfeld developed a preliminary [`cue-system`](./glossary-cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md) hosted on server space provided and managed by Jacob Ervin. Brendan Bradley oversaw all outreach and management of participating artists and proejcts, many of whom he cold-contacted on social media.
+**The Jigsaw Ensemble, Active Replica and Agile Lens** formed an informal partnership to produce the event and absorb overhead costs to deploy and host a custom Hubs client on XRTHEATER.LIVE. Roman Miletitch supported by David Gochfeld developed a preliminary [`cue-system`](./cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md) hosted on server space provided and managed by Jacob Ervin. Brendan Bradley oversaw all outreach and management of participating artists and proejcts, many of whom he cold-contacted on social media.
 > 
 > Artistic Director:
 > BRENDAN BRADLEY
@@ -34,9 +34,9 @@ The inagural showcase of OnBoardXR, premiering March 16, 2021. Virtual attendees
 
 
 ## OnBoarding Artists
-After the success of [`Jettison`](./jettison.md), the team sought to scale and codify their findings so that any artist could efficiently and economimcally bring their creative practice into web-based virtual reality. A concept emmerged for a [“dark ride”](https://en.wikipedia.org/wiki/Dark_ride) utilizing Mozilla Hubs’ [`scene-switching`](./glossary-scenes/#scene-switching) feature to move an audience seemlessly through a variety of virtual worlds and performances offering each act complete control over its enivronment, performance style and audience engagement.
+After the success of [`Jettison`](./jettison.md), the team sought to scale and codify their findings so that any artist could efficiently and economimcally bring their creative practice into web-based virtual reality. A concept emmerged for a [“dark ride”](https://en.wikipedia.org/wiki/Dark_ride) utilizing Mozilla Hubs’ [`scene-switching`](./glossary-scene/#scene-switching) feature to move an audience seemlessly through a variety of virtual worlds and performances offering each act complete control over its enivronment, performance style and audience engagement.
 
-Four participant groups were invited to a shared google document to asynchronously track progress, schedules, and assets for individual and collective performance. Performers were guided to successfully build and test their own Spoke [`scenes`](./glossary-scene.md) for their individual show needs in the Mozilla Hubs desktop User Interface (UI) and migrate their final assets to our custom client at xrtheater.live. Once individual shows were stabilized, we initiated a [`"paper tech"`](./cue-system/#paper-tech) to step through every cue and asset needed for all the shows generating a master list to organize for stage management and run of show. 
+Four participant groups were invited to a shared google document to asynchronously track progress, schedules, and assets for individual and collective performance. Performers were guided to successfully build and test their own Spoke [`scenes`](./glossary-scene.md) for their individual show needs in the Mozilla Hubs desktop User Interface (UI) and migrate their final assets to our custom client at xrtheater.live. Once individual shows were stabilized, we initiated a [`"paper tech"`](././cue-system/#paper-tech) to step through every cue and asset needed for all the shows generating a master list to organize for stage management and run of show. 
 
 Within two weeks, OnBoardXR presented four live experiences into a cohesive evening of theater - from a team who had never met each other - with a sold out run of shows, demonstrating a path to create and monetize the work of any live performer using web-based virtual reality and consumer-grade technology.
 
@@ -58,10 +58,10 @@ A scene from The Play That Is Going To Change Everything. the world's first play
 ## [Jettison](./jettison.md) (Reprise)
 Above water, a life boat floats in the open ocean as three strangers discover an unexpected stowaway in this dark comedy about survival. Producers: Bendan Bradley, David Gochfeld, Alex Coulombe and Kevin Laibson. Direction by David Gochfeld. Written by Brendan Bradley. Performed by Nican Robinson, Nick Carrillo, Ashley Clements and Brendan Bradley.
 
-## [This Land is IsLand](./active-replica.md)
+## [This Land is IsLand](./ari-tarr.md)
 Vera and Captain Boouffe have been on an island for...a little too long. Help them see paste the pitfalls of their relationship, overcome their self-absorption and conquer the islands' monstrous obstacles to inevitably find what they have been searching for all along. Devised and performed by Ari Tarr and Dasha Kittredge with Kevin Laibson as puppeteer for monsters. Produced by Active Replica with contributions from Jacob Ervin.
 
-## [Cue System](./glossary-cue-system.md)
+## [Cue System](./cue-system.md)
 The team behind OnBoardXR first attempted to use Mozilla Hubs to stage live performances in their production of ['Jettison'](./jettison.md). Roman Miletich, David Gochfeld and Alex Coulombe developed a handful of custom scripts that could be pasted in the developer console of Google Chrome to trigger cues in the Mozilla Hubs desktop User Interface (UI) and update across all clients accessing the same Mozilla Hubs ['"Room"'](./glossary-room.md) url.
 
 [`OnBoardXR: Cruise`]() was our first attempt to develop a ['custom cue system'](./cue-system.md) for a stage management to trigger the custom scripts from [`Jettison`](./jettison.md) as a graphic user interface (GUI) within a Hubs Custom Client. We created a custom client at xrtheater.live and created a custom ['“role”'](./glossary-roles.md) for each participant with two general features: 
