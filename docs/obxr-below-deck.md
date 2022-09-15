@@ -37,7 +37,7 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 
 ## [Maiden Voyage](./koryn-wicks.md)
 
-## [Haroun Dessert](./active-replica.md)
+## [Haroun Dessert](./ari-tarr.md/#haroun-desert--magid)
 
 ## [Aurora's Awakening](./rebecca-evans.md)
 
