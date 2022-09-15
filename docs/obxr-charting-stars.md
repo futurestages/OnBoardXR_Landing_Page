@@ -23,7 +23,7 @@ Brendan Bradley served as a liason and coordinator between Active Replica and in
 
 ### [Mindland](./naomi-smyth.md)
 **August 15th @ 10pm BST** - Naomi Smyth continues 'Fooling' audiences in photogrametry and avatars from her real life. [TICKETS](https://www.eventbrite.co.uk/e/mindland-improvised-solo-performance-in-vr-tickets-393961117307) | [ROOM](https://xrtheater.live/vaGV5k7/neat-modest-dominion)
-### [Magid](./active-replica.md) (formerly 'Haroun Desert')
+### [Magid](./ari-tarr.md) (formerly 'Haroun Desert')
 **August 17th @ 7pm EDT** - Tyler Graham and Ari Tarr revisit their choose-your-own-adventure tale of mystics and betrayal. [TICKETS](https://www.eventbrite.com/e/magid-tickets-396319691867) | [VIDEO CLIP](https://youtu.be/v30CiEqAt4w)
 ### [Windward Wandering Leeward Port](./koryn-wicks.md)
 **August 24th @ 6:30pm PDT** - Koryn Wicks offers a retrospective on her groundbreaking work with 360 dance performend and archived in virtual 3D spaces. [TICKETS](https://www.eventbrite.com/e/windward-wandering-leeward-port-tickets-394357222067) | [ROOM](https://xrtheater.live/S4TjRBA/wayward-promo)
@@ -36,8 +36,8 @@ Brendan Bradley served as a liason and coordinator between Active Replica and in
 ### [NPC](./non-player-character.md): Listening Room
 **September 2nd** - Brendan Bradley invites audiences *inside* the Soundtrack of his original musical, Non-Player Character. [ALBUM](https://music.apple.com/album/1634852775?app=itunes) | [ROOM](https://onboardxr.live/FQJnyUZ/listening/?k=listener)
 
-## [Cue System](./glossary-cue-system.md)
-The OnBoardXR [`cue system`] was merged with proprietary code from [`Active Replica`] to enable portalling and cross-community notifications for the pilot period. Creators were able to access and modify their existing cue database on our GitHub organization without accdientally altering the codebase for the overall experience. The [`Sponsor Lobby`] from our third season was updated and hosted on [XRTHEATER.LIVE](https://XRTHEATER.LIVE) with posters for each Artist linking to the primiary environment of each Show. This allowed attendees of one performance to learn and explore the other content offerings of the entire ecosystem. 
+## [Cue System](./cue-system.md)
+The OnBoardXR [`cue system`](./cue-system.md) was merged with proprietary code from [`Active Replica`](./active-relica.md) to enable portalling and cross-community notifications for the pilot period. Creators were able to access and modify their existing cue database on our GitHub organization without accdientally altering the codebase for the overall experience. The [`Sponsor Lobby`](./glossary-sponsor-lobby.md) from our third season was updated and hosted on [XRTHEATER.LIVE](https://XRTHEATER.LIVE) with posters for each Artist linking to the primiary environment of each Show. This allowed attendees of one performance to learn and explore the other content offerings of the entire ecosystem. 
 
 ## Reception & Analysis
 TBD
