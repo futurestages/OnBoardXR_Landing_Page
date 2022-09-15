@@ -15,7 +15,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 > - [Blog Overview from Brendan Bradley](https://www.brendanabradley.com/futurestages/2021/3/19/a-one-act-festival-in-a-web-browser)
 > 
 ## Production & Sponsors
-**The Jigsaw Ensemble and Active Replica** continued their informal partnership to produce the event and absorb overhead costs. Michael Morran stepped up as Techincal Director and Stage Manager to expand the [`cue system`](./cue-system.md) with experimental features intended for [Non-Player Character](./non-player-character.md) and organized a [Paper Tech](./cue-system.md/#paper-tech) system for all participants to submit a cue sheet without learning javascript. Participants submitted prototype proposals via an open-submission process, however the season was saturated primarily by returning participants which cultivated a stronger sense of community and collaboration.
+**The Jigsaw Ensemble and Active Replica** continued their informal partnership to produce the event and absorb overhead costs. Michael Morran stepped up as Techincal Director and Stage Manager to expand the [`cue system`](./cue-system.md) with experimental features intended for [`Non-Player Character`](./non-player-character.md) and organized a [`Paper Tech`](./cue-system.md/#paper-tech) system for all participants to submit a cue sheet without learning javascript. Participants submitted prototype proposals via an open-submission process, however the season was saturated primarily by returning participants which cultivated a stronger sense of community and collaboration.
 > 
 > Artistic Director:
 > BRENDAN BRADLEY
@@ -50,4 +50,4 @@ The third OnBoardXR had double the attendance of previous seasons with more tick
 
 One hundred percent of attendees chose to pay *something* for their ticket, with FIVARS attendees showing the willingness to pay $45 for a festival badge and two of our own audience members electing to pay $50 and $100 respectively. Overall,  1/4th of our audience was comfortable paying $15+ for the show, with a total average of $12.15 per ticket. 
 
-Many participants and attendees noted the elevated experience, crediting the familarness and supportiveness of return creators and the support from active team members like [Michael Morran](./michael-morran.md) and [Anais Ron](./active-replica.md) to assist in programming and design. 
+Many participants and attendees noted the elevated experience, crediting the familarness and supportiveness of return creators and the support from active team members like [`Michael Morran`](./michael-morran.md) and [`Anais Ron`](./active-replica.md) to assist in programming and design. 
