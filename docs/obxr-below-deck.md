@@ -14,7 +14,7 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 > - [OnBoardXR on **Everything Immersive**](https://everythingimmersive.com/events/onboard)
 > 
 ## Production & Sponsors
-**The Jigsaw Ensemble, Active Replica and Agile Lens** continued their informal partnership to produce the event and absorb overhead costs for XRTHEATER.LIVE. Roman Miletitch stablized the previous [`cue system`](./glossary-cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md). Participants submitted prototype proposals via an open-submission process which led to a mix of newcommers and return participants. 
+**The Jigsaw Ensemble, Active Replica and Agile Lens** continued their informal partnership to produce the event and absorb overhead costs for XRTHEATER.LIVE. Roman Miletitch stablized the previous [`cue system`](./cue-system.md) for triggering theatrical cues in [`web-based virtual reality`](./glossary-webvr.md). Participants submitted prototype proposals via an open-submission process which led to a mix of newcommers and return participants. 
 > 
 > Artistic Director:
 > BRENDAN BRADLEY
@@ -41,7 +41,7 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 
 ## [Aurora's Awakening](./rebecca-evans.md)
 
-## [Cue System](./glossary-cue-system.md)
+## [Cue System](./cue-system.md)
 The team found it more reliable to organize all show cues under a single stage manager [`"role"`](./gloassary-roles.md) rather than assign individual buttons for individual roles. As the graphic user interface for the buttons populated differently on different devices' user interface, some performers struggeled to reach or find their cue buttons while others would accidentally trigger a cue when using unrelated controller functions. 
 
 ## Audience Tiers
@@ -58,4 +58,4 @@ OnBoardXR enjoyed a sold-out run of pay-what-you-want tickets. We were pleasantl
 
 We expanded server capacity and engagement through the introduction of the three ticket tiers by prioritizing high-bandwidth features (like audio input and high-poly avatars) on the attendees who actually wished to be interactive and empbodied in the performance. This also elevated the experience for attendees who did not wish to participate as they could engage with the show at their own comfort, often moving closer to the performances with the knowledge the performer(s) would ignore them. 
 
-A third of attendees used a standalone HMD with another 21% in PCVR. 5% consistently arrived on a mobile device or tablet with the largest group still using a laptop or desktop computer. Almost immediately our creator community and audiences inquired about "the next one" revealing the desire to make OnBoardXR an ongoing, seasonal showcase. 
+A third of attendees used a [`standalone HMD`](./glossary-hmd.md) with another 21% in [`PCVR`](./glossary-hmd.md). 5% consistently arrived on a mobile device or tablet with the largest group still using a laptop or desktop computer. Almost immediately our creator community and audiences inquired about "the next one" revealing the desire to make OnBoardXR an ongoing, seasonal showcase. 
