@@ -27,7 +27,7 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 
 ## Emcees & OnBoarding
 
-## [Painting Pirates](./vartiste.md) 
+## [Painting Pirates](./painting-pirates.md) 
 
 ## [Strings: Prisoner](./unwired-dance.md#Strings)
 
@@ -44,8 +44,8 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 ## [Cue System](./cue-system.md)
 The team found it more reliable to organize all show cues under a single stage manager [`"role"`](./glossary-roles.md) rather than assign individual buttons for individual roles. As the graphic user interface for the buttons populated differently on different devices' user interface, some performers struggeled to reach or find their cue buttons while others would accidentally trigger a cue when using unrelated controller functions. 
 
-## Audience Tiers
-For OnBoardXR 2.0, we subtly experimented with new ticketing language, inspired by [Kevin Laibson]()'s suggestion to empower audiences to self-select into their desired level of interaction by choosing the color of their avatar's life vest. 
+## Ticketing Tiers(./glossary-tickets.md)
+For OnBoardXR 2.0, we subtly experimented with new ticketing language, inspired by [Kevin Laibson](./jettison.md)'s suggestion to empower audiences to self-select into their desired level of interaction by choosing the color of their avatar's life vest. 
 
 Our [Virtual Balcony Seat](./glossary-tickets.md) offered attendees only access to the secondary livestream (on YouTube or Twich), simulating the traditional seating in a distanced, possibly obstructed view. This allowed passive viewers who were more interested in VOD consumption to not impact the experience.
 
