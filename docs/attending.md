@@ -16,6 +16,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 > - [Wolvic](https://www.wolvic.com/en/)
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
+> - [Safari](https://apps.apple.com/no/app/safari/id1146562112)
 
 ## Ticket Link
 Tickets are often available via [Everything Immersive](https://everythingimmersive.com/events/onboard) as a Pay-What-You-Want donation, currently averaging $15 across all attendees and $25+ for active participants. 
