@@ -26,3 +26,9 @@ To add an Avatar, a Creator first needs to export their customized Avatar as a .
 
 ## Ready Player Me
 A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.me](https://readyplayer.me/). This site generates an avatar on it's own generic Rig that can be applied to hundreds of different platforms, [for example Mozilla Hubs](https://blog.readyplayer.me/mozilla-hubs-custom-3d-avatar/).
+
+## Audience Avatars
+Audience Avatars have been used to denote an attendee's [ticket tier](./glossary-tickets.md/#audience-avatars) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
+
+## Optimizations
+Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by 10+ users. 
