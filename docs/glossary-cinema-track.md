@@ -1,7 +1,7 @@
 ---
 layout: default
 id: cinema-track
-title: Cinematics
+title: cinematics
 parent: Repository
 nav_order: 
 ---
