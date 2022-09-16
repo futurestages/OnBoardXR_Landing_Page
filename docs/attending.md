@@ -13,7 +13,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 
 ## What Browsers are Supported?
 > - [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality) 
-> -- [Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/)
+>> - [Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/)
 > - [Wolvic](https://www.wolvic.com/en/)
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/)
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
