@@ -15,6 +15,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 > - [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality) ([Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/))
 > - [Wolvic](https://www.wolvic.com/en/)
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
+> - Pico Browser
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
 > - [Safari](https://apps.apple.com/no/app/safari/id1146562112)
 
@@ -26,10 +27,21 @@ Before your showtime, you should receive an email with a **unique url** to acces
 ## Discord Box Office
 
 ## Basic Controls & Troubleshooting
-- AWAD and Arrow Keys
-- List of Controller inputs
-- Information Button
-- Settings
+
+### Settings & Preferences
+Mute/Unmute, Preferences 
+
+### Desktop Mode Controls
+Image for common AWAD and Arrow Keys
+
+### VR Controllers
+Please find a list of controls for different VR devices on [Mozilla's blog [List of Controller inputs](https://hubs.mozilla.com/docs/hubs-controls.html)
+
+### Mobile Controls
+On mobile devices, two circles will appear on the bottom of your screen to simulate joysticks. The left joystick tilts your point-of-view or "head" to "look around." The right joystick "walks" your avatars through the space. 
+
+### User Interface
+We have added two overlays for Information and Troubleshooting. The (i) button will give you information about the performance, colloquially referred to as the programme or plabill. 
 
 ## Refunds
 [`Dasha Kittredge`](./dasha-kittredge.md) likes to say *"we are navigating the uncharted waters of the metaverse and things may get a bit choppy."* If your experience is unpleasant or interrupted, we understand you may wish to request a refund and are happy to receive these requests at: info (at) jigsawensemble (dot) com 
