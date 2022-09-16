@@ -3,7 +3,7 @@ layout: default
 id: cue-system
 title: cue system
 parent: Repository
-nav_order: 4
+nav_order: 
 ---
 
 ## Cue System
