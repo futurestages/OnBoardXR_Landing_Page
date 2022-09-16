@@ -3,7 +3,7 @@ layout: default
 id: scenes
 title: scenes
 parent: Repository
-nav_order: 3
+nav_order: 
 ---
 
 ## Scenes
