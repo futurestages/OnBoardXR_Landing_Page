@@ -14,7 +14,7 @@ The [Mozilla Hubs blog](https://hubs.mozilla.com/docs/system-overview.html) expl
 > *"Voice, video and audio traffic is handled via WebRTC Server based on the open source “mediasoup” project. (We formerly used the “Janus” project as our > WebRTC server). It uses an SFU (Selective Forwarding Unit) topology where each participant is sending their data to a central routing machine which then > sends back all participants data to each participant."*
 >
 
-When designing a [`Scene`], setting the `audio falloff` can be difficult. Community Member [Kojiro Yano](https://twitter.com/kojirovr/status/1525614648254291971?s=21&t=4ehgJlrJIO-QQyC-4P_LOQ) prepared a Google Document to help calculate the appropriate values.
+When designing a [`Scene`](./glossary-scene.md), setting the `audio falloff` can be difficult. Community Member [Kojiro Yano](https://twitter.com/kojirovr/status/1525614648254291971?s=21&t=4ehgJlrJIO-QQyC-4P_LOQ) prepared a Google Document to help calculate the appropriate values.
 
 ## Microphone Input
 Settings, Mute, Mute All
