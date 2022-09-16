@@ -35,7 +35,7 @@ Mute/Unmute, Preferences
 Image for common AWAD and Arrow Keys
 
 ### VR Controllers
-Please find a list of controls for different VR devices on [Mozilla's blog [List of Controller inputs](https://hubs.mozilla.com/docs/hubs-controls.html)
+[Please find a list of controls for different VR devices on Mozilla's blog](https://hubs.mozilla.com/docs/hubs-controls.html)
 
 ### Mobile Controls
 On mobile devices, two circles will appear on the bottom of your screen to simulate joysticks. The left joystick tilts your point-of-view or "head" to "look around." The right joystick "walks" your avatars through the space. 
