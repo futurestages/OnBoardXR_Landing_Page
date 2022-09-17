@@ -31,7 +31,7 @@ A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.m
 Audience Avatars have been used to denote an attendee's [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
 
 ## Best Practices
-Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-decks.md) about the "ballerina incident.")*. Below please find some best practices for customizing Avatars:
+Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. Below please find some best practices for customizing Avatars:
 
 ### Always export from a Blender Project
 Importing an existing .GLB back into Blender frequently generates a known bug of duplicating polygons/triangles and disrupting the hand-tracking. This unintentionally increases avatar file size and some users experience `hand blinking` where the 3D Mesh of the avatar's hands becomes invisible intermitently. By making changes in your original Blender project and exporting new .GLB files, you can avoid some of these errors. 
