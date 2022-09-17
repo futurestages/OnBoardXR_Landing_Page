@@ -7,11 +7,13 @@ nav_order:
 ---
 
 ## Avatars
-An `Avatar` is how we refer to [the graphic image that represents a user in the virtual world](https://www.xrtoday.com/virtual-reality/what-is-an-avatar-in-the-metaverse/). Every user in the virtual world is represented by a virtual object, comprised of a `3D Mesh,` decorated by `Texture(s)` and controlled by a `Rig.` These three components may be customized to allow users to represet themselves in creative ways, however these components must adere to specific technical guidelines to avoid breaking the virtual experience.
+An `Avatar` is how we refer to [the graphic image that represents a user in the virtual world](https://www.xrtoday.com/virtual-reality/what-is-an-avatar-in-the-metaverse/). Every user in the virtual world is represented by a virtual object, comprised of a `3D Mesh,` decorated by `Texture(s)` and controlled by a `Rig.` These three components may be customized to allow users to represet themselves in creative ways, however these components must adere to specific technical guidelines to function within the virtual experience. 
 
 - The 3D Mesh is a figure or form of the 3D model. 
 - The Texture is the material used to colorize the model.
 - The Rig is a platform-specific skeleton that interprets tracking data and expresses those movements on the 3D Mesh.
+
+Every user who joins a virtual experience is embodied by an avatar `Rig`, even in cases where the `3D Mesh` is only a pair of hands or the `Texture` is set to be Invisible. Creators have an incredible opportunity *and responsibility* to thoughtfully prepare how they and their audience are embodied in virtual space. 
 
 ## Default Avatars
 As an open-source platform, Mozilla Hubs offers several default avatars and documentation on quick customizations to re-skin a default avatar. 
@@ -22,7 +24,9 @@ As an open-source platform, Mozilla Hubs offers several default avatars and docu
 ## Changing & Adding Avatars
 A Creator can change or upload their Avatar under the `⋮` menu button and clicking `Change Name and Avatar`. This reveals three libraries for `Featured`, `My Avatars`, and `Newest.` Avatars available to all users appear under `Featured` and must be approved and featured by Admin. Creators may access Avatars they have uploaded under `My Avatars` when signed in using their email address. 
 
-To add an Avatar, a Creator first needs to export their customized Avatar as a .GLB file select `+ Create Avatar` to upload this file. Please check the box for `☐ Allow Promotion` before clicking `Save`. Upon saving, we recommend *right-clicking* on the thumbnail of your newly uploaded avatar and select `Copy Link Address` and saving this URL for future reference.
+To add an Avatar, a Creator first needs to export their customized Avatar as a .GLB file select `+ Create Avatar` to upload this file. Please check the box for `☐ Allow Promotion` before clicking `Save`. Upon saving, we recommend *right-clicking* on the thumbnail of your newly uploaded avatar and select `Copy Link Address`. This is the `Avatar URL` and we recommend you store this information somewhere safe.
+
+Avatar .GLB files may also be uploaded in [`Spoke`](./glossary-scenes.md) under `My Assets`. After successful upload, you may right click on the thumbnail of the avatar asset and select `Copy URL`. This provides a [`hosted link`](./cue-system.md) for the avatar that may be queried by the [`cue system`](./cue-system.md).
 
 ## Ready Player Me
 A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.me](https://readyplayer.me/). This site generates an avatar on it's own generic Rig that can be automatically transferred to hundreds of different platforms, [for example Mozilla Hubs](https://blog.readyplayer.me/mozilla-hubs-custom-3d-avatar/).
