@@ -9,7 +9,7 @@ nav_order:
 ## Scenes
 A `Scene` is how we refer to 3D worlds or environments designed and published by our Creators. Effectively, this is the customizeable "Stage Area" for our Creators to rehearse and perform their work in virtual reality. Scenes function similary to a website template in establishing the layout and design of the virtual experience. 
 
-If you are already familiar with 'Scene' basics and looking for [tips on Optimization, please click here](./glossary-optimization.md).  
+If you are already familiar with `Scene` basics and looking for [tips on Optimization, please click here](./glossary-optimization.md).  
 
 ## Spoke
 Mozilla Hubs provides [a cloud-based world-building tool, called Spoke](https://hubs.mozilla.com/docs/spoke-creating-projects.html), which empower Creators to Create or Upload new `Scenes`. This includes a Library of Default Scenes created by the Community, a basic Architecture Kit, integration with Sketchfab, and dozens of Elements to quickly build your own environment (lights, media, spawn points, etc).
