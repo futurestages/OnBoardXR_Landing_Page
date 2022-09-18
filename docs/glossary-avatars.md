@@ -15,7 +15,7 @@ An `Avatar` is how we refer to [the graphic image that represents a user in the 
 
 Every user who joins a virtual experience is embodied by an avatar `Rig`, even in cases where the `3D Mesh` is only a pair of hands or the `Texture` is set to be Invisible. Creators have an incredible opportunity *and responsibility* to thoughtfully prepare how they and their audience are embodied in virtual space. 
 
-If you are already familiar with 'Avatar' basics and looking for [tips on Optimization, please click here](./glossary-optimization.md).  
+If you are already familiar with `Avatar` basics and looking for [tips on Optimization, please click here](./glossary-optimization.md).  
 
 ## Default Avatars
 As an open-source platform, Mozilla Hubs offers several default avatars and documentation on quick customizations to re-skin a default avatar. 
