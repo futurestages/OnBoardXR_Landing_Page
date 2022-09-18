@@ -14,6 +14,8 @@ nav_order: 1
 > ### *"A group of amateur players have presented some fifty one-act plays to the great pleasure and interest of themselves and the alternate, sometimes mingled, amusement, surprise, disapproval and horror of their neighbors."*
 > Mary Aldis (1915), predecessor to the 'little theater' movement
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/C96w5_uf8kM/0.jpg)](http://www.youtube.com/watch?v=C96w5_uf8kM "what is a virtual reality theater festival")
+
 ## Who is OnBoardXR for?
 OnBoardXR is a community and showcase to educate, inspire, accelerate and empower live performing artists in the immersive web. Most of our performance prototypes are the very first time those artists have brought their creative practive into virtual reality and over 30% of our audiences report OnBoardXR as their first virtual reality or live vr experience.
 
