@@ -20,6 +20,13 @@ Mozilla continues to update their Blender Addon for advanced features to optimiz
 - [Mozilla *Updated* Lightmapping](https://hubs.mozilla.com/labs/ez-bake-lightmapping/)
 - [Mozilla Bloom Feature]()
 
+## Mixing 2D and 3D Elements
+One of our most popular early prototypes was [`Singing Inside a Painting`](https://youtu.be/K7MqCO72hEE?t=77) where a performer individually cut out all the items in a 2D painting and stacked them in 3D space. This use of perspective and low-cost images is also used in [photospheres](./glossary-360.md/#photospheres--hdris) appearing on the horizon of a scene.
+
+By breaking down your `Scene` into areas the audience will or will not interact / travel, 2D elements can work like ["Paper Cut Lightbox](https://en.everybodywiki.com/Lightbox_Papercraft) techniques to make the surrounding area feel more immersive. 
+
+[An example by Clément Fromentin here.](https://sketchfab.com/3d-models/brawlout-stage-jungle-treetop-227e76f0a7cc4647b6b18f42daf30222)
+
 ## UV Scrolling Animation & Sprites
 - [Mozilla Hubs UV Scroll](https://hubs.mozilla.com/labs/animating-textures-using-the-uv-scroll-component-part-3/)
 
