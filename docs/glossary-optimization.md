@@ -22,6 +22,7 @@ By making all changes from your original Blender project and exporting a new .GL
 ### Reduce & Bake Materials
 - [How to Bake Texture](https://www.youtube.com/watch?v=LLQFopN--LY)
 - [UV Wrapping](https://www.youtube.com/watch?v=kZaa8MJyGBs)
+
 We never want to limit creativity, however detailed multi-layered and high-resolution materials quickly increase file size. If you're using several shader nodes and materials, once you are ready to export, `Add` a new `Image Texture` and highlight it before clicking on the `Render Properties` (camera icon). Change your `Render Engine` to `Cycles` and a `Bake` drop down will appear (usually below `Performance`). Set to `Combined` and click `Bake` to generate a single image of your shader nodes. Now you can use this image as the sole `Material` for the avatar. We also recommend you `Save a Copy` of this Baked Image.
 
 Community Member [`Anais Ron`](./active-replica.md) guided [a workshop on optimizing materials here](https://youtu.be/ig-HVbWqZLA). 
