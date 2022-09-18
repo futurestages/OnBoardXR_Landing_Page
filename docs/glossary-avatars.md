@@ -37,10 +37,6 @@ A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.m
 Audience Avatars have been used to denote an attendee's [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
 
 ## Best Practices
-Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. Below please find some best practices for customizing Avatars:
+Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. 
 
-### Always export from a Blender Project
-Importing an existing .GLB back into Blender frequently generates a known bug of duplicating polygons/triangles and disrupting the hand-tracking. This unintentionally increases avatar file size and some users experience `hand blinking` where the 3D Mesh of the avatar's hands becomes invisible intermitently. By making changes in your original Blender project and exporting new .GLB files, you can avoid some of these errors. 
-
-### Reduce & Bake Materials
-We never want to limit creativity, however detailed multi-layered and high-resolution materials quickly increase file size. If you're using several shader nodes and materials, once you are ready to export, `Add` a new `Image Texture` and highlight it before clicking on the `Render Properties` (camera icon). Change your `Render Engine` to `Cycles` and a `Bake` drop down will appear (usually below `Performance`). Set to `Combined` and click `Bake` to generate a single image of your shader nodes. Now you can use this image as the sole `Material` for the avatar. We also recommend you `Save a Copy` of this Baked Image.
+If you are looking for [tips on Optimization, please click here](./glossary-optimization.md).  
