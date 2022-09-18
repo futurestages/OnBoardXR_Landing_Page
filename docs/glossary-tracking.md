@@ -34,9 +34,9 @@ Community Member [Clemence Debaig](./unwired-dance.md) is recognized for her ach
 
 Below are some resources on various examples and integrations of `motion caputure` hardware and software for virtual performance. 
 
-- 
--
--
+- [*Unwanted Waters* from Unwired Dance Theatre](https://www.unwireddancetheatre.com/unwanted-waters-mocap-xr)
+- [*Christmas Carol* from Heavenue](https://vimeo.com/662158278)
+- [VRChat tracking tested by Thrillist](https://www.youtube.com/watch?v=TfCSKM0MyrQ)
 
 ### Volumetric Streaming
 Community Member [Valencia James](./volumetric.md) is celebrated for her dance performances using [volumetric capture](https://en.wikipedia.org/wiki/Volumetric_capture), which her team shared with OnBoardXR during her time at the [`New York University Innovation Lab`](./nyu-lab.md) for students to develop and perform prototypes using her techniques. While captured from an individual [`depth sensor`](https://en.wikipedia.org/wiki/Kinect), this device can generate a real-time, three-dimensional map of the user and their environment. Creators can choose how much of this data to transmit, resulting in the ability to separate a Performer from objects in the room that are closer or further from the sensor than the Performer's body.
