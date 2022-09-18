@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Tracking
-All virtual performance relies on digital systems that capture and transmit a user's movements. When performing as an `Avatar` this can best be thought of as digital [puppetry](https://en.wikipedia.org/wiki/Puppetry). The OnBoardXR Community has experimented with a variety of systems and techniques for tracking and expressing a performer's movements in virtual reality and welcome all artists to bring their own creative practive to this emerging medium rooted in the tools already available to them.
+All virtual performance relies on digital systems that capture and transmit a user's movements. When performing as an `Avatar` this can best be thought of as digital [puppetry](https://en.wikipedia.org/wiki/Puppetry). The OnBoardXR Community has experimented with a variety of systems and techniques for tracking and expressing a performer's movements in virtual reality and welcome all artists to bring their own creative practive to this emerging medium, but strongly recommend Creator's root their prototypes in the tools and methods already authentically integrated into their performance work.
 
 ### Keystrokes
 The simplest expression of any user is their use of a keyboard and mouse in the 2D Desktop experience. Several [`Case Studies`] by Creators were designed and performed without any advanced virtual reality equipment by careful practice to manipulate their Avatar using their existing computer or tablet. Combined with [`idle animations`]() or [`non linear animations`](), these performances can become even more emotionally resonate. 
