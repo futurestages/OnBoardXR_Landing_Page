@@ -17,7 +17,7 @@ It can be difficult to quickly preview or open a 3D file on your computer. These
 ### Always export from a Blender Project
 Importing an existing .GLB back into Blender frequently generates a known bug of duplicating polygons/triangles and disrupting the rigging of avatars. This unintentionally increases file sizes and some users experience `hand blinking` where the 3D Mesh of the avatar's hands becomes invisible intermitently. 
 
-By making all changes from your original Blender project and exporting a new .GLB files, you can avoid some of these errors. We recommend completing every build session by choosing `Save A Copy` from Blender and including the <DATE> in the filename of your project to stay organized.
+By making all changes from your original Blender project and exporting a new .GLB files, you can avoid some of these errors. We recommend completing every build session by choosing `Save A Copy` from Blender and including the `DATE - 00_00_0000` in the filename of your project to stay organized.
 
 ### Reduce & Bake Materials
 We never want to limit creativity, however detailed multi-layered and high-resolution materials quickly increase file size. If you're using several shader nodes and materials, once you are ready to export, `Add` a new `Image Texture` and highlight it before clicking on the `Render Properties` (camera icon). Change your `Render Engine` to `Cycles` and a `Bake` drop down will appear (usually below `Performance`). Set to `Combined` and click `Bake` to generate a single image of your shader nodes. Now you can use this image as the sole `Material` for the avatar. We also recommend you `Save a Copy` of this Baked Image.
