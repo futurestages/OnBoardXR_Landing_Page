@@ -32,7 +32,7 @@ To add an Avatar, a Creator first needs to export their customized Avatar as a .
 Avatar .GLB files may also be uploaded in [`Spoke`](./glossary-scene.md) under `My Assets`. After successful upload, you may right click on the thumbnail of the avatar asset and select `Copy URL`. This provides a [`hosted link`](./cue-system.md) for the avatar that may be queried by the [`cue system`](./cue-system.md).
 
 ## Ready Player Me
-A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.me](https://readyplayer.me/). This site generates an avatar on it's own generic Rig that can be automatically transferred to hundreds of different platforms, [for example Mozilla Hubs](https://blog.readyplayer.me/mozilla-hubs-custom-3d-avatar/).
+A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.me](https://readyplayer.me/). This site generates an avatar on it's own generic Rig that can be automatically transferred to hundreds of different platforms, [one of them being Mozilla Hubs](https://blog.readyplayer.me/mozilla-hubs-custom-3d-avatar/).
 
 ## Audience Avatars
 Audience Avatars have been used to denote an attendee's [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
