@@ -32,7 +32,7 @@ Creators may also create an Audience Avatar that is specific to their show using
 ## Changing & Adding Avatars
 A Creator can change or upload their Avatar under the `⋮` menu button and clicking `Change Name and Avatar`. This reveals three libraries for `Featured`, `My Avatars`, and `Newest.` Avatars available to all users appear under `Featured` and must be approved and featured by Admin. Creators may access Avatars they have uploaded under `My Avatars` when signed in using their email address. 
 
-To add an Avatar, a Creator first needs to export their customized Avatar as a .GLB file select `+ Create Avatar` to upload this file. Please check the box for `☐ Allow Promotion` before clicking `Save`. Upon saving, we recommend *right-clicking* on the thumbnail of your newly uploaded avatar and select `Copy Link Address`. This is the `Avatar URL` and we recommend you store this information somewhere safe.
+To add an Avatar, a Creator first needs to export their customized Avatar as a .GLB file select `+ Create Avatar` to upload this file and click `Save`. Upon saving, we recommend *right-clicking* on the thumbnail of your newly uploaded avatar and select `Copy Link Address`. This is the `Avatar URL` and we recommend you store this information somewhere safe.
 
 Avatar .GLB files may also be uploaded in [`Spoke`](./glossary-scene.md) under `My Assets`. After successful upload, you may right click on the thumbnail of the avatar asset and select `Copy URL`. This provides a [`hosted link`](./cue-system.md) for the avatar that may be queried by the [`cue system`](./cue-system.md).
 
