@@ -28,6 +28,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 > STEPHEN FLACH
 
 ## Emcees & OnBoarding
+Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, performed by [`Dasha Kittredged`](./dasha-kittredge.md), [`Ari Tarr`](./ari-tarr.md), and [`Tyler Graham`](./tyler-graham.md). In an experiment for narrative dramaturgy, the pre-show transitioned into the first Act of the actual event.
 
 ## [Peer to Pier](./pier-to-peer.md)
 
@@ -44,6 +45,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 ## [Unwanted Waters](./unwired-dance.md)
 
 ## [Cue System](./cue-system.md)
+[`Michael Morran`](./michael-morran.md) took over Technical Direction and Stage Management as part of his engagement on [Non-Player Character](./non-player-character.md), bringing new features, like `grouped cues` and `avatar manipulation` to the [`cue system`](./cue-system.md) and introducing his own [`Paper Tech`]() workflow to allow Creators without coding experience to complete a Google Sheet with the data fields necessary to develop theatrical cues on behalf of another Creator. 
 
 ## Reception & Analysis
 The third OnBoardXR had double the attendance of previous seasons with more tickets “sold” prior to the opening show than total attendance of any other OnBoardXR series. Almost half the audience attended in [`standalone HMD`](./glossary-hmd.md) with a healthy 5% still on mobile phone or tablet. Even with repeat customers, 25% of attendees reported the show as their first ever vitual reality or live virtual reality experience. This increased to 50% when we include attendees who reported only having ever attended *one* live virtual reality performance prior to OB3. Our partnership with an existing festival, like FIVARS, appeared to assist this metric, with participants naming blogs or publications as how they learned about OnBoardXR. 
