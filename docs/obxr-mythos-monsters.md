@@ -10,9 +10,9 @@ nav_order: 3
 The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FIVARS festival to explore pre-seating a larger event with its own built-in audience and press outreach. 
 
 > - [Cast & Crew on **IMDb**](https://www.imdb.com/title/tt15716876/?ref_=nm_flmg_act_8)
+> - [Interview from **FIVARS**](https://fivars.net/spotlight/fivars-2021-spotlight-onboardxr-the-aquaians/)
 > - [OnBoardXR on **XRMust**](https://www.xrmust.com/xrdatabase/all-experiences/onboardxr/)
 > - [OnBoardXR on **Everything Immersive**](https://everythingimmersive.com/events/onboard)
-> - [Blog Overview from Brendan Bradley](https://www.brendanabradley.com/futurestages/2021/3/19/a-one-act-festival-in-a-web-browser)
 > 
 ## Production & Sponsors
 **The Jigsaw Ensemble and Active Replica** continued their informal partnership to produce the event and absorb overhead costs. Michael Morran stepped up as Techincal Director and Stage Manager to expand the [`cue system`](./cue-system.md) with experimental features intended for [`Non-Player Character`](./non-player-character.md) and organized a [`Paper Tech`](./cue-system.md/#paper-tech) system for all participants to submit a cue sheet without learning javascript. Participants submitted prototype proposals via an open-submission process, however the season was saturated primarily by returning participants which cultivated a stronger sense of community and collaboration.
