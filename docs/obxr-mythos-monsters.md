@@ -22,27 +22,51 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 > 
 > Technical Director:
 > MICHAEL MORRAN
+>
+> Dramaturg:
+> L. Nicol Cabe
 > 
+> Creative Technologists"
+> MICHAEL MORRAN
+> ROMAN MILETITCH
+>
 > Stage Management:
 > MICHAEL MORRAN
 > STEPHEN FLACH
+> 
+> House Management:
+> TYLER GRAHAM
+> 
+> 3D Design Optimization:
+> ANAIS RON
+> 
 
 ## Emcees & OnBoarding
 Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, performed by [`Dasha Kittredge`](./dasha-kittredge.md), [`Ari Tarr`](./ari-tarr.md), and [`Tyler Graham`](./tyler-graham.md). In an experiment for narrative dramaturgy, the pre-show transitioned into the first Act of the actual event.
 
-## [Peer to Pier](./pier-to-peer.md)
+## [Pier to Peer](./pier-to-peer.md)
+*A high-hat, black hat pirate - in more ways than one - steals away aboard a nautical vessel in search of new exploits and coin, but instead finds themselves unmoored on an offbeat voyage of self-discovery alongside a newfound crew. Created by [`Braden Roy`](), [`Ari Tarr`](), and [`Dasha Kittredge`]() with [`Dramaturgy by L. Nicol Cabe`]().
 
 ## [The Aquaians](./rebecca-evans.md) 
+*Get an up-close look at the new technology "feeding" the underwater cities of our future. You and a few specially-selected guests will be the first to visit the set of the new reality show, "The Aquaians."*
 
 ## [Water Horse](./koryn-wicks.md)
+*Water Horse explores the folklore of the Each-uisge, a water horse from Scotting folklore. The piece takes place in a 360 dance on film featuring Oscar Lozano, Daydie Price & Siena Simas. A live performer guides the audience through the experience.*
+
+## Living Tables
+*Less a show, more a space in between shows. The space will react to the presence of the people, encouraging them to explore. From [`Roman Miletitch`]() and Regis Lemberthe.*
 
 ## [NPC](./non-player-character.md): Let's Get To The Bottom
+*A friendly octopus invites the audience on a singalong into the deepest corners of themselves. Written & Performed bt [`Brendan Bradley`](./brendan-bradley.md) with musical arangement by Maurice Soque Jr. and Technical Direction by [`Michael Morran`](./michael-morran.md)*
 
 ## [Deeps & Shallows](./naomi-smyth.md)
+*An unconventional home office with a history, submerged in a sea of conflicting selves and voyaging for connection. Autobiographical improv supported by Arts Council England, the OnBoardXR community and Beyond The Ridiculous.*
 
 ## [Mrs. Nemo](./mrs-nemo.md)
+*An immersive musical that aims to set the record straight about Jules Verne's iconic character, as he fights off the giant squid. Creative team: David Gochfeld, Daniel Lock, Mary Stewart-David with Vivian Belosky as Mrs. Nemo. Executive Producer Cristobal Catalan. Character Design by Clara Capaldo. Animator Guy Schofield. Musical Arranger Simon Walters.*
 
 ## [Unwanted Waters](./unwired-dance.md)
+*Inspired by the old myth of Rusulka, this live mocap dance performance tells the story of unfriendly water spirits who have suffered from harassment and exclusion. How will they react to the audience disturbing their peace? Tech and performance by [`Clemence Debaig`](./unwired-dance.md), character design by Neal Coghlan and Music by Christina Karpodini. 
 
 ## [Cue System](./cue-system.md)
 [`Michael Morran`](./michael-morran.md) took over Technical Direction and Stage Management as part of his engagement on [Non-Player Character](./non-player-character.md), bringing new features, like `grouped cues` and `avatar manipulation` to the [`cue system`](./cue-system.md) and introducing his own [`Paper Tech`]() workflow to allow Creators without coding experience to complete a Google Sheet with the data fields necessary to develop theatrical cues on behalf of another Creator. 
