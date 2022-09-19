@@ -45,7 +45,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, performed by [`Dasha Kittredge`](./dasha-kittredge.md), [`Ari Tarr`](./ari-tarr.md), and [`Tyler Graham`](./tyler-graham.md). In an experiment for narrative dramaturgy, the pre-show transitioned into the first Act of the actual event.
 
 ## [Pier to Peer](./pier-to-peer.md)
-*A high-hat, black hat pirate - in more ways than one - steals away aboard a nautical vessel in search of new exploits and coin, but instead finds themselves unmoored on an offbeat voyage of self-discovery alongside a newfound crew. Created by [`Braden Roy`](), [`Ari Tarr`](), and [`Dasha Kittredge`]() with [`Dramaturgy by L. Nicol Cabe`]().
+*A high-hat, black hat pirate - in more ways than one - steals away aboard a nautical vessel in search of new exploits and coin, but instead finds themselves unmoored on an offbeat voyage of self-discovery alongside a newfound crew. Created by [`Braden Roy`](), [`Ari Tarr`](), and [`Dasha Kittredge`]() with [`Dramaturgy by L. Nicol Cabe`]().*
 
 ## [The Aquaians](./rebecca-evans.md) 
 *Get an up-close look at the new technology "feeding" the underwater cities of our future. You and a few specially-selected guests will be the first to visit the set of the new reality show, "The Aquaians."*
@@ -66,7 +66,7 @@ Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, p
 *An immersive musical that aims to set the record straight about Jules Verne's iconic character, as he fights off the giant squid. Creative team: David Gochfeld, Daniel Lock, Mary Stewart-David with Vivian Belosky as Mrs. Nemo. Executive Producer Cristobal Catalan. Character Design by Clara Capaldo. Animator Guy Schofield. Musical Arranger Simon Walters.*
 
 ## [Unwanted Waters](./unwired-dance.md)
-*Inspired by the old myth of Rusulka, this live mocap dance performance tells the story of unfriendly water spirits who have suffered from harassment and exclusion. How will they react to the audience disturbing their peace? Tech and performance by [`Clemence Debaig`](./unwired-dance.md), character design by Neal Coghlan and Music by Christina Karpodini. 
+*Inspired by the old myth of Rusulka, this live mocap dance performance tells the story of unfriendly water spirits who have suffered from harassment and exclusion. How will they react to the audience disturbing their peace? Tech and performance by [`Clemence Debaig`](./unwired-dance.md), character design by Neal Coghlan and Music by Christina Karpodini.*
 
 ## [Cue System](./cue-system.md)
 [`Michael Morran`](./michael-morran.md) took over Technical Direction and Stage Management as part of his engagement on [Non-Player Character](./non-player-character.md), bringing new features, like `grouped cues` and `avatar manipulation` to the [`cue system`](./cue-system.md) and introducing his own [`Paper Tech`]() workflow to allow Creators without coding experience to complete a Google Sheet with the data fields necessary to develop theatrical cues on behalf of another Creator. 
