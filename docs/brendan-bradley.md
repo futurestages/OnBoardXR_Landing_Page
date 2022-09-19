@@ -13,6 +13,7 @@ Brendan Andolsek Bradley is known as "America's Scrappy Storyteller" with over 1
 In July of 2020, Brendan Bradley designed and released [`#FutureStages`](./future-stages.md), a free 3D performance space on the web-based virtual reality platform, Mozilla Hubs.
 
 ### Jettison
+The first prototype production to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md).  
  
 ### Emcee and Hosting
 Since the inagural OnBoardXR Seasonal Showcase, Brendan Bradley has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Captain Bradleybeard`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
