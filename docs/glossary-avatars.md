@@ -38,6 +38,6 @@ A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.m
 Audience Avatars have been used to denote an attendee's [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
 
 ## Best Practices
-Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar gets used by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. 
+Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar file is selected by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. 
 
 If you are looking for [tips on Optimization, please click here](./glossary-optimization.md).  
