@@ -7,7 +7,10 @@ nav_order:
 ---
 
 ## Ari Tarr
-[`Ari Tarr`]() and [`Brendan Bradley`](./future-stages.md) appeared on a panel for Theater Communications Group in the Summer of 2020 to discuss XR technologies in live performance. Originally concerned by the limitations of [web-based virtual reality](./webvr.md), Ari has become one of OnBoardXR's most recognized and recurring members, eventually developing his own full-format project [Seiukuken]() from his OnBoardXR experimental prototypes to premiere at Raindance Immersive in the Fall of 2022. 
+[`Ari Tarr`]() and [`Brendan Bradley`](./future-stages.md) appeared on a panel for Theater Communications Group in the Summer of 2020 to discuss XR technologies in live performance. Originally concerned by the limitations of [web-based virtual reality](./webvr.md), Ari has become one of OnBoardXR's most recognized and recurring members, eventually developing his own full-format project [Seiukuken]() from his OnBoardXR experimental prototypes to premiere at Raindance Immersive in the Fall of 2022.
+
+### Emcee and Hosting
+Since the inagural OnBoardXR Seasonal Showcase, Ari Tarr has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Codebeard"`, improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
 
 ### This Land Is Island
 Bradley invited Tarr to join [`OnBoardXR: Cruise`](./obxr-cruise.md) in early 2021. Tarr partnered with [Dasha Kittredge](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
