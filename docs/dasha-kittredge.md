@@ -7,10 +7,13 @@ nav_order:
 ---
 
 ## Dasha Kittredge
+In the Spring of 2021, [`Ari Tarr`](./ari-tarr.md) partnered with [`Dasha Kittredge`](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance for [`OnBoard: Cruise`](./obxr-cruise.md). Dasha is a recognized performer and creator in both the IRL and virtual immersive performance space.
 
+### Emcee and Hosting
+Since the inagural OnBoardXR Seasonal Showcase, Dasha Kittredge has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Darrrrsha`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
 
 ### This Land Is Island
-[Ari Tarr](./ari-tarr.md) partnered with [Dasha Kittredge](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance taking places on a deserted island with a marooned couple. The audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a Kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
+Taking places on a deserted island with a marooned couple, the audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
 
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.thisland.png" alt="alt text" title="This Land Is Island" width="150"/>
 
@@ -20,6 +23,4 @@ nav_order:
 <img src="https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.haroundesert.gif" alt="alt text" title="Haroun Desert" width="150"/>
 
 ## NYU Lab
-[Brendan Bradley](./future-stages.md) invited [Dasha Kittredge](./dasha-kittredge.md) and [Ari Tarr](./ari-tarr) to teach a semester of his Integrative Technology Lab at New York University. 
-
-### Emcee and Hosting
+[Brendan Bradley](./future-stages.md) invited [Dasha Kittredge](./dasha-kittredge.md), [Ari Tarr](./ari-tarr) and [Valencia James](./volumetric.md) to teach a semester of his [Integrative Technology Lab at New York University](./nyu-lab.md). 
