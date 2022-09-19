@@ -2,7 +2,7 @@
 layout: default
 id: brendan-bradley
 title: Brendan Bradley
-parent: 
+parent: Case Studies
 nav_order: 
 ---
 
