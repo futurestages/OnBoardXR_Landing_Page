@@ -26,8 +26,10 @@ The second showcase of OnBoardXR, premiering July, 2021. Virtual attendees recei
 > ROMAN MILETITCH
 
 ## Emcees & OnBoarding
+The duties of house management and hosting merged in the return of our [`Pirate Emcees`], performed by [`Dasha Kittredged`](./dasha-kittredge.md) and [`Brendan Bradley`](./brendan-bradley.md), improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
 
 ## [Painting Pirates](./painting-pirates.md) 
+Zach Capalbo and Braden Roy greeted attendees by creating pre-show portraits in real-time in the virtual Room. 
 
 ## [Strings: Prisoner](./unwired-dance.md#Strings)
 
