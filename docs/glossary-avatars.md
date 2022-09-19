@@ -19,6 +19,7 @@ If you are already familiar with `Avatar` basics and looking for [tips on Optimi
 
 ## Default Avatars
 As an open-source platform, Mozilla Hubs offers several default avatars and documentation on quick customizations to re-skin a default avatar. 
+- [Mozilla Hubs Blender AddOn](https://hubs.mozilla.com/labs/what-is-the-blender-add-on/)
 - [Mozilla Default Avatar Blender File](https://github.com/MozillaReality/hubs-avatar-pipelines/tree/master/Blender/AvatarBot)
 - [Mozilla's Quick Avatar Customization](https://hubs.mozilla.com/docs/intro-avatars.html)
 - [Mozilla's Advanced Avatar Customization](https://hubs.mozilla.com/docs/creators-advanced-avatar-customization.html)
