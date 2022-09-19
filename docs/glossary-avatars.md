@@ -24,6 +24,11 @@ As an open-source platform, Mozilla Hubs offers several default avatars and docu
 - [Mozilla's Quick Avatar Customization](https://hubs.mozilla.com/docs/intro-avatars.html)
 - [Mozilla's Advanced Avatar Customization](https://hubs.mozilla.com/docs/creators-advanced-avatar-customization.html)
 
+## Audience Avatars
+Since inception, OnBoardXR has used a Default robot avatar for attendees of its Seasonal Showcases. The current version is a blue-skinned, cylindrical character with either an orange or gray life vest, denoting an attendee's self-selected [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). 
+
+Creators may also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. If you plan to customize an Audience Avatar, please Add the Avatar to OnBoardXR with the checkbox for `☐ Allow Promotion` and request Admin team `Promote and Feature` this Avatar for your showtime.
+
 ## Changing & Adding Avatars
 A Creator can change or upload their Avatar under the `⋮` menu button and clicking `Change Name and Avatar`. This reveals three libraries for `Featured`, `My Avatars`, and `Newest.` Avatars available to all users appear under `Featured` and must be approved and featured by Admin. Creators may access Avatars they have uploaded under `My Avatars` when signed in using their email address. 
 
@@ -33,9 +38,6 @@ Avatar .GLB files may also be uploaded in [`Spoke`](./glossary-scene.md) under `
 
 ## Ready Player Me
 A Creator can generate a quick, free Avatar using a photograph at [ReadyPlayer.me](https://readyplayer.me/). This site generates an avatar on it's own generic Rig that can be automatically transferred to hundreds of different platforms, [one of them being Mozilla Hubs](https://blog.readyplayer.me/mozilla-hubs-custom-3d-avatar/).
-
-## Audience Avatars
-Audience Avatars have been used to denote an attendee's [`ticket tier`](./glossary-tickets.md/) or [desired level of interaction](./glossary-tickets.md/#audience-avatars). Creators can also create an Audience Avatar that is specific to their show using the same pipeline as their own customized avatar. 
 
 ## Best Practices
 Avatars can quickly stress the virtual system with exponential poloygons, materials, or file size. A [`Scene`](./glossary-scene.md) or [`Room`](./glossary-room.md) may run smoothly until a "heavy" avatar file is selected by several users. *(Ask anyone from [`OnBoardXR: Below Decks`](./obxr-below-deck.md) about the "ballerina incident.")*. 
