@@ -28,7 +28,7 @@ The third showcase of OnBoardXR, premiering Octover, 2021 and partnering with FI
 > STEPHEN FLACH
 
 ## Emcees & OnBoarding
-Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, performed by [`Dasha Kittredged`](./dasha-kittredge.md), [`Ari Tarr`](./ari-tarr.md), and [`Tyler Graham`](./tyler-graham.md). In an experiment for narrative dramaturgy, the pre-show transitioned into the first Act of the actual event.
+Our `Pirate Emcees` helped greet and troubleshoot attendees prior to showtime, performed by [`Dasha Kittredge`](./dasha-kittredge.md), [`Ari Tarr`](./ari-tarr.md), and [`Tyler Graham`](./tyler-graham.md). In an experiment for narrative dramaturgy, the pre-show transitioned into the first Act of the actual event.
 
 ## [Peer to Pier](./pier-to-peer.md)
 
