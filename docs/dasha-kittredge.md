@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Dasha Kittredge
-In the Spring of 2021, [`Ari Tarr`](./ari-tarr.md) partnered with [`Dasha Kittredge`](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance for [`OnBoard: Cruise`](./obxr-cruise.md). Dasha is a recognized performer and creator in both the IRL and virtual immersive performance space.
+In the Spring of 2021, [`Ari Tarr`](./ari-tarr.md) partnered with [`Dasha Kittredge`](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance for [`OnBoard: Cruise`](./obxr-cruise.md) and was later [interviewed on Bradley's podcast for The 5th Wall Forum](https://anchor.fm/brendanabradley/episodes/Dasha-Kittredge-talks-Immersive-Weddings--Creative-Confusion--Training-for-VR--Ep20-e183bvd). Dasha is a recognized performer and creator in both the IRL and virtual immersive performance space.
 
 ### Emcee and Hosting
 Since the inagural OnBoardXR Seasonal Showcase, Dasha Kittredge has been one of our most frequent and recurring participants, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Darrrrsha`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
