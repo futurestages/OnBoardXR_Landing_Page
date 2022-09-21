@@ -10,7 +10,7 @@ nav_order:
 In the Spring of 2021, [`Ari Tarr`](./ari-tarr.md) partnered with [`Dasha Kittredge`](./dasha-kittredge.md) and [`Active Replica`]() to devise an immersive performance for [`OnBoard: Cruise`](./obxr-cruise.md). Dasha is a recognized performer and creator in both the IRL and virtual immersive performance space.
 
 ### Emcee and Hosting
-Since the inagural OnBoardXR Seasonal Showcase, Dasha Kittredge has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Darrrrsha`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
+Since the inagural OnBoardXR Seasonal Showcase, Dasha Kittredge has been one of our most frequent and recurring participants, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Darrrrsha`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
 
 ### This Land Is Island
 Taking places on a deserted island with a marooned couple, the audience was prompted to choose which character they wished to follow and offer relationship advice before teaming up to defeat a kraken, puppetted by [`Kevin Laibson`](./jettison.md). 
