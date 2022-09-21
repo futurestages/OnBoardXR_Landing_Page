@@ -9,6 +9,7 @@ nav_order: 3
 # Unwired Dance Theatre
 
 ## Background
+Clemence Debaig is a dance artist, UX/XR designer and creative technologist, based in London. Brendan Bradley invited Clemence to join [`OnBoardXR: Cruise`](./obxr-cruise.md) in early 2021 and later [interviewed her on his podcast for The 5th Wall Forum](https://anchor.fm/brendanabradley/episodes/Clemence-Debaig-Talks-Unwired-Dance--Homemade-Haptics--Live-MoCap--Ep15-e16slas). Clemence has continued to become one of OnBoardXR’s most frequent and recognized participants, especially for her integration of full body motion capture in WebXR and mentorship of the broader OnBoardXR community and codebase.
 
 ## Strings: Underwater
 
