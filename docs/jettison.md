@@ -10,12 +10,12 @@ nav_order: 2
 The first prototype production to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md)
 
 ## Background
-*Jettison* is a one act play by Brendan Bradley about three strangers stranded in a life boat who discover a rabbit. The dark comedy was originally commissioned and produced by Impetuous Theater Group as part of the [2007 Swim Shorts 3](https://www.theateronline.com/pb.xzc?PK=16050) in the rooftop swimming pool of the Midtown Manhattan Holiday Inn. The play was subsequently published in [One Acts of Note](https://www.amazon.com/Acts-Note-David-Miguel-Estrada/dp/0578018365) and produced at The Adrienne Arsht Center as part of The Signature Shorts Series in 2008.
+*Jettison* is a one act play by [`Brendan Bradley`](./brendan-bradley.md) about three strangers stranded in a life boat who discover a rabbit. The dark comedy was originally commissioned and produced by Impetuous Theater Group as part of the [2007 Swim Shorts 3](https://www.theateronline.com/pb.xzc?PK=16050) in the rooftop swimming pool of the Midtown Manhattan Holiday Inn. The play was subsequently published in [One Acts of Note](https://www.amazon.com/Acts-Note-David-Miguel-Estrada/dp/0578018365) and produced at The Adrienne Arsht Center as part of The Signature Shorts Series in 2008.
 
 *Jettison* received critcism as an 'unproduceable work of theater' given the challenges of an ocean environment, a live animal, and an on-stage drowning. 
 
 ## Webcam versus Avatar Performance 
-[`Alex Coulombe`](), [`David Gochfeld`](./mrs-nemo.md) and [`Kevin Laibson`]() approached [`Brendan Bradley`](./future-stages.md) with their interest to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could "solve" previous critcisms of the play. 
+[`Alex Coulombe`](), [`David Gochfeld`](./mrs-nemo.md) and [`Kevin Laibson`]() approached [`Brendan Bradley`](./brendan-bradley.md) with their interest to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md). Throughout the global shutdown, the team remotely workshopped and remimagined the play to determine if the affordances of virtual reality and the immersive web could "solve" previous critcisms of the play. 
 
 The team elected to limit their asset design to default and/or creative commons 3D models and avatars as a proof of concept for what any artist could replicate without a budget or bespoke 3D modeling. 
 
@@ -37,7 +37,7 @@ Throughout rehearsals and performances of *Jettison*, the team began to explore 
 This method established the groundwork for creating pre-determined snippets of code that could be deployed on command, organzied in a graphic user interaface that only the stage manager could access. 
 
 ## Reception
-The VR production of *Jettison* was a Finalist for The Producer Guild of America's Innovation Award and was the subject of a short-form documentary. The team was invited to present their findings at Microsoft, AMC-SIGGRAPH and VR•NY. *Jettison*'s underlying principles for simulating the real-world theatregoing experience in virtual reality continue to inform and influence OnBoardXR's practices regarding prototyping, house management, audience onboarding, theatrical cues and artist management. 
+The VR production of *Jettison* was a **Finalist for The Producer Guild of America's Innovation Award** and was the subject of a short-form documentary. The team was invited to present their findings at Microsoft, AMC-SIGGRAPH and VR•NY. *Jettison*'s underlying principles for simulating the real-world theatregoing experience in virtual reality continue to inform and influence OnBoardXR's practices regarding prototyping, house management, audience onboarding, theatrical cues and artist management. OnBoardXR is also considered one of the most influential and collaborative Mozilla Hubs Community Projects.
 
 ## OnBoardXR: Cruise
 After the success of *Jettison*, the team sought to scale and codify their findings so that any artist could efficiently and economimcally bring their creative practice into web-based virtual reality. A concept emmerged for a ["dark ride"](https://en.wikipedia.org/wiki/Dark_ride) utilizing Mozilla Hubs' [`scene-switching`](./glossary-scene.md/#scene-switching) feature to move an audience seemlessly through a variety of virtual worlds and performances offering each act complete control over its enivronment, performance style and audience engagement. 
