@@ -16,7 +16,7 @@ In July of 2020, Brendan Bradley designed and released [`#FutureStages`](./futur
 The first prototype production to investigate the viability of live theater in web-based virtual reality, utilizing [`The Future Stages`](./future-stages.md).  The features and techniques used in this production became the underlying inspiration behind the entire OnBoardXR Seasonal Showcase and [`cue system`](./cue-system.md).
  
 ### Emcee and Hosting
-Since the inagural OnBoardXR Seasonal Showcase, Brendan Bradley has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Captain Bradleybeard`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
+Since the inagural OnBoardXR Seasonal Showcase, Brendan Bradley has been one of our most frequent and recurring participants, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Captain Bradleybeard`", improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
 
 ### Non-Player Character
 With a 21st-century approach to traditional musical theatre Workshops and Out-Of-Towners, Bradley used virtual and festival performances to experiment with new musical numbers and audience interactions for [`Non-Player Character`](./non-player-character.md), a full-format, original Musical in virtual reality.
