@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Ari Tarr
-[`Ari Tarr`]() and [`Brendan Bradley`](./brendan-bradley.md) appeared on [a panel for Theater Communications Group in June of 2020](https://youtu.be/JT0JwnLYfmY?t=2794) to discuss XR technologies in live performance. Originally concerned by the limitations of [web-based virtual reality](./webvr.md), Ari and his partners at [Active Replica](./active-replica.md) became one of OnBoardXR's most frequent early members, eventually developing their own full-format project, [Seiukuken](), from their OnBoardXR experimental prototypes to [premiere at Raindance Immersive in the Fall of 2022](https://www.raindanceimmersive.com/#/seikuken/).
+[`Ari Tarr`]() and [`Brendan Bradley`](./brendan-bradley.md) appeared on [a panel for Theater Communications Group in June of 2020](https://youtu.be/JT0JwnLYfmY?t=2794) to discuss XR technologies in live performance. While he originally expressed concerns towards the limitations of [web-based virtual reality](./webvr.md), Ari and his partners at [Active Replica](./active-replica.md) have become one of OnBoardXR's most frequent members, eventually developing their own full-format project, [Seiukuken](), from their OnBoardXR experimental prototypes to [premiere at Raindance Immersive in the Fall of 2022](https://www.raindanceimmersive.com/#/seikuken/).
 
 ### Emcee and Hosting
 Since the inagural OnBoardXR Seasonal Showcase, Ari Tarr has been one of our most frequent and recurring collaborators, gravitating toward our rotating group of Virtual Hosts, often greeting and helping attendees before and during the show, in character as the Pirate Emcee, `"Codebeard"`, improvising banter and reactions to provide a loose framing for the disconnected Acts and Scenes. 
