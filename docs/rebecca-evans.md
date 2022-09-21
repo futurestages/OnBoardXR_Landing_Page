@@ -13,6 +13,7 @@ Rebecca Evans is recognized as one of 100 original voices in XR, drawing on her 
 ## 5th Wall Forum
 
 ## Aurora's Awakening
+In the Summer of 2021, Rebecca Evans submitted a proposal to [`OnBoardXR: Below Deck`](./obxr-below-deck.md) to explore her metaverse practive in Microsoft's Altspace and BRCvr in open, 3D [`web-based virtual reality`](./webvr.md). 
 
 ## The Aquaians
 
