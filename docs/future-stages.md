@@ -11,7 +11,7 @@ In July of 2020, [`Brendan Bradley`](./brendan-bradley.md) designed and released
 
 The Future Stages remains free and open for anyone to create their own virtual performance space within minutes, under a CC-BY license (attribution to original creator). [Click here to use #FutureStages template.](https://brendanabradley.com/gift)
 
-The immediate impact and scalbility of offering a free-and-open tool for live performance on the immersive web influenced the original creative community and culture of OnBoardXR.
+This virtual playhouse has been used and customized by literally hundreds of artists and insitutions. The immediate impact and scalbility of offering a free-and-open tool for live performance on the immersive web influenced the original creative community and culture of OnBoardXR.
 
 ## HERE Festival
 The first prototype of [`Jettison`](./jettison.md) was presented at The HERE Festival in October 2020 and became the groundwork for the inaugural [`OnBoardXR: Cruise`](./obxr-cruise.md) Showcase. 
