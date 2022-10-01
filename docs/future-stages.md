@@ -7,7 +7,9 @@ nav_order: 1
 ---
 
 # Future Stages
-In July of 2020, [`Brendan Bradley`](./brendan-bradley.md) designed and released [a free 3D performance space](https://www.playbill.com/article/can-this-game-changing-innovation-get-live-theatre-back-before-the-pandemic-ends) on the web-based virtual reality platform, Mozilla Hubs. Bradley referred to the project as #FutureStages and personally provided tutorials and support for dozens of artists and institutions to customize the experience to create and monetize their own live performance events during the pandemic. 
+In July of 2020, [`Brendan Bradley`](./brendan-bradley.md) designed and released [a free 3D performance space](https://www.playbill.com/article/can-this-game-changing-innovation-get-live-theatre-back-before-the-pandemic-ends) on the web-based virtual reality platform, Mozilla Hubs. Bradley referred to the project as #FutureStages and personally provided tutorials and support for dozens of artists and institutions to customize the experience to create and monetize their own live performance events during the pandemic.
+
+The Future Stages remains free and open for anyone to create their own virtual performance space within minutes, under a CC-BY license (attribution to original creator). [Click here to use #FutureStages template.](https://brendanabradley.com/gift)
 
 The immediate impact and scalbility of offering a free-and-open tool for live performance on the immersive web influenced the original creative community and culture of OnBoardXR.
 
