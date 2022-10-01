@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Optimization
-Many virtual platforms have known limitations for smooth or optimal performance on consumer devices. Below are resources frequently used by OnBoardXR team members to create the most efficient 3D assets for [`Scenes`](./glossary-scene.md) and [`Avatars`](./glossary-avatar.md) 
+Many virtual platforms have known limitations for smooth or optimal performance on consumer devices. Below are resources frequently used by OnBoardXR team members to create the most efficient 3D assets for [`Scenes`](./glossary-scene.md) and [`Avatars`](./glossary-avatars.md) 
 
 ### Previewing 3D Assets
 It can be difficult to quickly preview or open a 3D file on your computer. These two websites allow you to drag and drop a 3D model for previewing:
