@@ -25,7 +25,8 @@ Mozilla provides [documentation and best practices](https://hubs.mozilla.com/doc
 Publishing will generate a `Performance Check` offering suggestions for optimzing your Scene. Please click `Publish Scene` to proceed with publishing. When publishing is complete, a prompt will allow you to `View Your Scene`. Please note the URL of this new page, ending in `/scenes/ExAmPL3` This is the `Scene ULR` for your Scene. From this page, Creators may [`Create a Room with this Scene`](./glossary-room.md) or `Edit in Spoke`.
 
 ## 3D Software
-- [Mozilla Hubs Blender AddOn](https://hubs.mozilla.com/labs/what-is-the-blender-add-on/)
+- [Mozilla Hubs Blender AddOn Info](https://hubs.mozilla.com/labs/what-is-the-blender-add-on/)
+- [Mozilla Hubs Blender AddOn Download](https://github.com/MozillaReality/hubs-blender-exporter/releases)
 - [Mozilla Hubs Optimize Tips](https://hubs.mozilla.com/labs/how-to-optimize-your-scenes/)
 
 Creators can also use more robust 3D modeling software to build more elaborate Scenes, with the most successful workflow being [Blender](https://blender.org). Before getting started, Creators should download and install the [Mozilla Hubs Blender AddOn](https://hubs.mozilla.com/labs/what-is-the-blender-add-on/) in their version of Blender, under `Edit > Preferences > Add-ons`. This provides access to many advanced features and tools under the `Object Propoerites` tab (the orange square icon). 
