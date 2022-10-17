@@ -7,7 +7,7 @@ nav_order:
 ---
 
 ## Rooms
-A `Room` is how we refer to unique instance (URL) of a 3D environment whereby multiple users can join simultaneously and occupy the same virtual space. 
+A `Room` is how we refer to unique instance (URL) of a 3D environment whereby multiple users can join simultaneously and occupy the same virtual space. If you are new to WebVR, we recommend visiting [https://hubs.mozilla.com](https://hubs.mozilla.com) and clicking `Create A Room` button on the bottom left to try it out for yourself.
 
 ## Creating a Room
 A Creator can generate a new Room at any time by opening their [`Scene Link`](./glossary-scene.md/#scene-links) and clicking the `Create a Room with this Scene` blue button in the center of the screen. A Room can also be generated in the Scene's [`Spoke Project`](./glossary-scene.md/#spoke) by clicking the `Open in Hubs` blue button in the top right of the Spoke Project.
