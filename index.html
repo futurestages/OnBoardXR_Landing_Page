@@ -93,23 +93,30 @@
 .navbar-expand-lg .navbar-nav{
 	gap:34px;
 }
-.nav .form-control{
+nav .form-control{
 	    border-color: #9f9f01 !important;
     border-width: 3px;
-    background: linear-gradient(#ffe24d 0,#ebc500 26%,#362e04 100%) !important;
+   
     border-radius: 0px;
 	color:white !important;
+	    background: transparent;
+    background-color: transparent !important;
+    border-radius: 0px;
+    color: white !important;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
 }
-.nav .form-control::placeholder {
+::placeholder {
   color: white;
  
 }
 
-.nav .form-control:-ms-input-placeholder {
+:-ms-input-placeholder {
 	color: white;
 }
 
-.nav .form-control::-ms-input-placeholder { 
+::-ms-input-placeholder { 
   color: red;
 }
 .header-example hr{
@@ -136,6 +143,7 @@
 }
 #main .row{
 	align-items:center;
+	    padding: 0px 4%;
 }
 #main .h3 a{
 	    font-size: 38px;
