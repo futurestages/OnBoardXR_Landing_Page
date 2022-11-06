@@ -46,4 +46,8 @@ Mozilla continues to update their Blender Addon for advanced features to optimiz
 ## Substance Painting
 Community Member [`Carla Knopp`]() guided [a workshop on Vertex and Substance Painting here](https://www.youtube.com/watch?v=gAyC0SGv0go). 
 
+## Origins
+Be careful of the origin of objects and scenes as this can cause known issues. A `Scene` should ideally never go below Y = 0. So if you would like users to descend down a staircase, place the lowest at the Origin and spawn users above on the "ground" level. 
+
+Any `Object` should set the origin point at the very center of the geometry or it will be lopsided when picked up or tossed in VR. This can be done in Blender by cliking on the object mesh and selecting Object > Set Origin > Origin To Geometry. 
 
