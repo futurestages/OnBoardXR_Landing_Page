@@ -1,13 +1,13 @@
 {
   "masterCard":{
     "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.activereplica.gif",
-    "heading": "Active Replica Lobby",
+    "heading": "XR Theater Lobby",
     "name": "Test your controls in our Sponsor Lobby",
     "leftOverlay": "https://i.ibb.co/cJ1p4ts/wasd.png",
     "rightOverlay": "https://i.ibb.co/y6Xbjcm/swipe.png",
     "category": "main",
-    "title": "Sponsor Lobby",
-    "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.activereplica.png",
+    "title": "Sample Lobby",
+    "artist": ".",
       "leftOverlayText":"Use your keyboard to move",
       "rightOverlayText":"Use your mouse to rotate",
     "link": "https://xrtheater.live"
@@ -678,91 +678,6 @@
           "ob"
         ]
       },
-      {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.futurestages.gif",
-        "heading": "Future Stages",
-        "name": "Free 3D Template",
-        "category": "lobbies",
-        "link": "https://hubs.mozilla.com/scenes/mUuYbYD",
-      "title": "",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hubs.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.hubs.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
-        "tags": [
-          "future",
-          "stage",
-          "template",
-          "model",
-          "venue"
-        ]
-      },
-      {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.enroute.gif",
-        "heading": "EnRoute",
-        "name": "Premiere Feb 2022",
-        "category": "lobbies",
-        "link": "https://www.enroute.space/",
-      "title": "",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.web.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.web.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
-        "tags": [
-          "enroute",
-          "space",
-          "game",
-          "web",
-          "id"
-        ]
-      },
-       {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.metamovie.gif",
-        "heading": "MetaMovie: Alien Rescue",
-        "name": "Premiere 20202",
-        "category": "lobbies",
-        "link": "https://www.themetamovie.com/",
-      "title": "",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.neos.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.neos.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
-        "tags": [
-          "neos",
-          "meta",
-          "movie",
-          "alien",
-          "jason",
-          "moore",
-          "theater"
-        ]
-      },
-      {
-        "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/lobby.ferryman.gif",
-        "heading": "Gumball Dreams",
-        "name": "Premiere Mar 2022",
-        "category": "lobbies",
-        "link": "https://www.ferrymancollective.com/gumball-dreams",
-      "title": "",
-      "leftOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vrchat.png",
-      "rightOverlay": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.blank.png",
-      "artist": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/logo.vrchat.png",
-      "leftOverlayText":"",
-      "rightOverlayText":"",
-        "tags": [
-          "vrchat",
-          "chat",
-          "ferry",
-          "sxsw",
-          "gumball",
-          "theater",
-          "theatre"
-        ]
-      },
-     
   
       {
         "image": "https://futurestages.github.io/OnBoardXR_Landing_Page/static/media/show.unwantedwaters.gif",
