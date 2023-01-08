@@ -45,4 +45,6 @@ This feature is the underlying inspiration behind the entire OnBoardXR Seasonal 
 
 Creators may also change the Scene using the [`Chat`](./glossary-chat.md) by typing the command `/scene` and their desired `Scene URL`. Example: `/scene https://hubs.mozilla.com/scenes/ExAmPL3` This shortcut is the underlying inspiration behind the OnBoardXR `[cue system`](./cue-system.md) based on the discovery that scripted commands could be deployed in-browser to change the virtual world. 
 
+At a 2022 hackathon, a community member Manuel showcased [developing `portals` in Hubs](https://www.youtube.com/watch?v=0wQCnFY6dUk) using a Blender addon. 
+
 
