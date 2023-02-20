@@ -6,10 +6,10 @@ nav_order: 3
 ---
 
 ## Join the next Season of Onboard
-
+OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase event. OnBoardXR is a non-profit, volunteer-driven initiative to onboard new artists and audiences into live performance on the immersive web. Therefore our events our held seasonally based on volunteer and participant availability. 
 
 ### Phases of Participation
-OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase event. OnBoardXR is a non-profit, volunteer-driven initiative to onboard new artists and audiences into live performance on the immersive web. Therefore our events our held seasonally based on volunteer and participant availability. The 2023 will include two seasonal showcases while offering support to continued development and production of previous prototypes. New proposals will be considered up to one (1) month before the beginning of each Showcase. All Participants will be required to attend a group overview one (1) month before the beginning of their Showcase, followed by a 2-week development and build cycle on Participants' own schedule. All Participating Artists will be expected to present a live performance prototype on the OnBoardXR platform during the Showcase dates and submit an academic paper documenting their process and learnings. 
+The 2023 will include two seasonal showcases while offering support to continued development and production of previous prototypes. New proposals will be considered up to one (1) month before the beginning of each Showcase. All Participants will be required to attend a group overview one (1) month before the beginning of their Showcase, followed by a 2-week development and build cycle on Participants' own schedule. All Participating Artists will be expected to present a live performance prototype on the OnBoardXR platform during the Showcase dates and submit an academic paper documenting their process and learnings. 
 
 #### **2023 Showcases**
 - May 8-22
