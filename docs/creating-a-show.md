@@ -25,6 +25,9 @@ OnBoardXR participants bring first-prototypes to life at the cutting edge of web
 * 2-week Build
 * 2-week Showcase
 
+## Submit A Proposal
+We host regular showcase opportunities and hackathons for our community to present new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
+
 ## Participation Requirements & Support
 | Requirements      | Support |
 | ----------- | ----------- |
@@ -44,8 +47,6 @@ OnBoardXR participants bring first-prototypes to life at the cutting edge of web
 |                 | Award Submission |
 
 
-## Submit A Proposal
-We host regular showcase opportunities and hackathons for our community to present new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
 
 ## The 21-Day Challenge
 In our fifth season, we released [a series of video tutorials](./obxr-21-day-challenge.md) to guide newcomers through the entire OnBoardXR pipeline and toolkit. To date, this series inspired the largest influx of new prototypes and members our community has experienced. This video series will step you through how to develop, build and launch your first virtual reality experience on your own schedule.
