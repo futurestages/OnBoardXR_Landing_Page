@@ -6,29 +6,26 @@ nav_order: 3
 ---
 
 ## Join the next Season of Onboard
-Our [Discord Community](https://discord.gg/qPgbxawu9W) is a place for knowledge sharing, mentorship and support. 
 
-Please remember, this community contains other freelance artists and technologists who are volunteering their time and talent for new performance prototypes and they are not obligated to respond or assist your own creative work. 
 
-As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
+### Phases of Participation
+OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase event. OnBoardXR is a non-profit, volunteer-driven initiative to onboard new artists and audiences into live performance on the immersive web. Therefore our events our held seasonally based on volunteer and participant availability. The 2023 will include two seasonal showcases while offering support to continued development and production of previous prototypes. New proposals will be considered up to one (1) month before the beginning of each Showcase. All Participants will be required to attend a group overview one (1) month before the beginning of their Showcase, followed by a 2-week development and build cycle on Participants' own schedule. All Participating Artists will be expected to present a live performance prototype on the OnBoardXR platform during the Showcase dates and submit an academic paper documenting their process and learnings. 
 
-## Phases of Participation
-OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase.
-
-**2023 Showcases**
+#### 2023 Showcases**
 - May 8-22
 - October 2-16
 
-**Timeline**
+#### Timeline**
 * Accepting Proposals up to 1 month before Showcase
 * Attend 15-minute Overview and Q&A 1 month before Showcase
 * 2-week Build
 * 2-week Showcase
+* Submit Paper / Documentation
 
-## Submit A Proposal
-We host regular showcase opportunities and hackathons for our community to present new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
+### Submit A Proposal
+We host regular showcase opportunities and think tanks for the development and presentation of new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
 
-## Participation Requirements & Support
+### Participation Requirements & Support
 | Requirements      | Support |
 | ----------- | ----------- |
 | A Live Performance Prototype | Free Server & Codebase Access for the duration of the Showcase |
@@ -48,8 +45,15 @@ We host regular showcase opportunities and hackathons for our community to prese
 
 
 
-## The 21-Day Challenge
-In our fifth season, we released [a series of video tutorials](./obxr-21-day-challenge.md) to guide newcomers through the entire OnBoardXR pipeline and toolkit. To date, this series inspired the largest influx of new prototypes and members our community has experienced. This video series will step you through how to develop, build and launch your first virtual reality experience on your own schedule.
+### The 21-Day Challenge
+In our fifth season, we released [a series of video tutorials](./obxr-21-day-challenge.md) to guide newcomers through the entire OnBoardXR process and toolkit. This video series will step you through how to develop, build and launch your first prototype on your own schedule.
+
+### Discord Community
+Our [Discord Community](https://discord.gg/qPgbxawu9W) is a place for knowledge-sharing, mentorship and support both on and off season. 
+
+Please remember, this community contains other freelance artists and technologists who are volunteering their time and talent for new performance prototypes and they are not obligated to respond or assist your own creative work. 
+
+As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
 
 ## Programming Guidelines and Protocols
-Please review our [`Guidelines and Protocols`](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/glossary-guidelines/).
+Please review and follow our [`Guidelines and Protocols`](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/glossary-guidelines/).
