@@ -27,7 +27,7 @@ Cueing data is currently hosted on Firestore and is writable for approved users 
 ## Paper Tech
 TBD
 
-## Sample Cues
+## Cue Types and Samples
 
 ### Load Objects
 _Load object files into the scene with transform parameters..._
