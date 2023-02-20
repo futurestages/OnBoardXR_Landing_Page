@@ -12,6 +12,19 @@ Please remember, this community contains other freelance artists and technologis
 
 As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
 
+## Phases of Participation
+OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase.
+
+**2023 Showcases**
+- May 8-22
+- October 2-16
+
+**Timeline**
+* Accepting Proposals up to 1 month before Showcase
+* Attend 15-minute Overview and Q&A 1 month before Showcase
+* 2-week Build
+* 2-week Showcase
+
 ## Participation Requirements & Support
 | Requirements      | Support |
 | ----------- | ----------- |
