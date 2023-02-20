@@ -5,12 +5,20 @@ parent: Overview
 nav_order: 3
 ---
 
-## Join the OnBoardXR Community
+## Join the next Season of Onboard
 Our [Discord Community](https://discord.gg/qPgbxawu9W) is a place for knowledge sharing, mentorship and support. 
 
 Please remember, this community contains other freelance artists and technologists who are volunteering their time and talent for new performance prototypes and they are not obligated to respond or assist your own creative work. 
 
 As with any online community, we have a zero tolerance policy for harassment, hate speech and spam. As a rule, we do not allow unsolicited feedback or criticism. 
+
+## Participation Requirements & Support
+| Requirements      | Support |
+| ----------- | ----------- |
+| Live Performance(s)     | Support       |
+| Attribution   | Support         |
+| Code of Conduct    |     Support            |
+| Following Deadlines for Meetings, Rehearsals and Performances     |  Support    |
 
 ## Submit A Proposal
 We host regular showcase opportunities and hackathons for our community to present new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
