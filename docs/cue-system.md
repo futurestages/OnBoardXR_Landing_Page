@@ -86,34 +86,106 @@ The `groupChain` parameter in `trig` will allow you to specify the group for a c
 Most cues listed in the samples below are actually cues within cues which utilize the stage system's `action` `type: call_method_from_object` to pass cues to an external server which routes them to the correct user. These kinds of cues are useful due to the ability to control which connected users receive them (instead of everyone connected to a URL at once). The routing is controled by the parameter `action` -> `_cue` -> `target` -> `role` parameter. Additionally, if you want to send your cue to an individual, you can do so by writing "individual" under this `role` parameter, and by adding the optional `name` parameter immediately next to it. This name should correspond to the display name of the user you want to target.
 ```json
 {
-              "name": "Spawn_Vent",
-              "role": "remoteAudioTest",
-              "target": { },
-              "action": {"type": "call_method_from_object",
-                         "object_name": "sockSys",
-                         "function_name": "cueSocket",
-                         "_cue": {
-                          "name": "Spawn_Vent",
-                          "role": {},
-                          "target": { "type": "glb",
-                            "role": "individual", "name": "___",
-                                      "dest": "url",
-                                      "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/509c8312-bf7a-43d6-8958-c43dec5f1d99.glb"},
-                          "action": {"type": "spawn_item",
-                            "pos": {"x": 0, "y":1.5, "z":0},
-                            "rot": {"x": 0, "y":0, "z":0},
-                            "scale": {"x": 1, "y":1, "z":1}}
-                        }
-                        },
-            "trig": {"type": "button",
-                      "time": 0}
+    "name": "Spawn_Vent",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Spawn_Vent",
+            "role": {},
+            "target": { "type": "glb",
+                "role": "individual", "name": "___",
+                "dest": "url",
+                "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/509c8312-bf7a-43d6-8958-c43dec5f1d99.glb"},
+            "action": {"type": "spawn_item",
+                "pos": {"x": 0, "y":1.5, "z":0},
+                "rot": {"x": 0, "y":0, "z":0},
+                "scale": {"x": 1, "y":1, "z":1}}
             }
+        },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
 ```
 
-
-
 ### objMap
+TBD, this map can be left empty, but will soon be used to manage smart object loading for cues.
+
 ### animMap
+The `animMap` is an object exported from the [theatreJS](https://www.theatrejs.com/) studio editor when editing animations using "?t=obxtheatrejs" in your URL. For more information on using the studio editor, see the [theatreJS docs](https://www.theatrejs.com/docs/latest/manual/Studio). We have integrated the editor and core engine to allow for more complex animation editing. There are three important cues/cueing parameters to know about when using theatreJS for animations.
+1. If you wish to animate an object using the editor, you should add the `sheets` array parameter to the `action` portion of your spawn cue to specify the sheets your object should be added to, like so:
+```json
+{
+    "name": "NPC_SM_2_spawn_prop_omni",
+    "target": { "role": "general",
+        "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/3ae6b25b-30e0-48f3-a147-75df2e3e41ec.glb"},
+    "action": {"type": "socket_spawn_object",
+        "sheets": ["NPC_test_1_group", "NPC_test_2_group", "NPC_test_3_group"],
+            "applyGravityOnSpawn": false,
+            "pos": {"x": 0, "y": 10, "z": 0},
+            "rot": {"x": 0, "y":0, "z":0},
+            "scale": {"x": 1, "y":1, "z":1}}
+        },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
+2. If you would like to add your avatar to a sheet, use the following cue...
+```json
+{
+    "name": "test_add_avatar_animation",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "test_add_avatar_animation",
+            "target": { "role": "general"},
+            "action": {
+                "type": "avatar_sheets",
+                "sheets": ["NPC_test_1_group", "NPC_test_2_group", "NPC_test_3_group"]
+            }
+        }
+        },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
+3. You can cue individual sheets to run from your animMap using the following cue...
+```json
+{
+    "name": "Test_theatre_animation",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_theatre_animation",
+            "role": {},
+            "target": {
+                "role": "individual", "name": "___"},
+            "action": {
+                "type": "theatre_animation",
+                "sheet": "NPC_SM_ToS_group",
+              }
+            }
+            },
+    "trig": {"type": "button",
+          "time": 0
+      }
+}
+```
+
+### Cueing Shortcuts
+If you do not wish to constantly deploy your code, you can edit your file and use the following function in the developer tools to test your individual cue...
+`sockSys.cueSocket(PASTE _cue OBJECT HERE)`
 
 ## Paper Tech
 TBD
