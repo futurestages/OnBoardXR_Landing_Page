@@ -19,10 +19,101 @@ Cueing data is currently hosted on Firestore and is writable for approved users 
 
 ## Cueing Data
 ### Project Data Anatomy
-### Users
-### Cues & Grouping
-### Objects
-### Animations
+Projects have 5 important parts to manage cueing data: `userList`, `userMap`, `listCue`,  `objMap`, `animMap`. The following paragraphs cover the individual parts of cueing proejct data. Here is an empty sample of the data...
+```json
+{
+    "SampleProjectID" : {
+      "userList": [],
+      "userMap":{},
+      "listCue": [], 
+      "objMap": {},
+      "animMap": {}      
+    }
+}
+```
+
+### userList & userMap
+The existence of both the userList and userMap is a current, unfortunate redundancy that will hopefully be resolved in the near future. The `userList` is a simple array of all the role names for a project (strings entered with the URL flag `?r=` when connecting), which is used to associate project data with individual users of a project.
+```json
+"userList": ["mikeNPCSM", "cinematic", "brnd", "brnd2", "part1", "part2", "part3", "part4"]
+```
+The `userMap` is more complex, associating indiviudal project role names with their desired cueing role, desired display name, and whether they are a performer. The role name associates cues with individual users, the display name is automatically set in Mozilla Hubs when a user connects, and the performer true/false parameter allows the user to be grouped with other performers in cueing.
+```json
+"userMap":{
+          "mikeNPCSM": {"name":"___","role":"stagemanager", "performer": false},
+          "cinematic" : {"name": "camera", "role": "cinematic", "performer": false},
+          "brnd": {"name": "Brendan", "role": "brnd", "performer": true},
+          "brnd2": {"name": "Brendan2", "role": "stagemanager", "performer": true},
+          "part1": {"name":"part1","role":"participant", "performer": false},
+          "part2": {"name":"part2","role":"participant", "performer": false},
+          "part3": {"name":"part3","role":"participant", "performer": false},
+          "part4": {"name":"part4","role":"participant", "performer": false}
+}
+```
+
+### listCue
+`listCue` is a simple array containing all individual cues for your project. Their order does not matter functionally, however it will change the order in which they are displayed on your viewport. Here is a sample cue ...
+```json
+{
+  "name": "Spawn_Boulder",
+  "role": "listening",
+  "target": { "type": "glb",
+    "dest": "url",
+    "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/1d835ed7-5b88-4711-bbbc-479ee9f4f626.glb"},
+  "action": {"type": "spawn_item",
+    "pos": {"x": 0, "y":10, "z":4},
+    "rot": {"x": 0, "y":0, "z":0.9},
+    "scale": {"x": 2, "y":2, "z":2}},
+  "trig": {"type": "button",
+    "groupChain" : "Tutorial_1_group",
+    "time": 0
+  }
+}
+```
+You can see there are 5 main parts...
+`name` - the name of the cue to display on the cueing interface.
+`role` - the role to associated the cue with. NOTE: This is not the same as the role name. This is the value specified by the `role` parameter in `userMap`.
+`target` - information about the cueable
+`action` - parameters for the cue
+`trig` - delay and grouping information
+
+The parameters within these 5 parts, especially `target` and `action` will vary cue to cue. See sample cues below to get clearer information. The most important parameter determining the type of cue is the `type` parameter in `action`.
+
+##### Grouping Cues
+The `groupChain` parameter in `trig` will allow you to specify the group for a cue to be associated. If you choose to add the `groupChain` parameter to your cue (it is not required) it will no longer be rendered as an individual cue in the cueing interface, it will only be triggered with its group. `groupChain`'s value MUST contain "group" as part of the string naming the group.
+
+##### Socket Cues
+Most cues listed in the samples below are actually cues within cues which utilize the stage system's `action` `type: call_method_from_object` to pass cues to an external server which routes them to the correct user. These kinds of cues are useful due to the ability to control which connected users receive them (instead of everyone connected to a URL at once). The routing is controled by the parameter `action` -> `_cue` -> `target` -> `role` parameter. Additionally, if you want to send your cue to an individual, you can do so by writing "individual" under this `role` parameter, and by adding the optional `name` parameter immediately next to it. This name should correspond to the display name of the user you want to target.
+```json
+{
+              "name": "Spawn_Vent",
+              "role": "remoteAudioTest",
+              "target": { },
+              "action": {"type": "call_method_from_object",
+                         "object_name": "sockSys",
+                         "function_name": "cueSocket",
+                         "_cue": {
+                          "name": "Spawn_Vent",
+                          "role": {},
+                          "target": { "type": "glb",
+                            "role": "individual", "name": "___",
+                                      "dest": "url",
+                                      "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/509c8312-bf7a-43d6-8958-c43dec5f1d99.glb"},
+                          "action": {"type": "spawn_item",
+                            "pos": {"x": 0, "y":1.5, "z":0},
+                            "rot": {"x": 0, "y":0, "z":0},
+                            "scale": {"x": 1, "y":1, "z":1}}
+                        }
+                        },
+            "trig": {"type": "button",
+                      "time": 0}
+            }
+```
+
+
+
+### objMap
+### animMap
 
 ## Paper Tech
 TBD
