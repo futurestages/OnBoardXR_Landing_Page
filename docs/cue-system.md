@@ -83,7 +83,7 @@ The parameters within these 5 parts, especially `target` and `action` will vary 
 The `groupChain` parameter in `trig` will allow you to specify the group for a cue to be associated. If you choose to add the `groupChain` parameter to your cue (it is not required) it will no longer be rendered as an individual cue in the cueing interface, it will only be triggered with its group. `groupChain`'s value MUST contain "group" as part of the string naming the group.
 
 ##### Socket Cues
-Most cues listed in the samples below are actually cues within cues which utilize the stage system's `action` `type: call_method_from_object` to pass cues to an external server which routes them to the correct user. These kinds of cues are useful due to the ability to control which connected users receive them (instead of everyone connected to a URL at once). The routing is controled by the parameter `action` -> `_cue` -> `target` -> `role` parameter. Additionally, if you want to send your cue to an individual, you can do so by writing "individual" under this `role` parameter, and by adding the optional `name` parameter immediately next to it. This name should correspond to the display name of the user you want to target.
+Most cues listed in the samples below are actually cues within cues which utilize the stage system's `action` `type: call_method_from_object` to pass cues to an external server which routes them to the correct user. These kinds of cues are useful due to the ability to control which connected users receive them (instead of everyone connected to a URL at once). The routing is controled by the parameter `action` -> `_cue` -> `target` -> `role` parameter. Additionally, if you want to send your cue to an individual, you can do so by writing "individual" under this `role` parameter, and by adding the optional `name` parameter immediately next to it. This name should correspond to the display name of the user you want to target. LASTLY, in order to prevent cues being broadcast to unnecessary scenes, you must include the `sceneLink` parameter within `_cue` with your environment's scene url.
 ```json
 {
     "name": "Spawn_Vent",
@@ -195,9 +195,92 @@ TBD
 ### Load Objects
 _Load object files into the scene with transform parameters..._
 ##### `spawn_item`
+NON-SOCKET
+```json
+{
+  "name": "Spawn_Boulder",
+  "role": "listening",
+  "target": { "type": "glb",
+    "dest": "url",
+    "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/1d835ed7-5b88-4711-bbbc-479ee9f4f626.glb"},
+  "action": {"type": "spawn_item",
+    "pos": {"x": 0, "y":10, "z":4},
+    "rot": {"x": 0, "y":0, "z":0.9},
+    "scale": {"x": 2, "y":2, "z":2}},
+  "trig": {"type": "button",
+    "groupChain" : "Tutorial_1_group",
+    "time": 0
+  }
+}
+```
+SOCKET
+```json
+{
+    "name": "Spawn_Vent",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Spawn_Vent",
+            "role": {},
+            "target": { "type": "glb",
+                "role": "individual", "name": "___",
+                "dest": "url",
+                "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/509c8312-bf7a-43d6-8958-c43dec5f1d99.glb"},
+            "action": {"type": "spawn_item",
+                "pos": {"x": 0, "y":1.5, "z":0},
+                "rot": {"x": 0, "y":0, "z":0},
+                "scale": {"x": 1, "y":1, "z":1}}
+            }
+        },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `spawn_prop`
-##### `load_360_video`
+```json
+{
+    "name": "Test_3_spawn_prop",
+    "role": "test",
+    "target": {"type": "glb",
+        "dest": "url",
+        "src":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"},
+    "action": {"type": "spawn_prop",
+        "rot": {"x": 0, "y":1.57, "z":0},
+        "scale": {"x": 1.2, "y":1.2, "z":1.2}},
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `load_360_image`
+```json
+{
+    "name": "test_socket_load_360",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_socket_load_360",
+            "target": { "role": "general" },
+            "action": { "type": "load_360_image",
+                "src" : "https://xrtheater-assets.xrtheater.live/files/be8aac0d-cef1-464e-9026-2eb76e863062.png",
+                "position" : {"x": 23.486209337511696, "y":0, "z":-34.45660006785802},
+                "scale" : {"x": 20, "y": 20, "z": 20}
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPCgroup6Skybox1",
+        "time": 0
+    }
+}
+```
 ##### `spawn_particle_emitter`
 ##### `spawn_fog`
 ##### `spawn_360_gif`
