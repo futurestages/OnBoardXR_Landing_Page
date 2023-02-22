@@ -1022,14 +1022,156 @@ SOCKET
 ### Settings and Permissions
 _Change the settigns and permissions of users..._
 ##### `socket_toggle_flight`
+```json
+{
+    "name": "toggle_flight",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "toggle_flight",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": { "role": "individual", 
+            "name": "Brendan" },
+            "action": { "type": "socket_toggle_flight",
+                "flight" : true}
+            }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_ToS_group",
+        "time": 1500
+    }
+}
+```
 ##### `socket_toggle_movement`
+```json
+{
+    "name": "toggle_movement",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "toggle_movement",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": { "role": "participant" },
+            "action": { "type": "socket_toggle_movement",
+                "movement" : true
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_ToS_group",
+        "time": 1500
+    }
+}
+```
 ##### `change_rolloff`
+```json
+{
+    "name": "change_rolloff",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "change_rolloff",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": { "role": "general" },
+            "action": { "type": "change_rolloff",
+                "names": ["Brendan"],
+                "rolloff": 9999999,
+                "refDistance": 0.0000001
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "groupLGTTBBackup",
+        "time": 0
+    }
+}
+```
 
 
 ### Meta Cueing
 _Used to manipulate the cueing system or called by cueing system internally..._
 ##### `call_global_function`
+```json
+{
+    "name": "global_function",
+    "role": "none",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "global_function",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": { "role": "general" },
+            "action": {"type": "call_global_function",
+                "function_name":"handleCueObjectAnim",
+                "mapItem": "NPC_SM_6_corpse_rock_1", 
+                "pause": false
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 33000
+    }
+}
+```
 ##### `webapp_cue`
-##### `pause_object_anim_on_spawn`
-##### `reflector_remote_scale_audio`
+_Webapp cue do not need a type, simply send to role mobilewebapp_
+```json
+{
+    "name": "webapp_cue",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "webapp_cue",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role": {},
+            "target": { "type": "glb",
+            "role": "mobilewebapp"},
+            "action": {
+                "cuedPopup": false,
+                "cuedPopupURL": "https://jigsawhubs.github.io/Jigsaw_data/image/IMG_3673.gif"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_2_group",
+        "time": 47500
+    }
+}
+```
 ##### `avatar_sheets`
+```json
+{
+    "name": "add_av_to_sheets",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "add_av_to_sheets",
+            "target": { "role": "general"},
+            "action": {
+                "type": "avatar_sheets",
+                "sheets": ["NPC_test_1_group", "NPC_test_2_group", "NPC_test_3_group"]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
