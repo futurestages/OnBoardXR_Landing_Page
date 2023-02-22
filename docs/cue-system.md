@@ -94,6 +94,7 @@ Most cues listed in the samples below are actually cues within cues which utiliz
         "function_name": "cueSocket",
         "_cue": {
             "name": "Spawn_Vent",
+            "sceneLink": "sceneurl",
             "role": {},
             "target": { "type": "glb",
                 "role": "individual", "name": "___",
@@ -145,6 +146,7 @@ The `animMap` is an object exported from the [theatreJS](https://www.theatrejs.c
         "function_name": "cueSocket",
         "_cue": {
             "name": "test_add_avatar_animation",
+            "sceneLink": "sceneurl",
             "target": { "role": "general"},
             "action": {
                 "type": "avatar_sheets",
@@ -168,6 +170,7 @@ The `animMap` is an object exported from the [theatreJS](https://www.theatrejs.c
         "function_name": "cueSocket",
         "_cue": {
             "name": "Test_theatre_animation",
+            "sceneLink": "sceneurl",
             "role": {},
             "target": {
                 "role": "individual", "name": "___"},
@@ -224,6 +227,7 @@ SOCKET
         "function_name": "cueSocket",
         "_cue": {
             "name": "Spawn_Vent",
+            "sceneLink": "sceneurl",
             "role": {},
             "target": { "type": "glb",
                 "role": "individual", "name": "___",
@@ -267,6 +271,7 @@ SOCKET
         "function_name": "cueSocket",
         "_cue": { 
             "name": "test_socket_load_360",
+            "sceneLink": "sceneurl",
             "target": { "role": "general" },
             "action": { "type": "load_360_image",
                 "src" : "https://xrtheater-assets.xrtheater.live/files/be8aac0d-cef1-464e-9026-2eb76e863062.png",
@@ -281,55 +286,738 @@ SOCKET
     }
 }
 ```
-##### `spawn_particle_emitter`
-##### `spawn_fog`
 ##### `spawn_360_gif`
+```json
+{
+    "name": "test_360_gif",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_360_gif",
+            "sceneLink": "sceneurl",
+            "target": { "role" : ["participant"]},
+                "action": { "type": "spawn_360_gif",
+                "src": "https://jigsawhubs-1-assets.onboardxr.live/files/5fb239de-5970-4e18-8106-e16d67f17b1a.gif"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_SM_2_group",
+        "time": 0
+    }
+}
+```
 ##### `share_camera`
-
+```json
+{
+    "name": "Test_shareCamera",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_shareCamera",
+            "sceneLink": "sceneurl",
+            "role": {},
+            "target": {"role": "individual", "name": "___"},
+            "action": {"type": "share_camera",
+                "position" : {"x": 0, "y":10, "z":0},
+                "scale" : {"x": 10, "y": 10, "z": 10},
+                "rotation" : {"x": 0, "y": 0, "z": 0}
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
+##### `socket_spawn_object`
+```json
+{
+    "name": "test_spawn_socket_object",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "test_spawn_socket_object",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "general",
+                "src":  "https://uploads-prod.reticulum.io/files/22c46825-f1e5-4f28-9b97-5cf78572d717.glb"},
+            "action": {"type": "socket_spawn_object",
+                "applyGravityOnSpawn": false,
+                "pos": {"x": -48.154061404451596, "y":20.49999999999997, "z":-7.473024652855674},
+                "rot": {"x": 0, "y":0, "z":0},
+                "scale": {"x": 0.01, "y":0.01, "z":0.01}
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_8_descend_group",
+        "time": 0
+    }
+}
+```
 
 ### Delete Objects
 _Delete object files from the scene..._
 ##### `delete`
-##### `delete_socket_obj`
-
+NON-SOCKET
+```json
+{
+    "name": "Test_delete",
+    "role": "test",
+    "target": { "type": "glb",
+        "src": "Test_2_spawn_item_video"},
+    "action": {"type": "delete"},
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
+SOCKET
+```json
+{
+    "name": "test_socket_delete",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_socket_delete",
+            "sceneLink": "sceneurl",
+            "target": { "role": "general" },
+            "action": { "type": "delete",
+                "src" : "NPC_SM_2_spawn_prop_omni"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_4_group",
+        "time": 55000
+    }
+}
+```
 
 ### Object Commands
 _Manipulate parameters and active components on objects in your scene..._
-##### `play_360_cutscene`
-##### `manipulate_particle_emitter`
-##### `manipulate_fog`
-##### `cue_object_animation`
 ##### `play_360_gif`
-##### `socket_spawn_object`
+```json
+{
+    "name": "test_play_360_gif",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_play_360_gif",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": {"role" : ["participant"]},
+                "mapItem": "NPC_SM_2_path_gif",
+                "fadeDuration": 3000,
+                "fadeDelay": 8000
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 72000
+    }
+}
+```
 ##### `remote_scale_audio`
+```json
+{
+    "name": "test_scale_audio",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+         "object_name": "sockSys",
+         "function_name": "cueSocket",
+         "_cue": {
+            "name": "test_scale_audio",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role":"remoteAudioTest",
+            "target": { "role" : "individual",
+                "name" : "___"
+            },
+            "action": {
+                "type": "remote_scale_audio",
+                "minValue": 1,
+                "maxValue": 2,
+                "itemName": ["Spawn_Vent"],
+                "remoteAnalyserNetId": "avatar-rig"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `remote_morph_audio`
+```json
+{
+    "name": "Test_morph_audio",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_morph_audio",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role":"remoteAudioTest",
+            "target": { "role" : "individual",
+                "name" : "Brendan"
+            },
+            "action": {
+                "type": "remote_morph_audio",
+                "minValue": 0,
+                "maxValue": 4,
+                "name": "Mouth_1",
+                "itemName": ["NPC_SM_9_Spawn_Mouth_1"],
+                "remoteAnalyserNetId": "avatar-rig"
+            }
+       }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_7_mouth1_group",
+        "time": 0
+    }
+}
+```
 ##### `change_material_color`
+```json
+{
+    "name": "Test_changematcolor",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_changematcolor",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role": {},
+            "target": {"role": "individual", "name": "___"},
+            "action": {"type": "change_material_color",
+                "color": "dodgerblue",
+                "element" : ".Terrain_Crater1glb"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `remove_interaction`
+```json
+{
+    "name": "Test_removeinteract",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_removeinteract",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role": {},
+            "target": {"role": "individual", "name": "___"},
+            "action": {"type": "remove_interaction",
+                "element" : "Spawn_Vent"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `apply_gravity`
-
+```json
+{
+    "name": "Test_applyGravity",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "Test_applyGravity",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "role": {},
+            "target": {"role": "individual", "name": "___"},
+            "action": {"type": "apply_gravity",
+                "element" : "Spawn_Vent"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 
 ### Animations
 _Animate transform and other parameters on objects and avatars..._
 ##### `move`
+```json
+{
+    "name": "Test_move_Avocado_fm_Test_1",
+    "role": "test",
+    "target": { "type": "glb",
+        "dest": "local",
+        "src": "Test_1_spawn_item_avocado"},
+    "action": {"type": "move",
+        "duration": 2000,
+        "loop": true,
+        "pos": {"x": 3, "y":3, "z":3},
+        "rot": {"x": 0, "y":39.785, "z":0},
+        "scale": {"x": 2, "y":2, "z":2}},
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `track_object`
+```json
+{
+    "name": "test_track_object",
+    "role": "cut",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "test_track_object",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": {
+                "role": ["spectator", "participant"],
+                "aspect": "position"
+            },
+            "action": {
+                "type": "track_object",
+                "mapItem": "NPCe_5b",
+                "attr": "object3D",
+                "anime": {
+                    "targets": "position",
+                    "delay": 1000,
+                    "loop": false,
+                    "autoplay": false,
+                    "easing": "easeInOutSine",
+                    "duration": 1000
+                },
+                "timelines": [
+                    {
+                        "x": -47.2,
+                        "y": 1.44079791,
+                        "z": -4.8,
+                        "rx": 0,
+                        "ry": 0,
+                        "rz": 0,
+                        "s": 0.05,
+                        "duration": 72000,
+                        "delay": 0,
+                        "easing": "linear"
+                    }
+                ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 25000
+    }
+}
+```
 ##### `recall_audience`
+```json
+{
+    "name": "test_recall",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "NPCe_16",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": ["participant"]
+            },
+            "action": { "type": "recall_audience",
+                "waypoint" : "lanternWaypoint",
+                "maxDist" : 2,
+                "enableMotion" : false
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_8_group",
+        "time": 0
+    }
+}
+```
 ##### `manipulate_skybox_360`
-##### `manipulate_360_image`
+```json
+{
+    "name": "test_socket_manipulate_skybox_360",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_manipulate_skybox_360",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "general",
+                "aspect": "scale"
+            },
+            "action": { "type": "manipulate_skybox_360",
+                "mapItem" : "NPC_61A",
+                "anime": {
+                "targets": "",
+                "delay" : 0,
+                "loop": false,
+                "autoplay": false,
+                "easing": "easeInSine",
+                "duration": 5000
+            },
+            "timelines" : [
+                { "x": 4500, "y": 4500, "z": 4500 }
+            ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPCgroup6Skybox2",
+        "time": 0
+    }
+}
+```
 ##### `socket_manipulate_object`
+```json
+{
+    "name": "test_sock_manipulate_object",
+    "role": "remoteAudioTest",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_sock_manipulate_object",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "individual", "name": "Brendan", "aspect" : "position"},
+            "action": { "type" : "socket_manipulate_object",
+                "mapItem": "Spawn_Rock_9",
+                "attr": "object3D",
+                "anime" : {
+                "targets": "position",
+                "delay" : 0,
+                "loop": false,
+                "autoplay": true,
+                "easing": "easeInOutSine",
+                "duration": 4000
+                },
+            "timelines" : [
+                {"x": 6.667657888801241, "y": 3.8, "z": -13.454713739238263}
+            ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "EVERYTHING_AT_ONCE_group",
+        "time": 0
+    }
+}
+```
 ##### `socket_fade_skybox_opacity`
+```json
+{
+    "name": "fade_skybox",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "fade_skybox",
+            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
+            "target": { "role": "general" },
+            "action": { "type": "socket_fade_skybox_opacity",
+            "mapItem" : "NPC_SM_2_load_360_skybox",
+            "fadeDuration" : 3000}
+            }
+        },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_4_group",
+        "time": 74000
+    }
+}
+```
 ##### `change_animation`
+```json
+{
+    "name": "change_animation",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "change_animation",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "role": {},
+            "target": { "type": "glb",
+                "role": "general"},
+            "action": {"type": "change_animation", "mapItem": "NPCe_18","animName" : "act.01", "networkedId": "nonNetworked"}
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_8_group",
+        "time": 14000
+   }
+}
+```
 ##### `lock_waypoint`
+```json
+{
+    "name": "test_lock_waypoint",
+    "role": "demo",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_lock_waypoint",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "general" },
+            "action": { "type" : "lock_waypoint",
+                "waypoint" : "NPCWaypoint81",
+                "recallAud" : true,
+                "maxDist" : 0.001,
+                "anime" : {
+                "targets": "",
+                "delay" : 1000,
+                "loop": false,
+                "autoplay": true,
+                "easing": "easeOutSine",
+                "duration": 7500
+                },
+            "timelines" : [
+                { "x": -47.389263582373, "y": 2.876098918548304, "z": -7.5257407256272264, "duration": 10000, "delay": 1000 }
+            ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `theatre_animation`
+```json
+{
+    "name": "Test_theatre_animation",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+        "name": "Test_theatre_animation",
+        "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+        "role": {},
+        "target": {
+            "role": "individual", "name": "___"},
+        "action": {
+            "type": "theatre_animation",
+            "sheet": "NPC_SM_ToS_group",
+            "tracking": [
+                {
+                "object":"NPC_SM_2_spawn_prop_omni",
+                "followers": [
+                    {
+                    "name": "Avatar",
+                    "offset": {"x": -2.8835482597351074, "y": 3.7702087402343736, "z": -2.2604736328124773}
+                    }
+                ]
+                }
+            ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 
 
 ### Avatar Commands
 _Change avatars and the transform positions of individual avatars..._
 ##### `jump_to_waypoint`
+NON-SOCKET
+```json
+{
+    "name": "Test_jump_to_waypoint",
+    "role": "test",
+    "target": { },
+    "action": {"type": "jump_to_waypoint",
+        "anchor":"#SHWaypoint"},
+    "trig": {"type": "button",
+        "time": 0
+    }
+}   
+```
+SOCKET
+```json
+{
+    "name": "test_socket_jump",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "test_socket_jump",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "role": "brnd",
+            "target": { "role": "individual",
+                "name": "Brendan"},
+            "action": {"type": "jump_to_waypoint",
+                "anchor":"#brndLantern"}
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_8_group",
+        "time": 14500
+    }
+}
+```
 ##### `change_avatar`
+NON-SOCKET
+```json
+{
+    "name": "test_change",
+    "role":"naomi",
+    "target": { },
+    "action": {"type": "change_avatar",
+        "link":"https://jigsawhubs.github.io/Jigsaw_data/avatar/NAOMI_NaomiAvatar.glb"},
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
+SOCKET
+```json
+{
+    "name": "test_socket_change",
+    "role": "none",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": {
+            "name": "test_socket_change",
+            "role":"stagemanager",
+            "target": { "role" : "participant"},
+            "action": {"type": "change_avatar",
+                "link":"https://jigsawhubs.github.io/Jigsaw_data/avatar/NPC_A_24.glb"
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "time": 59000
+    }
+}
+```
 ##### `manipulate_avatar`
+```json
+{
+"name": "test_manip_avatar",
+    "role": "stagemanager",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_manip_avatar",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role" : "individual", "name": "Brendan",
+            "aspect" : "position" },
+            "action": { "type": "manipulate_avatar",
+            "attr": "object3D",
+            "anime": {
+                "targets": "",
+                "delay" : 0,
+                "loop": false,
+                "autoplay": true,
+                "easing": "easeInSine",
+                "duration": 0
+            },
+            "timelines" : [
+                {"x": -80.56781006268669, "y": 22.11494720458983, "z": -13.944862796980713, "duration": 15000, "easing": "linear", "delay": 0}
+            ]
+            }
+        }
+    },
+    "trig": {"type": "button",
+        "groupChain" : "NPC_9_group",
+        "time": 30000
+    }
+}
+```
 ##### `avatar_change_back`
+```json
+{
+    "name": "change_aud_avatar_back",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_avatar_change_back",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "participant" },
+            "action": { "type": "avatar_change_back"}
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 ##### `hop_to_spawn_point`
-
+```json
+{
+    "name": "test_to_spawn",
+    "role": "test",
+    "target": { },
+    "action": {"type": "call_method_from_object",
+        "object_name": "sockSys",
+        "function_name": "cueSocket",
+        "_cue": { 
+            "name": "test_to_spawn",
+            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
+            "target": { "role": "ghost" },
+            "action": { "type": "hop_to_spawn_point"}
+        }
+    },
+    "trig": {"type": "button",
+        "time": 0
+    }
+}
+```
 
 ### Settings and Permissions
 _Change the settigns and permissions of users..._
