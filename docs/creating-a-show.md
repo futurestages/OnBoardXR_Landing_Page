@@ -37,7 +37,7 @@ We host regular showcase opportunities and think tanks for the development and p
 - Submit a Case Study to be published in OnBoardXR blog or journals
 
 #### Participation Support
-- Free Server & Codebase Access for the duration of the Showcase
+- Free [`Server & Codebase`](./glossary-codebase.md) Access for the duration of the Showcase
 - Access to OnBoardXR's Tools
 - Access to OnBoardXR's Articles & Tutorials
 - Creative Control & Ownership of your Prototype
