@@ -36,7 +36,7 @@ We host regular showcase opportunities and think tanks for the development and p
 - Follow our Deadlines for Meetings, Rehearsals and Performances 
 - Follow our Deliverables for Scenes, Assets and Documentation
 - Promote the Showcase within your own network, social media and email list
-- Submit a [`Case Study`]([./case-studies.md](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/case-studies) to be published in OnBoardXR blog or journals
+- Submit a [`Case Study`](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/case-studies) to be published in OnBoardXR blog or journals
 
 #### Participation Support
 - Free [`Server & Codebase`](./dev-with-us.md) Access for the duration of the Showcase
