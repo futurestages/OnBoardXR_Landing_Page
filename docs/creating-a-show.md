@@ -31,7 +31,7 @@ We host regular showcase opportunities and think tanks for the development and p
 
 #### Participation Requirements
 - A Live Performance Prototype
-- Lifelong Attribution of OnBoardXR Contributions
+- Lifelong [`Attribution`](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/branding/#attribution) of OnBoardXR Contributions
 - Follow our Code of Conduct
 - Follow our Deadlines for Meetings, Rehearsals and Performances 
 - Follow our Deliverables for Scenes, Assets and Documentation
@@ -39,7 +39,7 @@ We host regular showcase opportunities and think tanks for the development and p
 - Submit a Case Study to be published in OnBoardXR blog or journals
 
 #### Participation Support
-- Free [`Server & Codebase`](./glossary-codebase.md) Access for the duration of the Showcase
+- Free [`Server & Codebase`](./dev-with-us.md) Access for the duration of the Showcase
 - Access to OnBoardXR's Tools
 - Access to OnBoardXR's Articles & Tutorials
 - Creative Control & Ownership of your Prototype
