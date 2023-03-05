@@ -16,7 +16,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 ### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) | [Support](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-apps/using-oculus-browser/) & ([Send urls directly to headset](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
 > - [Pico Browser](https://play.google.com/store/apps/details?id=com.pico.browser&hl=en_US&gl=US) | *Known Bug: Must toggled onto "Mobile" to force "immersive mode."
-> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality)) | *NOT RECOMMENDED: Dropped frames appear white "blinking" or "strobing." 
+> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox](https://mixedreality.mozilla.org/firefox-reality)) | *NOT RECOMMENDED: Dropped frames appear white "blinking."
 > - SteamVR | *Not Tested
 > - [Viveport Browser Focus](https://www.vive.com/uk/support/vive-focus/category_howto/browsing-the-web.html) | *Not Tested
 ### Desktop Browsers
