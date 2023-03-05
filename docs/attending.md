@@ -15,14 +15,10 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 
 ### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
-> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality))
+> - Pico Browser
+> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality)) *Known Bug: Dropped frames appear white which can created uncomfortable "blinking" or "strobing."
 > 
 ### Desktop Browsers
-
-> - 
-
-
-> - Pico Browser
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
 > - [Safari](https://apps.apple.com/no/app/safari/id1146562112)
 
