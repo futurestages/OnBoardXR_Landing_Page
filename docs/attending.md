@@ -12,9 +12,16 @@ OnBoardXR supports live 3D events in your web browser. Your ticket link offers a
 OnBoardXR utilizes web-based virtual reality, also known as “social VR” or “WebXR” built upon the open-source client, [Mozilla Hubs. (You can learn more about that platform here.)](https://hubs.mozilla.com/docs/welcome.html) This allows (almost) any web connected device to enter a 3D virtual environment as a multi-player experience with other attendees represented as 3D [`avatars`](./glossary-avatars.md) and/or [`web cameras`](./glossary-webcam.md). This means our creators and audience do not require *any* special equipment to join our virtual experience. 
 
 ## What Browsers are Supported?
-> - [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality) ([Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/))
-> - [Wolvic](https://www.wolvic.com/en/)
+
+### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
+> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality) ([Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/))
+> 
+### Desktop Browsers
+
+> - 
+
+
 > - Pico Browser
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
 > - [Safari](https://apps.apple.com/no/app/safari/id1146562112)
