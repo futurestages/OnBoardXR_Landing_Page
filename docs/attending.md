@@ -20,7 +20,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 > - SteamVR
 > - [Vive Focus](https://www.vive.com/uk/support/vive-focus/category_howto/browsing-the-web.html)
 ### Desktop Browsers
-> - [Google Chrome](https://www.google.com/chrome/dr/download)
+> - [Google Chrome](https://www.google.com/chrome/dr/download) | [Support](https://immersiveweb.dev/chrome-support.html)
 > - [Safari](https://apps.apple.com/no/app/safari/id1146562112) | [Support](https://discussions.apple.com/thread/254295334)
 > - [Edge](https://learn.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/using-microsoft-edge)
 
