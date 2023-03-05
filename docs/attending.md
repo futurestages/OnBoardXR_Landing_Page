@@ -15,12 +15,14 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 
 ### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
-> - Pico Browser
+> - [Pico Browser](https://play.google.com/store/apps/details?id=com.pico.browser&hl=en_US&gl=US) *Known Bug: Must toggled onto "Mobile" rather than "Desktop" to force "immersive mode."
 > - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality)) *Known Bug: Dropped frames appear white which can created uncomfortable "blinking" or "strobing."
-> 
+> - SteamVR
+> - [Vive Focus](https://www.vive.com/uk/support/vive-focus/category_howto/browsing-the-web.html)
 ### Desktop Browsers
 > - [Google Chrome](https://www.google.com/chrome/dr/download)
-> - [Safari](https://apps.apple.com/no/app/safari/id1146562112)
+> - [Safari](https://apps.apple.com/no/app/safari/id1146562112) | [Support](https://discussions.apple.com/thread/254295334)
+> - [Edge](https://learn.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/using-microsoft-edge)
 
 ## Ticket Link
 Tickets are often available via [Everything Immersive](https://everythingimmersive.com/events/onboard) as a Pay-What-You-Want donation, currently averaging $15 across all attendees and $25+ for active participants. 
