@@ -15,7 +15,7 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 
 ### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) ([Send urls to headset (oculus)](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
-> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality) ([Send urls to headset (firefox)](https://blog.mozvr.com/fxr7/))
+> - [Wolvic](https://www.wolvic.com/en/) (formerly [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality))
 > 
 ### Desktop Browsers
 
