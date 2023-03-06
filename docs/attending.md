@@ -20,7 +20,8 @@ To join a performance, please use your device's web browser to access your uniqu
 > - [Pico Browser](https://play.google.com/store/apps/details?id=com.pico.browser&hl=en_US&gl=US) | *Known Bug: Must toggled onto "Mobile" to force "immersive mode."
 > - ~~[Wolvic](https://www.wolvic.com/en/) (formerly [Firefox](https://mixedreality.mozilla.org/firefox-reality))~~ | *NOT RECOMMENDED: Dropped frames appear white "blinking."
 ### PCVR (via SteamVR, HTC Vive, Valve Index, ect)
-> - [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) | *In SteamVR, [allow OpenXR](https://www.roadtovr.com/steamvr-update-brings-full-support-openxr-1-0/) and select "Use with PCVR." 
+> - [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) | *In SteamVR, [allow OpenXR](https://www.roadtovr.com/steamvr-update-brings-full-support-openxr-1-0/) and select "Use with PCVR."
+*[Follow instructions to access on PCVR.](./glossary-pcvr.md)* 
 ### Vive Focus
 > - [Viveport Browser Focus](https://www.vive.com/uk/support/vive-focus/category_howto/browsing-the-web.html) | *Not Tested
 ### Desktop Computer
