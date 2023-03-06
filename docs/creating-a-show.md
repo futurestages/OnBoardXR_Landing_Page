@@ -18,11 +18,15 @@ Each Season, a loose theme is proposed and Participating Artists are invited to 
 - October 2-16 | Theme: *"Interactive Audio-Visual & Narrative Sound Art"*
 
 #### **Timeline**
-* Accepting Proposals up to 1 month before Showcase
+The majority of particiaption occurs asynchronously at the convenience of your team with one scheduled check-in each week until we begin a more formal and structured rehearsal and showcase process to unify all the performances into a single run of show. 
+* Accepting Proposals up to 1 month before Showcase (*April 2, 2023)
 * Attend 15-minute Overview and Q&A 1 month before Showcase (*APRIL 4, 2023*)
-* 2-week Build
-* 2-week Showcase
-* Submit Paper / Documentation
+* Opt in or out of Showcase (*Deadline: April 8, 2023*)
+* 2-week Play/Experiment (*April 10-23*)
+* 2-week Build (*April 24 - May 7*)
+* Structured Rehearsals (*May 8-12*)
+* Formal Showcase (*May 13-19*)
+* Submit Paper / Documentation (*Deadline May 26*)
 
 ### Submit A Proposal
 We host regular showcase opportunities and think tanks for the development and presentation of new work. This is an open-submission process via a standard application to ensure you understand the tools and procedures for OnBoardXR. A [step-by-step guide to our application](https://discord.com/channels/849041584905388053/957669626408493087/957691545220444300) is on our Discord, otherwise you may [directly access the application here](https://forms.gle/nbnhGV1jp4xgtFQ1A).
