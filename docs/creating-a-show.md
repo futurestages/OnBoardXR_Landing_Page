@@ -5,7 +5,7 @@ parent: Overview
 nav_order: 3
 ---
 
-## Join the next Season of Onboard
+## Join the next Season of ⚑OnBoardXR
 OnBoardXR participants bring first-prototypes to life at the cutting edge of web-based virtual reality in a combined showcase event. OnBoardXR is a non-profit, volunteer-driven initiative to onboard new artists and audiences into live performance on the immersive web. Therefore our events our held seasonally based on volunteer and participant availability. 
 
 ### Phases of Participation
@@ -18,14 +18,14 @@ Each Season, a loose theme is proposed and Participating Artists are invited to 
 - October 2-16 | Theme: *"Interactive Audio-Visual & Narrative Sound Art"*
 
 #### **Timeline**
-The majority of particiaption occurs asynchronously at the convenience of your team with one scheduled check-in each week until we begin a more formal and structured rehearsal and showcase process to unify all the performances into a single run of show. 
+The majority of particiaption occurs asynchronously at the convenience of your team with one scheduled check-in each week until we begin a more formal and structured rehearsal and showcase process (⚑) to unify all the performances into a single run of show. 
 * Accepting Proposals up to 1 month before Showcase (*April 2, 2023)
-* Attend 15-minute Overview and Q&A 1 month before Showcase (*APRIL 4, 2023*)
+* ⚑ Attend 15-minute Overview and Q&A 1 month before Showcase (*APRIL 4, 2023*)
 * Opt in or out of Showcase (*Deadline: April 8, 2023*)
 * 2-week Play/Experiment (*April 10-23*)
 * 2-week Build (*April 24 - May 7*)
-* Structured Rehearsals (*May 8-12*)
-* Formal Showcase (*May 13-19*)
+* ⚑ Structured Rehearsals (*May 8-12*)
+* ⚑ Formal Showcase (*May 13-19*)
 * Submit Paper / Documentation (*Deadline May 26*)
 
 ### Submit A Proposal
