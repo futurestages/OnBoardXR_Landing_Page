@@ -19,7 +19,7 @@ Each Season, a loose theme is proposed and Participating Artists are invited to 
 
 #### **Timeline**
 * Accepting Proposals up to 1 month before Showcase
-* Attend 15-minute Overview and Q&A 1 month before Showcase
+* Attend 15-minute Overview and Q&A 1 month before Showcase (*APRIL 4, 2023*)
 * 2-week Build
 * 2-week Showcase
 * Submit Paper / Documentation
