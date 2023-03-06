@@ -14,16 +14,21 @@ OnBoardXR utilizes web-based virtual reality, also known as “social VR” or �
 ## What Browsers are Supported?
 To join a performance, please use your device's web browser to access your unique ticket URL and select the *"Join Room"* button. If specifically using [`PCVR`](./glossary-pcvr.md), there is a second button to *"Use with PCVR"* for additional instructions.  
 
-### VR Browsers
+### Meta Oculus Quest
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) | [Support](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-apps/using-oculus-browser/) & ([Send urls directly to headset](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
+### PICO
 > - [Pico Browser](https://play.google.com/store/apps/details?id=com.pico.browser&hl=en_US&gl=US) | *Known Bug: Must toggled onto "Mobile" to force "immersive mode."
-> - ~~[Wolvic](https://www.wolvic.com/en/) (formerly [Firefox](https://mixedreality.mozilla.org/firefox-reality))~~ | *NOT RECOMMENDED: Dropped frames appear white "blinking."
+> > - ~~[Wolvic](https://www.wolvic.com/en/) (formerly [Firefox](https://mixedreality.mozilla.org/firefox-reality))~~ | *NOT RECOMMENDED: Dropped frames appear white "blinking."
+### PCVR (via SteamVR, HTC Vive, Valve Index, ect)
 > - [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) | *In SteamVR, [allow OpenXR](https://www.roadtovr.com/steamvr-update-brings-full-support-openxr-1-0/) and select "Use with PCVR." 
+### Vive Focus
 > - [Viveport Browser Focus](https://www.vive.com/uk/support/vive-focus/category_howto/browsing-the-web.html) | *Not Tested
-### Desktop Browsers
+### Desktop Computer
 > - [Google Chrome](https://www.google.com/chrome/dr/download) | [Support](https://immersiveweb.dev/chrome-support.html)
 > - [Safari](https://apps.apple.com/no/app/safari/id1146562112) | [Support](https://discussions.apple.com/thread/254295334)
 > - [Edge](https://learn.microsoft.com/en-us/windows/mixed-reality/enthusiast-guide/using-microsoft-edge) | 
+### Mobile / Tablet
+*It is not recommended to attend on mobile devices, however many experiences will function using the devices native web browser (Safari for IOS, Chrome for Android).
 
 ## Ticket Link
 Tickets are often available via [Everything Immersive](https://everythingimmersive.com/events/onboard) as a Pay-What-You-Want donation, currently averaging $15 across all attendees and $25+ for active participants. 
