@@ -1,6 +1,12 @@
+---
+layout: default
+id: PCVR
+title: PVCR
+parent: Repository
+nav_order: 
+---
 
-### PCVR
-
+## PCVR
 
 ### Attending Show using PCVR
 1) Enable OpenXR on SteamVR
