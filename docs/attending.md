@@ -12,7 +12,7 @@ OnBoardXR supports live 3D events in your web browser. Your ticket link offers a
 OnBoardXR utilizes web-based virtual reality, also known as “social VR” or “WebXR” built upon the open-source client, [Mozilla Hubs. (You can learn more about that platform here.)](https://hubs.mozilla.com/docs/welcome.html) This allows (almost) any web connected device to enter a 3D virtual environment as a multi-player experience with other attendees represented as 3D [`avatars`](./glossary-avatars.md) and/or [`web cameras`](./glossary-webcam.md). This means our creators and audience do not require *any* special equipment to join our virtual experience. 
 
 ## What Browsers are Supported?
-To join a performance, please use your device's web browser to access your unique ticket URL and select the "Join Room" button. If specifically using [`PCVR`](./glossary-pcvr.md), there is a second button to "Use with PCVR" for additional instructions.  
+To join a performance, please use your device's web browser to access your unique ticket URL and select the *"Join Room"* button. If specifically using [`PCVR`](./glossary-pcvr.md), there is a second button to *"Use with PCVR"* for additional instructions.  
 
 ### VR Browsers
 > - [Oculus Browser](https://www.oculus.com/experiences/quest/1916519981771802/) | [Support](https://www.meta.com/help/quest/articles/in-vr-experiences/oculus-apps/using-oculus-browser/) & ([Send urls directly to headset](https://screenrant.com/send-iphone-android-browser-links-meta-quest-vr-headset-how/))
