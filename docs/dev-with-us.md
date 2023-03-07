@@ -23,7 +23,14 @@ nav_order: 4
 * https://www.guru99.com/download-install-node-js.html
 * https://nodejs.org/en/download/
 
-### 
+### Continued Steps for Local Deployment
+5. Create a New Folder on your Computer where you'd like to store this code.
+6. In VSCode, go to File > Open Folder to begin working inside this Folder
+7. Now in your Terminal, type `git clone https://github.com/XHARBOR/ThePortFront-TMP.git`
+8. You may be prompted to Download and Install the Command Line Developer Tools. Please follow those instructions.
+9. If you needed Step 8, please repeat Step 7. 
+10. You should see `Cloning into 'ThePortFront-TMP'...` as it clones the Repository
+
 
 ### Mozilla Standard Text
 This page outlines opportunities for people who want to contribute to the OnBoardXR project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
