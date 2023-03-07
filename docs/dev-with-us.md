@@ -40,8 +40,12 @@ Note: You will never `deploy` or `commit` changes to this Repository.
 14. You will now need your own API Credentials to contribute your work to our database. 
 
 ### API Credentials
-Our Technical Director Michael Morran is the Admin on Firebase (where your cues can be stored). You will need your own unique credentials to access and deploy changes to this site. Please contact Michael at `theatrefestonline@gmail.com` to request your own credentials. 
+Our Technical Director Michael Morran is the Admin on Firebase (where your cues can be stored). You will need your own unique credentials to access and deploy changes to this site. Please contact Michael at `theaterfestonline@gmail.com` to request your own credentials. 
 
+15. In your folder structure in VSCode, look under ThePortFront-TMP > src > base.js
+16. Look for `appId: "AbUNchOFl3ttersAndNumbers",
+17. Add your API Key between the quotation marks
+18. Now you are ready to create and deploy cues *locally* on your computer.
 
 ### Mozilla Standard Text
 This page outlines opportunities for people who want to contribute to the OnBoardXR project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
