@@ -46,6 +46,8 @@ Our Technical Director Michael Morran is the Admin on Firebase (where your cues 
 16. Look for `appId: "AbUNchOFl3ttersAndNumbers",
 17. Add your API Key between the quotation marks
 18. Now you are ready to create and deploy cues *locally* on your computer.
+19. In Terminal, type `run npm dev`
+20. This should launch your default web browser to the webpage `http://localhost:3000/`
 
 ### Mozilla Standard Text
 This page outlines opportunities for people who want to contribute to the OnBoardXR project. We welcome external contributions that align with the project's mission around enabling collaboration and communication through shared 3D spaces. You can find information about how to contribute to Hubs and the supporting projects that make up the platform here. 
