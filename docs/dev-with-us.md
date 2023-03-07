@@ -25,11 +25,22 @@ nav_order: 4
 
 ### Continued Steps for Local Deployment
 5. Create a New Folder on your Computer where you'd like to store this code.
-6. In VSCode, go to File > Open Folder to begin working inside this Folder
+6. In VSCode, go to File > Open Folder to begin working inside this Folder. You may be prompted to agree you "Trust the Authors."
 7. Now in your Terminal, type `git clone https://github.com/XHARBOR/ThePortFront-TMP.git`
 8. You may be prompted to Download and Install the Command Line Developer Tools. Please follow those instructions.
 9. If you needed Step 8, please repeat Step 7. 
 10. You should see `Cloning into 'ThePortFront-TMP'...` as it clones the Repository
+11. Now we can "Do the Thing!" 
+
+Go to the README page for the Git Repository at: https://github.com/XHARBOR/ThePortFront-TMP.git for more detailed instructions.
+Note: You will never `deploy` or `commit` changes to this Repository. 
+
+12. Change Directory by typing `cd ThePortFront-TMP`
+13. Now type in Terminal `npm install`
+14. You will now need your own API Credentials to contribute your work to our database. 
+
+### API Credentials
+Our Technical Director Michael Morran is the Admin on Firebase (where your cues can be stored). You will need your own unique credentials to access and deploy changes to this site. Please contact Michael at `theatrefestonline@gmail.com` to request your own credentials. 
 
 
 ### Mozilla Standard Text
