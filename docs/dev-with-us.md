@@ -33,7 +33,8 @@ nav_order: 4
 11. Now we can "Do the Thing!" 
 
 Go to the README page for the Git Repository at: https://github.com/XHARBOR/ThePortFront-TMP.git for more detailed instructions.
-Note: You will never `deploy` or `commit` changes to this Repository. 
+
+*Note: Please do not `deploy` or `commit` changes to this README Repository to avoid confusing future users.* 
 
 12. Change Directory by typing `cd ThePortFront-TMP`
 13. Now type in Terminal `npm install`
