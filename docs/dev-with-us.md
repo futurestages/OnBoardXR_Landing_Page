@@ -11,7 +11,7 @@ nav_order: 4
 ### Prerequisites 
 * Make a [Github Profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile)
 * Downdload a Code Editor ([Visual Studio Code](https://code.visualstudio.com/download) used for below instructions)
-* Install [Node & NPM](/#installing-node--npm)
+* Install [Node & NPM](./#installing-node--npm)
 
 ### Setup Steps
 1. In top toolbar of VSCode, click Terminal > New Terminal
