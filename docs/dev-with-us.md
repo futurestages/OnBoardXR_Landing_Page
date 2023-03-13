@@ -32,9 +32,9 @@ nav_order: 4
 10. You should see `Cloning into 'ThePortFront-TMP'...` as it clones the Repository
 11. Now we can "Do the Thing!" 
 
-Go to the README page for the Git Repository at: https://github.com/XHARBOR/ThePortFront-TMP.git for more detailed instructions.
-
-*Note: Please do not `deploy` or `commit` changes to this README Repository to avoid confusing future users.* 
+> Go to the README page for the Git Repository at: https://github.com/XHARBOR/ThePortFront-TMP.git for more detailed instructions.
+> 
+> *Note: Please do not `deploy` or `commit` changes to this README Repository to avoid confusing future users.* 
 
 12. Change Directory by typing `cd ThePortFront-TMP`
 13. Now type in Terminal `npm install`
