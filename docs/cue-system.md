@@ -58,6 +58,7 @@ nav_order:
         1. [socket_toggle_flight](#socket_toggle_flight)
         2. [socket_toggle_movement](#socket_toggle_movement)
         3. [change_rolloff](#change_rolloff)
+        4. [change_scene](#change_scene)
     7. [Meta Cueing](#meta-cueing)
         1. [call_global_function](#call_global_function)
         2. [webapp_cue](#webapp_cue)
@@ -259,65 +260,83 @@ _Load object files into the scene with transform parameters..._
 ##### `spawn_item`
 NON-SOCKET
 ```json
-{
-  "name": "Spawn_Boulder",
-  "role": "listening",
-  "target": { "type": "glb",
-    "dest": "url",
-    "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/1d835ed7-5b88-4711-bbbc-479ee9f4f626.glb"},
-  "action": {"type": "spawn_item",
-    "pos": {"x": 0, "y":10, "z":4},
-    "rot": {"x": 0, "y":0, "z":0.9},
-    "scale": {"x": 2, "y":2, "z":2}},
-  "trig": {"type": "button",
-    "groupChain" : "Tutorial_1_group",
-    "time": 0
+  {
+    "name": "Spawn_Networked",
+    "role": "stagemanager",
+    "target": { 
+      "type": "glb",
+      "dest": "url",
+      "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/46ae2a98-68c6-4350-9a3b-ed0472c49922.glb"
+    },
+    "action": {
+      "type": "spawn_item",
+      "pos": {"x": 0, "y":10, "z":4},
+      "rot": {"x": 0, "y":0, "z":0.9},
+      "scale": {"x": 2, "y":2, "z":2}
+    },
+    "trig": {
+      "type": "button",
+      "groupChain" : "Tutorial_1_group",
+      "time": 0
+    }
   }
-}
 ```
 SOCKET
 ```json
-{
-    "name": "Spawn_Vent",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
+  {
+    "name": "Spawn_Networked",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
         "_cue": {
-            "name": "Spawn_Vent",
-            "sceneLink": "sceneurl",
-            "role": {},
-            "target": { "type": "glb",
-                "role": "individual", "name": "___",
-                "dest": "url",
-                "src":  "https://jigsawhubs-1-assets.onboardxr.live/files/509c8312-bf7a-43d6-8958-c43dec5f1d99.glb"},
-            "action": {"type": "spawn_item",
-                "pos": {"x": 0, "y":1.5, "z":0},
-                "rot": {"x": 0, "y":0, "z":0},
-                "scale": {"x": 1, "y":1, "z":1}}
-            }
-        },
-    "trig": {"type": "button",
-        "time": 0
+          "name": "Spawn_Networked",
+          "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+          "target": {
+            "type": "glb", 
+            "dest": "url",
+            "role": "performer",
+            "src": "https://jigsawhubs-1-assets.onboardxr.live/files/46ae2a98-68c6-4350-9a3b-ed0472c49922.glb"
+          },
+          "action": {
+            "type": "spawn_item",
+            "pauseOnSpawn": true,
+            "applyGravityOnSpawn" : false,
+            "pos": {"x": -8.845440864562988, "y": 0.970996618270874, "z": 25.50312614440918},
+            "rot": {"x": 0, "y": -1.4058846271510415, "z": 0},
+            "scale": {"x": 2, "y": 2, "z": 2}
+          }
+        }
+      },
+    "trig": {
+      "type": "button",
+      "groupChain": "Spawn_Networked_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `spawn_prop`
 ```json
-{
-    "name": "Test_3_spawn_prop",
-    "role": "test",
-    "target": {"type": "glb",
-        "dest": "url",
-        "src":  "https://xrtheater-assets.xrtheater.live/files/2acc1a73-429b-4895-b766-b28c954a39b2.glb"},
-    "action": {"type": "spawn_prop",
-        "rot": {"x": 0, "y":1.57, "z":0},
-        "scale": {"x": 1.2, "y":1.2, "z":1.2}},
-    "trig": {"type": "button",
-        "time": 0
+  {
+    "name": "Spawn_Prop",
+    "role": "stagemanager",
+    "target": { 
+      "type": "glb",
+      "dest": "url",
+      "src": "https://jigsawhubs-1-assets.onboardxr.live/files/0aae1be0-93e4-4aa4-b815-7391dd187f7b.glb"
+    },
+    "action": {
+      "type": "spawn_prop",
+      "rot": {"x": 0, "y": 0, "z": 0},
+      "scale": {"x": 2, "y": 2, "z": 2}},
+    "trig": {
+      "type": "button",
+      "groupChain": "Spawn_Prop_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `load_360_image`
 ```json
@@ -371,57 +390,68 @@ SOCKET
 ```
 ##### `share_camera`
 ```json
-{
-    "name": "Test_shareCamera",
-    "role": "test",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "Test_shareCamera",
-            "sceneLink": "sceneurl",
-            "role": {},
-            "target": {"role": "individual", "name": "___"},
-            "action": {"type": "share_camera",
-                "position" : {"x": 0, "y":10, "z":0},
-                "scale" : {"x": 10, "y": 10, "z": 10},
-                "rotation" : {"x": 0, "y": 0, "z": 0}
-            }
+  {
+    "name": "Share_Camera",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Share_Camera",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer"
+        },
+        "action": {
+          "type": "share_camera",
+          "position" : {"x": -3.5318191051483154, "y": 1.6381648778915405, "z": 11.742795944213867},
+          "scale" : {"x": 1.5, "y": 1.5, "z": 1.5},
+          "rotation" : {"x": 0, "y": -60, "z": 0}
         }
+      }
     },
-    "trig": {"type": "button",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Share_Camera_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `socket_spawn_object`
 ```json
-{
-    "name": "test_spawn_socket_object",
+  {
+    "name": "Spawn_Socket_Object",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "test_spawn_socket_object",
-            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
-            "target": { "role": "general",
-                "src":  "https://uploads-prod.reticulum.io/files/22c46825-f1e5-4f28-9b97-5cf78572d717.glb"},
-            "action": {"type": "socket_spawn_object",
-                "applyGravityOnSpawn": false,
-                "pos": {"x": -48.154061404451596, "y":20.49999999999997, "z":-7.473024652855674},
-                "rot": {"x": 0, "y":0, "z":0},
-                "scale": {"x": 0.01, "y":0.01, "z":0.01}
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Spawn_Socket_Object",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer",
+          "src": "https://jigsawhubs-1-assets.onboardxr.live/files/0aae1be0-93e4-4aa4-b815-7391dd187f7b.glb"
+        },
+        "action": {
+          "type": "socket_spawn_object",
+          "pauseOnSpawn": true,
+          "applyGravityOnSpawn" : false,
+          "pos": {"x": -8.819202423095703, "y": 0.9534885883331299, "z": 29.42129898071289},
+          "rot": {"x": 0, "y": -1.4058846271510415, "z": 0},
+          "scale": {"x": 2, "y": 2, "z": 2}
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_8_descend_group",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Spawn_Socket_Object_group",
+      "time": 0
     }
-}
+  }
 ```
 
 ### Delete Objects
@@ -442,27 +472,32 @@ NON-SOCKET
 ```
 SOCKET
 ```json
-{
-    "name": "test_socket_delete",
+  {
+    "name": "Delete",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "test_socket_delete",
-            "sceneLink": "sceneurl",
-            "target": { "role": "general" },
-            "action": { "type": "delete",
-                "src" : "NPC_SM_2_spawn_prop_omni"
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Delete",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer"
+        },
+        "action": { 
+          "type": "delete",
+          "src" : "Spawn_Networked"
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_4_group",
-        "time": 55000
+    "trig": {
+      "type": "button",
+      "groupChain": "Delete_group",
+      "time": 0
     }
-}
+  }
 ```
 
 ### Object Commands
@@ -493,33 +528,36 @@ _Manipulate parameters and active components on objects in your scene..._
 ```
 ##### `remote_scale_audio`
 ```json
-{
-    "name": "test_scale_audio",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-         "object_name": "sockSys",
-         "function_name": "cueSocket",
-         "_cue": {
-            "name": "test_scale_audio",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "role":"remoteAudioTest",
-            "target": { "role" : "individual",
-                "name" : "___"
-            },
-            "action": {
-                "type": "remote_scale_audio",
-                "minValue": 1,
-                "maxValue": 2,
-                "itemName": ["Spawn_Vent"],
-                "remoteAnalyserNetId": "avatar-rig"
-            }
+  {
+    "name": "Scale_Audio",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Scale_Audio",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "role":"remoteAudioTest",
+        "target": { 
+          "role": "performer"
+        },
+        "action": {
+          "type": "remote_scale_audio",
+          "minValue": 30,
+          "maxValue": 50,
+          "itemName": ["Spawn_Networked"],
+          "remoteAnalyserNetId": "avatar-rig"
         }
+      }
     },
-    "trig": {"type": "button",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Scale_Audio_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `remote_morph_audio`
 ```json
@@ -555,76 +593,91 @@ _Manipulate parameters and active components on objects in your scene..._
 ```
 ##### `change_material_color`
 ```json
-{
-    "name": "Test_changematcolor",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "Test_changematcolor",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "role": {},
-            "target": {"role": "individual", "name": "___"},
-            "action": {"type": "change_material_color",
-                "color": "dodgerblue",
-                "element" : ".Terrain_Crater1glb"
-            }
+  {
+    "name": "Change_Color",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Change_Color",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer"
+        },
+        "action": {
+          "type": "change_material_color",
+          "color": "red",
+          "element": "Spawn_Networked"
         }
+      }
     },
-    "trig": {"type": "button",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Change_Color_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `remove_interaction`
 ```json
-{
-    "name": "Test_removeinteract",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "Test_removeinteract",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "role": {},
-            "target": {"role": "individual", "name": "___"},
-            "action": {"type": "remove_interaction",
-                "element" : "Spawn_Vent"
-            }
+  {
+    "name": "Remove_Interaction",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Remove_Interaction",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer"
+        },
+        "action": {
+          "type": "remove_interaction",
+          "element" : "Spawn_Networked"
         }
+      }
     },
-    "trig": {"type": "button",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Remove_Interaction_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `apply_gravity`
 ```json
-{
-    "name": "Test_applyGravity",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "Test_applyGravity",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "role": {},
-            "target": {"role": "individual", "name": "___"},
-            "action": {"type": "apply_gravity",
-                "element" : "Spawn_Vent"
-            }
+  {
+    "name": "Apply_Gravity",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Apply_Gravity",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer"
+        },
+        "action": {
+          "type": "apply_gravity",
+          "element" : "Spawn_Networked"
         }
+      }
     },
-    "trig": {"type": "button",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Apply_Gravity_group",
+      "time": 0
     }
-}
+  }
 ```
 
 ### Animations
@@ -700,30 +753,34 @@ _Animate transform and other parameters on objects and avatars..._
 ```
 ##### `recall_audience`
 ```json
-{
-    "name": "test_recall",
+  {
+    "name": "Recall",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "NPCe_16",
-            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
-            "target": { "role": ["participant"]
-            },
-            "action": { "type": "recall_audience",
-                "waypoint" : "lanternWaypoint",
-                "maxDist" : 2,
-                "enableMotion" : false
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Recall",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer"
+        },
+        "action": { 
+          "type": "recall_audience",
+          "waypoint": "avocadoRecall",
+          "maxDist": 0.01,
+          "enableMotion": false
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_8_group",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Recall_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `manipulate_skybox_360`
 ```json
@@ -764,39 +821,45 @@ _Animate transform and other parameters on objects and avatars..._
 ```
 ##### `socket_manipulate_object`
 ```json
-{
-    "name": "test_sock_manipulate_object",
-    "role": "remoteAudioTest",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "test_sock_manipulate_object",
-            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
-            "target": { "role": "individual", "name": "Brendan", "aspect" : "position"},
-            "action": { "type" : "socket_manipulate_object",
-                "mapItem": "Spawn_Rock_9",
-                "attr": "object3D",
-                "anime" : {
-                "targets": "position",
-                "delay" : 0,
-                "loop": false,
-                "autoplay": true,
-                "easing": "easeInOutSine",
-                "duration": 4000
-                },
-            "timelines" : [
-                {"x": 6.667657888801241, "y": 3.8, "z": -13.454713739238263}
-            ]
-            }
+  {
+    "name": "Position_Object",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Position_Object",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer", 
+          "aspect": "position"
+        },
+        "action": { 
+          "type": "socket_manipulate_object",
+          "mapItem": "Spawn_Networked",
+          "attr": "object3D",
+          "anime": {
+            "targets": "position",
+            "delay" : 0,
+            "loop": false,
+            "autoplay": true,
+            "easing": "easeInOutSine",
+            "duration": 0
+          },
+          "timelines" : [
+            {"x": 19.979122506139536, "y": 20.517221926334754, "z": 0.10544329774965633, "easing": "easeInOutSine", "duration": 8000, "delay": 0}
+          ]
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "EVERYTHING_AT_ONCE_group",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "Move_Socket_Object_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `socket_fade_skybox_opacity`
 ```json
@@ -824,27 +887,35 @@ _Animate transform and other parameters on objects and avatars..._
 ```
 ##### `change_animation`
 ```json
-{
-    "name": "change_animation",
+  {
+    "name": "Blender_Animation",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "change_animation",
-            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
-            "role": {},
-            "target": { "type": "glb",
-                "role": "general"},
-            "action": {"type": "change_animation", "mapItem": "NPCe_18","animName" : "act.01", "networkedId": "nonNetworked"}
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Blender_Animation",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "type": "glb",
+          "role": "general"
+        },
+        "action": {
+          "type": "change_animation", 
+          "mapItem": "Spawn_Networked",
+          "animName": "AvocadoAction", 
+          "networkedId": "nonNetworked"
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_8_group",
-        "time": 14000
-   }
-}
+    "trig": {
+      "type": "button",
+      "groupChain": "Blender_Animation_group",
+      "time": 0
+    }
+  }
 ```
 ##### `lock_waypoint`
 ```json
@@ -926,16 +997,32 @@ _Change avatars and the transform positions of individual avatars..._
 ##### `jump_to_waypoint`
 NON-SOCKET
 ```json
-{
-    "name": "Test_jump_to_waypoint",
-    "role": "test",
-    "target": { },
-    "action": {"type": "jump_to_waypoint",
-        "anchor":"#SHWaypoint"},
-    "trig": {"type": "button",
-        "time": 0
+  {
+    "name": "Jump_To_Waypoint",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Jump_To_Waypoint",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer"
+        },
+        "action": {
+          "type": "jump_to_waypoint",
+          "anchor": "#avocadoRecall2"
+        }
+      }
+    },
+    "trig": {
+      "type": "button",
+      "groupChain": "Jump_To_Waypoint_group",
+      "time": 0
     }
-}   
+  }
 ```
 SOCKET
 ```json
@@ -965,75 +1052,89 @@ SOCKET
 ##### `change_avatar`
 NON-SOCKET
 ```json
-{
-    "name": "test_change",
-    "role":"naomi",
-    "target": { },
-    "action": {"type": "change_avatar",
-        "link":"https://jigsawhubs.github.io/Jigsaw_data/avatar/NAOMI_NaomiAvatar.glb"},
-    "trig": {"type": "button",
-        "time": 0
+  {
+    "name": "Change_Avatar",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "change_avatar",
+      "link":"https://jigsawhubs.github.io/Jigsaw_data/avatar/NAOMI_NaomiAvatar.glb"
+    },
+    "trig": {
+      "type": "button",
+      "time": 0
     }
-}
+  }
 ```
 SOCKET
 ```json
-{
-    "name": "test_socket_change",
-    "role": "none",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": {
-            "name": "test_socket_change",
-            "role":"stagemanager",
-            "target": { "role" : "participant"},
-            "action": {"type": "change_avatar",
-                "link":"https://jigsawhubs.github.io/Jigsaw_data/avatar/NPC_A_24.glb"
-            }
-        }
+  {
+    "name": "Change_Avatar",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Change_Avatar",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer"
+        },
+      "action": {
+        "type": "change_avatar",
+        "link": "https://jigsawhubs-1-assets.onboardxr.live/files/0aae1be0-93e4-4aa4-b815-7391dd187f7b.glb"
+      }
+      }
     },
-    "trig": {"type": "button",
-        "time": 59000
+    "trig": {
+      "type": "button",
+      "groupChain": "Change_Avatar_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `manipulate_avatar`
 ```json
-{
-"name": "test_manip_avatar",
+  {
+    "name": "Manipulate_Avatar_Scale",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "test_manip_avatar",
-            "sceneLink": "https://onboardxr.live/scenes/6AMAAZT/npc-staircase-20230205",
-            "target": { "role" : "individual", "name": "Brendan",
-            "aspect" : "position" },
-            "action": { "type": "manipulate_avatar",
-            "attr": "object3D",
-            "anime": {
-                "targets": "",
-                "delay" : 0,
-                "loop": false,
-                "autoplay": true,
-                "easing": "easeInSine",
-                "duration": 0
-            },
-            "timelines" : [
-                {"x": -80.56781006268669, "y": 22.11494720458983, "z": -13.944862796980713, "duration": 15000, "easing": "linear", "delay": 0}
-            ]
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Manipulate_Avatar_Scale",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer",
+          "aspect": "scale" 
+        },
+        "action": { 
+          "type": "manipulate_avatar",
+          "attr": "object3D",
+          "anime": {
+            "targets": "",
+            "delay": 0,
+            "loop": false,
+            "autoplay": false,
+            "easing": "linear",
+            "duration": 1
+          },
+          "timelines": [
+            {"x": 12, "y": 12, "z": 12, "delay": 0, "duration": 4000, "easing": "easeOutElastic(1, 0.5)"}
+          ]
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_9_group",
-        "time": 30000
+    "trig": {
+      "type": "button",
+      "groupChain": "Manipulate_Avatar_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `avatar_change_back`
 ```json
@@ -1082,77 +1183,121 @@ SOCKET
 _Change the settigns and permissions of users..._
 ##### `socket_toggle_flight`
 ```json
-{
-    "name": "toggle_flight",
+  {
+    "name": "Manipulate_Avatar_Disable_Flight",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "toggle_flight",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "target": { "role": "individual", 
-            "name": "Brendan" },
-            "action": { "type": "socket_toggle_flight",
-                "flight" : true}
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Manipulate_Avatar_Disable_Flight",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer" 
+        },
+        "action": { 
+          "type": "socket_toggle_flight",
+          "flight" : false
+        }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_ToS_group",
-        "time": 1500
+    "trig": {
+      "type": "button",
+      "groupChain": "Manipulate_Avatar_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `socket_toggle_movement`
 ```json
-{
-    "name": "toggle_movement",
+  {
+    "name": "Manipulate_Avatar_Disable_Movement",
     "role": "stagemanager",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "toggle_movement",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "target": { "role": "participant" },
-            "action": { "type": "socket_toggle_movement",
-                "movement" : true
-            }
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "Manipulate_Avatar_Disable_Movement",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "performer"
+        },
+        "action": { 
+          "type": "socket_toggle_movement",
+          "movement" : true
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "NPC_ToS_group",
-        "time": 1500
+    "trig": {
+      "type": "button",
+      "groupChain": "Manipulate_Avatar_group",
+      "time": 0
     }
-}
+  }
 ```
 ##### `change_rolloff`
 ```json
-{
-    "name": "change_rolloff",
-    "role": "test",
-    "target": { },
-    "action": {"type": "call_method_from_object",
-        "object_name": "sockSys",
-        "function_name": "cueSocket",
-        "_cue": { 
-            "name": "change_rolloff",
-            "sceneLink": "https://onboardxr.live/scenes/DsJhAka/npc-a-openingrebuild1125",
-            "target": { "role": "general" },
-            "action": { "type": "change_rolloff",
-                "names": ["Brendan"],
-                "rolloff": 9999999,
-                "refDistance": 0.0000001
-            }
+  {
+    "name": "God_Mic",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": { 
+        "name": "God_Mic",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": { 
+          "role": "general" 
+        },
+        "action": { 
+          "type": "change_rolloff",
+          "names": ["Avocado"],
+          "rolloff": 0,
+          "refDistance": 1
         }
+      }
     },
-    "trig": {"type": "button",
-        "groupChain" : "groupLGTTBBackup",
-        "time": 0
+    "trig": {
+      "type": "button",
+      "groupChain": "God_Mic_group",
+      "time": 0
     }
-}
+  }
+```
+##### `change_scene`
+```json
+  {
+    "name": "Change_Scene",
+    "role": "stagemanager",
+    "target": {},
+    "action": {
+      "type": "call_method_from_object",
+      "object_name": "sockSys",
+      "function_name": "cueSocket",
+      "_cue": {
+        "name": "Change_Scene",
+        "sceneLink": "https://onboardxr.live/scenes/p8nYMHH/avocadoadventuresteps1-7",
+        "target": {
+          "role": "performer"
+        },
+        "action": {
+          "type": "change_scene",
+          "link":"https://onboardxr.live/scenes/WJLehdx"
+        }
+      }
+    },
+    "trig": {
+      "type": "button",
+      "groupChain": "Change_Scene_group",
+      "time": 0
+    }
+  }
 ```
 
 
