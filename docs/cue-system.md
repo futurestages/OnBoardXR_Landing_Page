@@ -6,6 +6,65 @@ parent: Repository
 nav_order: 
 ---
 
+# Table of Contents
+1. [Overview](#overview)
+2. [History - Dev With Us](#history---dev-with-us)
+3. [Building Cues](#building-cues)
+    a. [Cue Deployment Server](#cue-deployment-server)
+4. [Cueing Data](#cueing-data)
+    a. [Project Data Anatomy](#project-data-anatomy)
+    b. [userList & userMap](#userlist-&-usermap)
+    c. [listCue](#listcue)
+    d. [Grouping Cues](#grouping-cues)
+    e. [Socket Cues](#socket-cues)
+    f. [objMap](#objmap)
+    g. [animMap](#animmap)
+    h. [Cueing Shortcuts](#cueing-shortcuts)
+6. [Paper Tech](#paper-tech)
+7. [Cueing Types and Samples](#cueing-types-and-samples)
+    a. [Load Objects](#load-objects)
+        i. [spawn_item](#spawn_item)
+        ii. [spawn_prop](#spawn_prop)
+        iii. [load_360_image](#load_360_image)
+        iv. [spawn_360_gif](#spawn_360_gif)
+        v. [share_camera](#share_camera)
+        vi. [socket_spwan_object](#socket_spawn_object)
+    b. [Delete Objects](#delete-objects)
+        i. [delete](#delete)
+    c. [Object Commands](#object-commands)
+        i. [play_360_gif](#play_360_gif)
+        ii. [remote_scale_audio](#remote_scale_audio)
+        iii. [remote_morph_audio](#remote_morph_audio)
+        iv. [change_material_color](#change_material_color)
+        v. [remove_interaction](#remove_interaction)
+        vi. [apply_gravity](#apply_gravity)
+    d. [Animations](#animations)
+        i. [move](#move)
+        ii. [track_object](#track_object)
+        iii. [recall_audience](#recall_audience)
+        iv. [manipulate_skybox_360](#manipulate_skybox_360)
+        v. [socket_manipulate_object](#socket_manipulate_object)
+        vi. [socket_fade_skybox_opacity](#socket_fade_skybox_opacity)
+        vii. [change_animation](#change_animation)
+        iix. [lock_waypoint](#lock_waypoint)
+        ix. [theatre_animation](#theatre_animation)
+    e. [Avatar Commands](#avatar-commands)
+        i. [jump_to_waypoint](#jump_to_waypoint)
+        ii. [change_avatar](#change_avatar)
+        iii. [manipulate_avatar](#manipulate_avatar)
+        iv. [avatar_change_back](#avatar_change_back)
+        v. [hop_to_spawn_point](#hop_to_spawn_point)
+    f. [Settings and Permissions](#settings-and-permissions)
+        i. [socket_toggle_flight](#socket_toggle_flight)
+        ii. [socket_toggle_movement](#socket_toggle_movement)
+        iii. [change_rolloff](#change_rolloff)
+    g. [Meta Cueing](#meta-cueing)
+        i. [call_global_function](#call_global_function)
+        ii. [webapp_cue](#webapp_cue)
+        iii. [avatar_sheets](#avatar_sheets)
+        
+----------------------------------------------------------------------------------------
+
 # Cue System
 ## Overview
 TBD
@@ -79,10 +138,10 @@ You can see there are 5 main parts...
 
 The parameters within these 5 parts, especially `target` and `action` will vary cue to cue. See sample cues below to get clearer information. The most important parameter determining the type of cue is the `type` parameter in `action`.
 
-##### Grouping Cues
+### Grouping Cues
 The `groupChain` parameter in `trig` will allow you to specify the group for a cue to be associated. If you choose to add the `groupChain` parameter to your cue (it is not required) it will no longer be rendered as an individual cue in the cueing interface, it will only be triggered with its group. `groupChain`'s value MUST contain "group" as part of the string naming the group.
 
-##### Socket Cues
+### Socket Cues
 Most cues listed in the samples below are actually cues within cues which utilize the stage system's `action` `type: call_method_from_object` to pass cues to an external server which routes them to the correct user. These kinds of cues are useful due to the ability to control which connected users receive them (instead of everyone connected to a URL at once). The routing is controled by the parameter `action` -> `_cue` -> `target` -> `role` parameter. Additionally, if you want to send your cue to an individual, you can do so by writing "individual" under this `role` parameter, and by adding the optional `name` parameter immediately next to it. This name should correspond to the display name of the user you want to target. LASTLY, in order to prevent cues being broadcast to unnecessary scenes, you must include the `sceneLink` parameter within `_cue` with your environment's scene url.
 ```json
 {
