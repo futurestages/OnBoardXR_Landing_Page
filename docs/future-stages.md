@@ -13,6 +13,12 @@ The Future Stages remains free and open for anyone to create their own virtual p
 
 This virtual playhouse has been used and customized by literally hundreds of artists and insitutions. The immediate impact and scalbility of offering a free-and-open tool for live performance on the immersive web influenced the original creative community and culture of OnBoardXR.
 
+## Debut: Proscenium & Blackbox
+The Future Stages launched with an exclusive walk-thru and article from Playbill, demonstrating two swapable interiors for `proscenium` and `blackbox` staging of live events from any audience or performer's web-connected device. The template was used for theater, film, classes, workshops, art galleries, and panels around the world and included in Mozilla Hub's promotional materials for 2020 product uses, including their 2021 Auggie Award for Best Collaboration Tool.
+
+## Comedy Club
+In the sixth season of OnBoardXR, Andy North customized the Future Stages for a third swapable interior of a classic stand-up comedy club for worldwide comedy acts to utilize the immersive web without access to VR equipment. 
+
 ## HERE Festival
 The first prototype of [`Jettison`](./jettison.md) was presented at The HERE Festival in October 2020 and became the groundwork for the inaugural [`OnBoardXR: Cruise`](./obxr-cruise.md) Showcase. 
 
