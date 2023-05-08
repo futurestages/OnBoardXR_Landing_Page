@@ -13,7 +13,7 @@ Our sixth seasonal showcase
 **The Jigsaw Ensemble** absorbed overhead costs as leading volunteers rebranded and reorganized OnBoardXR into a think-tank and rejuevinated its popular seasonal showcase receiving open-submissions from six participating artists.
 > 
 > Creative Technical Strategist:
-> CLEMENCE DEBAIG
+> [CLEMENCE DEBAIG](./unwired-dance.md)
 > 
 > WebXR Technical Architect:
 > MICHAEL MORRAN
