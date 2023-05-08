@@ -24,7 +24,7 @@ Our sixth seasonal showcase premiered May 12, 2023 under the playful title [*`It
 > [BRENDAN BRADLEY](./brendan-bradley.md)
 >
 > Production Dramaturgs 
-> [L. Nicole Cabe](./virtual-dramaturgy.md)
+> [L. NICOLE CABE](./virtual-dramaturgy.md)
 
 ### [OSCURE NERD COMEDY](./standup-comedy.md)
 Failed To Render alumni, Andy North, reimagines the [Future Stages](./future-stages.md) as a web-accessible comedy club to prototype stable showcases of worldwide comedians without VR equipment. 
