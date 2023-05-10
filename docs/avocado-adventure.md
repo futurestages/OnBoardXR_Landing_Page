@@ -2,7 +2,7 @@
 layout: default
 id: avocado-adventure
 title: The Great Avocado Adventure
-parent: Repository
+parent: Case Studies
 nav_order: 
 ---
 
