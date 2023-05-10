@@ -18,13 +18,15 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 ## Orchestra ticket
 *A Virtual Orchestra Seat denotes a “casual participant” who wishes to attend co-presently but separated from the performers. This method of viewing is collequially referred to as ghost mode based on the earliest 360 and VR performance where attendees were not embodied and could not interact with the content. This method is used across platforms and projects to scale experiences designed for intimate encounters. This experience simulates the orchestra section of commercial live productions offering “the best seat in the house” without breaking the “fourth wall.”*
 
+# How to join
+
 - [How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3)
 - [How to connect on PCVR (HTC Vive, Roft, Valve Index)](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-connect-on-pcvr-htc-vive-roft-valve-index)
 - [How to join with a computer](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-join-with-a-computer)
 - [Basic Controls & Troubleshooting](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#basic-controls--troubleshooting)
 
 
-# How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3
+## How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3
 
 -   Open your app list / library in the menu and select `Oculus Browser` (for Quest), `Pico Browser` (for Pico) or `Vive Browser` (for Vive Focus)
 -   Enter the URL provided via email
@@ -47,7 +49,7 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 
 
 
-# How to connect on PCVR (HTC Vive, Roft, Valve Index)
+## How to connect on PCVR (HTC Vive, Roft, Valve Index)
 
 ### 1) Enable OpenXR on SteamVR
 
@@ -70,7 +72,7 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 <img src="https://www.imagehost.at/images/2023/05/10/Active-PCVR.png" width="600">
 
 
-# How to join with a computer
+## How to join on a computer
 
 - Simply use the link provided in a web browser! Using `Chrome` is recommended
 - -   Depending on your ticket type:
@@ -94,10 +96,10 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 <img src="https://www.imagehost.at/images/2023/05/10/ComputerControls.png" width="300">
 [Please find a list of keyboard controls on Mozilla's blog](https://hubs.mozilla.com/docs/hubs-controls.html)
 
-## Support
+### Support
 If you are experiencing any difficulties, please let us know on Discord in the **#techsupport-reportbug** channel.
 Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbfE)
 
-## Refunds
+### Refunds
 [`Dasha Kittredge`](./dasha-kittredge.md) likes to say *"we are navigating the uncharted waters of the metaverse and things may get a bit choppy."* If your experience is unpleasant or interrupted, we understand you may wish to request a refund and are happy to receive these requests at: info (at) jigsawensemble (dot) com 
 However, we ask that you consider that every dollar of ticket sales is split between our participants to support their prototyping at the bleeding edge of what is possible. We hope you'll consider leaving your donation in the future of live performing arts on the immersive web and instead request a complimentary ticket to a later showtime.
