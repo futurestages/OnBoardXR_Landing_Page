@@ -14,7 +14,7 @@ Our sixth seasonal showcase premiered May 12, 2023 under the playful title [*`It
 ## Production & Sponsors
 **The Jigsaw Ensemble** absorbed overhead costs while leading volunteers rebranded and reorganized OnBoardXR into a think-tank and rejuevinated its popular seasonal showcase receiving open-submissions from six participating artists.
 > 
-> Creative Technical Strategist:
+> Creative Technology Strategist:
 > [CLEMENCE DEBAIG](./unwired-dance.md)
 > 
 > WebXR Technical Architect:
@@ -33,7 +33,7 @@ Failed To Render alumni, Andy North, reimagines the [Future Stages](./future-sta
 Avin Shah returns to OnBoardXR with a playable story about immigration to an unwelcoming country. The prototype is a first-look for his intended game on the FlipSideXR platform. Shah explored the migration of elements from a Unity3D package into web-based VR and a new cue to replace the navigation mesh of a 3D world to control the walkability of specific areas. 
 
 ### [DEGENERATE](./generative-ai.md): I Can Build It
-A live musical performance where the audience is provided an in-world keyboard to type prompts that genearte real-time A.I. art around the performer as a prototype for a fully user-generated story. Conceived and performed by Brendan Bradley with music by Bradley and Maurice Soque Jr. Clemence Debaig joined the project to integrate OpenAI's API for DALL-E and then send images to Remove.AI for background removal to display audience prompts as cut-out scenic elements.
+A live musical performance where the audience is provided an in-world keyboard to type prompts that genearte real-time A.I. art around the performer as a prototype for a fully user-generated story. Conceived and performed by Brendan Bradley with music by Bradley and Maurice Soque Jr. Clemence Debaig joined the project to integrate OpenAI's API for DALL-E and then send images to PicWish's API for background removal to display audience prompts as cut-out scenic elements.
 
 ### [GROVE](./grove.md): Goldfish
 Jason Wang, Candace Hudert, Elaina Chung and Dylin Cassidy Taylor present a first-look at a narrative escape room where audience members must help a coy fish explore the environment inside and around their lonley tank to help them escape. 
