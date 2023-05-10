@@ -18,10 +18,10 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 ## Orchestra ticket
 *A Virtual Orchestra Seat denotes a “casual participant” who wishes to attend co-presently but separated from the performers. This method of viewing is collequially referred to as ghost mode based on the earliest 360 and VR performance where attendees were not embodied and could not interact with the content. This method is used across platforms and projects to scale experiences designed for intimate encounters. This experience simulates the orchestra section of commercial live productions offering “the best seat in the house” without breaking the “fourth wall.”*
 
-How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3
-How to connect on PCVR (HTC Vive, Roft, Valve Index)
-How to join with a computer
-Basic Controls & Troubleshooting
+- [How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3)
+- [How to connect on PCVR (HTC Vive, Roft, Valve Index)](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-connect-on-pcvr-htc-vive-roft-valve-index)
+- [How to join with a computer](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-join-with-a-computer)
+- [Basic Controls & Troubleshooting](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#basic-controls--troubleshooting)
 
 
 # How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3
