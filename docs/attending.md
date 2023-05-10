@@ -22,7 +22,7 @@ Discord invitation: [https://discord.gg/vTAMAHkbfE](https://discord.gg/vTAMAHkbf
 
 - [How to join on a standalone VR headset such as a Meta Quest 2, Pico or Vive Focus 3](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3)
 - [How to connect on PCVR (HTC Vive, Roft, Valve Index)](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-connect-on-pcvr-htc-vive-roft-valve-index)
-- [How to join with a computer](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-join-with-a-computer)
+- [How to join on a computer](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#how-to-join-on-a-standalone-vr-headset-such-as-a-meta-quest-2-pico-or-vive-focus-3#how-to-join-with-a-computer)
 - [Basic Controls & Troubleshooting](https://futurestages.github.io/OnBoardXR_Landing_Page/docs/attending#basic-controls--troubleshooting)
 
 
